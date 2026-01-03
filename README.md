@@ -5,7 +5,8 @@
 - 🛠 Épp most hoztam létre az első **Access Tokenemet** és saját alkalmazásomat.
 - 🎯 Célom: Hatékonyabbá tenni a fejlesztési folyamataimat.
 
-### 🛠 Technológiák és Eszközök
+### 🛠 Technológiák és Eszközök<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,python,js&theme=dark" />
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
