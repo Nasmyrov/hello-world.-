@@ -13,7 +13,7 @@ def update_readme(trending):
         end_pos = content.find(end_marker)
 
         if start_pos != -1 and end_pos != -1:
-            new_text = "\n".join([f"- {item}" for item in trending])
+            new_text = "\n".join([f"- [{item}](https://github.com/{item})" for item in trending])
             new_content = (
                 content[:start_pos + len(start_marker)] +
                 "\n\n" + new_text + "\n\n" +
