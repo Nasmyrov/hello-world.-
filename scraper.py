@@ -1,46 +1,27 @@
-import requests
-from bs4 import BeautifulSoup
+def update_readme(trending):
+    try:
+        with open("README.md", "r", encoding="utf-8") as f:
+            content = f.read()
 
-def get_trending_repos():
-    url = "https://github.com/trending"
-    headers = {"User-Agent": "Mozilla/5.0"} # Ez jelzi a szervernek, hogy nem bot vagyunk
-    
-    response = requests.get(url, headers=headers)
-    if response.status_code != 200:
-        return "Hiba az oldal elérésekor"
+        start_marker = ""
+        end_marker = ""
 
-    soup = BeautifulSoup(response.text, 'html.parser')
-    repos = soup.find_all('h2', class_='h3 lh-condensed', limit=5)
+        start_pos = content.find(start_marker)
+        end_pos = content.find(end_marker)
 
-    trending_list = []
-    for repo in repos:
-        name = repo.get_text(strip=True).replace(' ', '')
-        trending_list.append(name)
-    
-    return trending_list
-
-def update_readme(trending_list):
-    with open("README.md", "r", encoding="utf-8") as f:
-        content = f.read()
-
-    start_marker = ""
-    end_marker = ""
-    
-    if start_marker not in content or end_marker not in content:
-        return # Ha nincs ott a jelölő, nem csinál semmit
-
-    new_text = f"{start_marker}\n" + "\n".join([f"- {repo}" for repo in trending_list]) + f"\n{end_marker}"
-    
-    # Kicseréljük a régi részt az új listával
-    import re
-    pattern = f"{start_marker}.*?{end_marker}"
-    updated_content = re.sub(pattern, new_text, content, flags=re.DOTALL)
-    
-    with open("README.md", "w", encoding="utf-8") as f:
-        f.write(updated_content)
-
-if __name__ == "__main__":
-    trending = get_trending_repos()
-    if isinstance(trending, list):
-        update_readme(trending)
-        print("Siker! A README.md frissítve a trending projektekkel.")
+        if start_pos != -1 and end_pos != -1:
+            # Összeállítjuk az új listát szövegként
+            new_text = "\n".join([f"- {item}" for item in trending])
+            
+            new_content = (
+                content[:start_pos + len(start_marker)] + 
+                "\n\n" + new_text + "\n\n" + 
+                content[end_pos:]
+            )
+            with open("README.md", "w", encoding="utf-8") as f:
+                f.write(new_content)
+            print("README sikeresen frissítve!")
+        else:
+            print("Hiba: Markerek nem találhatók a README-ben!")
+    except Exception as e:
+        print(f"Hiba történt: {e}")
