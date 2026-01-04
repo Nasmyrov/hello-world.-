@@ -1,17 +1,17 @@
-name: Python Web Monitor CI
+name: Python Web Monitor & Scraper
 
 on:
   push:
     branches: [ main ]
-  pull_request:
-    branches: [ main ]
   schedule:
-    # Ez a sor azt mondja: Minden óra 0. percében fusson le (UTC szerint)
-    - cron: '0 * * * *'
+    - cron: '0 * * * *'  # Minden óra 0. percében lefut
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    # Engedélyt adunk a robotnak, hogy módosítsa a fájlokat (írja a README-t)
+    permissions:
+      contents: write
 
     steps:
     - name: Repo letöltése
@@ -27,5 +27,16 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirements.txt
 
-    - name: Weboldalak ellenőrzése (Pytest)
+    - name: Tesztek futtatása
       run: pytest test_kalkulator.py
+
+    - name: Scraper futtatása és README frissítése
+      run: python scraper.py
+
+    - name: Változtatások visszaküldése a GitHubra
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git add README.md
+        # Csak akkor commitol, ha valóban változott valami
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-frissítés: Trending projektek" && git push)
