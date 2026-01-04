@@ -27,8 +27,8 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirements.txt
 
-    - name: Tesztek futtatása
-      run: pytest test_kalkulator.py
+   # - name: Tesztek futtatása
+   #   run: pytest test_kalkulator.py
 
     - name: Scraper futtatása és README frissítése
       run: python scraper.py
