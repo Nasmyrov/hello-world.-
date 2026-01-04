@@ -1,0 +1,21 @@
+name: CI (Folyamatos Integráció)
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: List files
+        run: ls -R
+
+      - name: Run a simple test
+        run: |
+          [ -f README.md ] && echo "README.md létezik!" || echo "Nincs README!"
