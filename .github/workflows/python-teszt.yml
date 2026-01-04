@@ -5,10 +5,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v4
-    - name: Python beállítása
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.10'
+    - name: Könyvtárak telepítése
+      run: pip install -r requirements.txt
     - name: Tesztek futtatása
-      run: |
-        python -m pytest test_kalkulator.py || (pip install pytest && python -m pytest test_kalkulator.py)
+      run: pytest test_kalkulator.py

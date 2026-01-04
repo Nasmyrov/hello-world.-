@@ -1,6 +1,9 @@
-from kalkulator import osszeadas
+from kalkulator import oldal_ellenorzes
 
-def test_osszeadas():
-    assert osszeadas(2, 3) == 5
-    assert osszeadas(-1, 1) == 0
-    assert osszeadas(10, 10) == 20
+def test_github_online():
+    # A 200-as kód jelenti, hogy az oldal él és virul
+    assert oldal_ellenorzes("https://github.com") == 200
+
+def test_hibas_oldal():
+    # Egy nem létező oldalra None-t vagy hibát kell kapnunk
+    assert oldal_ellenorzes("https://ez-az-oldal-biztosan-nem-letezik.hu") is None
