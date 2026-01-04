@@ -1,3 +1,4 @@
+[![Python CI Teszt](https://github.com/Nasmyrov/hello-world.-/actions/workflows/python-teszt.yml/badge.svg)](https://github.com/Nasmyrov/hello-world.-/actions/workflows/python-teszt.yml)
 # Szia, Nasmyrov vagyok! 👋
 
 ### 👨‍💻 Rólam
