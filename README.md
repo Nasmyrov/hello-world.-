@@ -143,6 +143,19 @@
 
 
 
+- [thedotmack /claude-mem](https://github.com/thedotmack/claude-mem)
+- [google /googletest](https://github.com/google/googletest)
+- [Lissy93 /web-check](https://github.com/Lissy93/web-check)
+- [microsoft /PowerToys](https://github.com/microsoft/PowerToys)
+- [protocolbuffers /protobuf](https://github.com/protocolbuffers/protobuf)
+- [ChromeDevTools /chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
+- [memvid /memvid](https://github.com/memvid/memvid)
+- [patchy631 /ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub)
+- [DrewThomasson /ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook)
+- [marcelscruz /public-apis](https://github.com/marcelscruz/public-apis)
+
+
+
 - [protocolbuffers /protobuf](https://github.com/protocolbuffers/protobuf)
 - [Lissy93 /web-check](https://github.com/Lissy93/web-check)
 - [microsoft /PowerToys](https://github.com/microsoft/PowerToys)
