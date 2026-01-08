@@ -65,6 +65,19 @@
 
 
 
+- [ChromeDevTools /chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
+- [anthropics /claude-code](https://github.com/anthropics/claude-code)
+- [nothings /stb](https://github.com/nothings/stb)
+- [MiroMindAI /MiroThinker](https://github.com/MiroMindAI/MiroThinker)
+- [protocolbuffers /protobuf](https://github.com/protocolbuffers/protobuf)
+- [thedotmack /claude-mem](https://github.com/thedotmack/claude-mem)
+- [xpipe-io /xpipe](https://github.com/xpipe-io/xpipe)
+- [Lissy93 /web-check](https://github.com/Lissy93/web-check)
+- [google /googletest](https://github.com/google/googletest)
+- [apache /superset](https://github.com/apache/superset)
+
+
+
 - [thedotmack /claude-mem](https://github.com/thedotmack/claude-mem)
 - [google /googletest](https://github.com/google/googletest)
 - [Lissy93 /web-check](https://github.com/Lissy93/web-check)
