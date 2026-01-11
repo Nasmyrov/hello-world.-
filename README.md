@@ -195,6 +195,19 @@
 
 
 
+- [anthropics /claude-code](https://github.com/anthropics/claude-code)
+- [ChromeDevTools /chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
+- [github /awesome-copilot](https://github.com/github/awesome-copilot)
+- [NevaMind-AI /memU](https://github.com/NevaMind-AI/memU)
+- [obra /superpowers](https://github.com/obra/superpowers)
+- [google /googletest](https://github.com/google/googletest)
+- [xpipe-io /xpipe](https://github.com/xpipe-io/xpipe)
+- [bytedance /UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)
+- [C4illin /ConvertX](https://github.com/C4illin/ConvertX)
+- [opf /openproject](https://github.com/opf/openproject)
+
+
+
 - [ChromeDevTools /chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
 - [anthropics /claude-code](https://github.com/anthropics/claude-code)
 - [obra /superpowers](https://github.com/obra/superpowers)
