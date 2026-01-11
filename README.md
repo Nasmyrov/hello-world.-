@@ -156,6 +156,19 @@
 
 
 
+- [anomalyco /opencode](https://github.com/anomalyco/opencode)
+- [obra /superpowers](https://github.com/obra/superpowers)
+- [frankbria /ralph-claude-code](https://github.com/frankbria/ralph-claude-code)
+- [davila7 /claude-code-templates](https://github.com/davila7/claude-code-templates)
+- [makeplane /plane](https://github.com/makeplane/plane)
+- [twitter /twemoji](https://github.com/twitter/twemoji)
+- [bytedance /UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)
+- [twentyhq /twenty](https://github.com/twentyhq/twenty)
+- [home-assistant /home-assistant.io](https://github.com/home-assistant/home-assistant.io)
+- [anthropics /claude-code](https://github.com/anthropics/claude-code)
+
+
+
 - [anthropics /claude-code](https://github.com/anthropics/claude-code)
 - [ChromeDevTools /chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
 - [github /awesome-copilot](https://github.com/github/awesome-copilot)
