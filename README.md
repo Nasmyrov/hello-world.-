@@ -91,6 +91,19 @@
 
 
 
+- [DioxusLabs /dioxus](https://github.com/DioxusLabs/dioxus)
+- [NanmiCoder /MediaCrawler](https://github.com/NanmiCoder/MediaCrawler)
+- [frankbria /ralph-claude-code](https://github.com/frankbria/ralph-claude-code)
+- [iptv-org /iptv](https://github.com/iptv-org/iptv)
+- [hacksider /Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
+- [bytedance /UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)
+- [obra /superpowers](https://github.com/obra/superpowers)
+- [ruvnet /claude-flow](https://github.com/ruvnet/claude-flow)
+- [home-assistant /home-assistant.io](https://github.com/home-assistant/home-assistant.io)
+- [mpv-player /mpv](https://github.com/mpv-player/mpv)
+
+
+
 - [anomalyco /opencode](https://github.com/anomalyco/opencode)
 - [obra /superpowers](https://github.com/obra/superpowers)
 - [frankbria /ralph-claude-code](https://github.com/frankbria/ralph-claude-code)
