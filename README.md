@@ -101,6 +101,16 @@
 
 
 - [obra /superpowers](https://github.com/obra/superpowers)
+- [twitter /the-algorithm](https://github.com/twitter/the-algorithm)
+- [dev-sec /ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening)
+- [mudler /LocalAI](https://github.com/mudler/LocalAI)
+- [grab /cursor-talk-to-figma-mcp](https://github.com/grab/cursor-talk-to-figma-mcp)
+- [zoicware /RemoveWindowsAI](https://github.com/zoicware/RemoveWindowsAI)
+- [rancher /rancher](https://github.com/rancher/rancher)
+
+
+
+- [obra /superpowers](https://github.com/obra/superpowers)
 - [icloud-photos-downloader /icloud_photos_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader)
 - [blakeblackshear /frigate](https://github.com/blakeblackshear/frigate)
 - [twitter /the-algorithm](https://github.com/twitter/the-algorithm)
