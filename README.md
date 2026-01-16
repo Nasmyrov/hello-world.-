@@ -247,6 +247,19 @@
 
 
 
+- [eigent-ai /eigent](https://github.com/eigent-ai/eigent)
+- [blakeblackshear /frigate](https://github.com/blakeblackshear/frigate)
+- [obra /superpowers](https://github.com/obra/superpowers)
+- [cilium /cilium](https://github.com/cilium/cilium)
+- [wavetermdev /waveterm](https://github.com/wavetermdev/waveterm)
+- [ultralytics /ultralytics](https://github.com/ultralytics/ultralytics)
+- [mudler /LocalAI](https://github.com/mudler/LocalAI)
+- [google-ai-edge /mediapipe](https://github.com/google-ai-edge/mediapipe)
+- [puckeditor /puck](https://github.com/puckeditor/puck)
+- [twitter /the-algorithm](https://github.com/twitter/the-algorithm)
+
+
+
 - [obra /superpowers](https://github.com/obra/superpowers)
 - [twitter /the-algorithm](https://github.com/twitter/the-algorithm)
 - [dev-sec /ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening)
