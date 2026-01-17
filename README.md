@@ -18,6 +18,14 @@
 
 - [eigent-ai /eigent](https://github.com/eigent-ai/eigent)
 - [obra /superpowers](https://github.com/obra/superpowers)
+- [puckeditor /puck](https://github.com/puckeditor/puck)
+- [google /langextract](https://github.com/google/langextract)
+- [iOfficeAI /AionUi](https://github.com/iOfficeAI/AionUi)
+
+
+
+- [eigent-ai /eigent](https://github.com/eigent-ai/eigent)
+- [obra /superpowers](https://github.com/obra/superpowers)
 - [afkarxyz /SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC)
 - [puckeditor /puck](https://github.com/puckeditor/puck)
 - [google /langextract](https://github.com/google/langextract)
