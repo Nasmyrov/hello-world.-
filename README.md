@@ -9,6 +9,15 @@
 
 
 
+- [eigent-ai /eigent](https://github.com/eigent-ai/eigent)
+- [obra /superpowers](https://github.com/obra/superpowers)
+- [afkarxyz /SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC)
+- [puckeditor /puck](https://github.com/puckeditor/puck)
+- [google /langextract](https://github.com/google/langextract)
+- [iOfficeAI /AionUi](https://github.com/iOfficeAI/AionUi)
+
+
+
 - [obra /superpowers](https://github.com/obra/superpowers)
 - [Gentleman-Programming /Gentleman.Dots](https://github.com/Gentleman-Programming/Gentleman.Dots)
 - [google /langextract](https://github.com/google/langextract)
