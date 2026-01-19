@@ -22,6 +22,17 @@
 
 
 
+- [OpenBMB /VoxCPM](https://github.com/OpenBMB/VoxCPM)
+- [google /langextract](https://github.com/google/langextract)
+- [iOfficeAI /AionUi](https://github.com/iOfficeAI/AionUi)
+- [czlonkowski /n8n-mcp](https://github.com/czlonkowski/n8n-mcp)
+- [nautechsystems /nautilus_trader](https://github.com/nautechsystems/nautilus_trader)
+- [ahujasid /blender-mcp](https://github.com/ahujasid/blender-mcp)
+- [yichuan-w /LEANN](https://github.com/yichuan-w/LEANN)
+- [DavidXanatos /TaskExplorer](https://github.com/DavidXanatos/TaskExplorer)
+
+
+
 - [iOfficeAI /AionUi](https://github.com/iOfficeAI/AionUi)
 - [yt-dlp /yt-dlp](https://github.com/yt-dlp/yt-dlp)
 - [nautechsystems /nautilus_trader](https://github.com/nautechsystems/nautilus_trader)
