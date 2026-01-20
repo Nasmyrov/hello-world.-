@@ -50,6 +50,16 @@
 
 
 
+- [microsoft /agent-lightning](https://github.com/microsoft/agent-lightning)
+- [iOfficeAI /AionUi](https://github.com/iOfficeAI/AionUi)
+- [google /langextract](https://github.com/google/langextract)
+- [AlexxIT /go2rtc](https://github.com/AlexxIT/go2rtc)
+- [lukasz-madon /awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job)
+- [tobi /try](https://github.com/tobi/try)
+- [DavidXanatos /TaskExplorer](https://github.com/DavidXanatos/TaskExplorer)
+
+
+
 - [OpenBMB /VoxCPM](https://github.com/OpenBMB/VoxCPM)
 - [google /langextract](https://github.com/google/langextract)
 - [iOfficeAI /AionUi](https://github.com/iOfficeAI/AionUi)
