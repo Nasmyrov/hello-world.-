@@ -144,6 +144,19 @@
 
 
 - [remotion-dev /remotion](https://github.com/remotion-dev/remotion)
+- [microsoft /VibeVoice](https://github.com/microsoft/VibeVoice)
+- [block /goose](https://github.com/block/goose)
+- [ai-dynamo /dynamo](https://github.com/ai-dynamo/dynamo)
+- [browser-use /browser-use](https://github.com/browser-use/browser-use)
+- [github /copilot-cli](https://github.com/github/copilot-cli)
+- [Asabeneh /30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python)
+- [anthropics /claude-code](https://github.com/anthropics/claude-code)
+- [deepseek-ai /FlashMLA](https://github.com/deepseek-ai/FlashMLA)
+- [microsoft /Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners)
+
+
+
+- [remotion-dev /remotion](https://github.com/remotion-dev/remotion)
 - [block /goose](https://github.com/block/goose)
 - [twitter /the-algorithm](https://github.com/twitter/the-algorithm)
 - [xai-org /grok-1](https://github.com/xai-org/grok-1)
