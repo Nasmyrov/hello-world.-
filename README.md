@@ -24,6 +24,17 @@
 
 - [Blaizzy /mlx-audio](https://github.com/Blaizzy/mlx-audio)
 - [VectifyAI /PageIndex](https://github.com/VectifyAI/PageIndex)
+- [supermemoryai /supermemory](https://github.com/supermemoryai/supermemory)
+- [block /goose](https://github.com/block/goose)
+- [remotion-dev /remotion](https://github.com/remotion-dev/remotion)
+- [AI4Finance-Foundation /FinRobot](https://github.com/AI4Finance-Foundation/FinRobot)
+- [k4yt3x /video2x](https://github.com/k4yt3x/video2x)
+- [business-science /ai-data-science-team](https://github.com/business-science/ai-data-science-team)
+
+
+
+- [Blaizzy /mlx-audio](https://github.com/Blaizzy/mlx-audio)
+- [VectifyAI /PageIndex](https://github.com/VectifyAI/PageIndex)
 - [remotion-dev /remotion](https://github.com/remotion-dev/remotion)
 - [qarmin /czkawka](https://github.com/qarmin/czkawka)
 - [microsoft /VibeVoice](https://github.com/microsoft/VibeVoice)
