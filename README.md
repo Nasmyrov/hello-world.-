@@ -1,5 +1,14 @@
 
 
+- [badlogic /pi-mono](https://github.com/badlogic/pi-mono)
+- [supermemoryai /supermemory](https://github.com/supermemoryai/supermemory)
+- [Blaizzy /mlx-audio](https://github.com/Blaizzy/mlx-audio)
+- [Free-TV /IPTV](https://github.com/Free-TV/IPTV)
+- [hashicorp /vault](https://github.com/hashicorp/vault)
+- [Shubhamsaboo /awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
+
+
+
 - [Blaizzy /mlx-audio](https://github.com/Blaizzy/mlx-audio)
 - [VectifyAI /PageIndex](https://github.com/VectifyAI/PageIndex)
 - [supermemoryai /supermemory](https://github.com/supermemoryai/supermemory)
