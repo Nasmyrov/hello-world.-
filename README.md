@@ -1,5 +1,18 @@
 
 
+- [ThePrimeagen /99](https://github.com/ThePrimeagen/99)
+- [microsoft /BitNet](https://github.com/microsoft/BitNet)
+- [microsoft /agent-lightning](https://github.com/microsoft/agent-lightning)
+- [PaddlePaddle /PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
+- [anthropics /claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
+- [microsoft /PowerToys](https://github.com/microsoft/PowerToys)
+- [termux /termux-app](https://github.com/termux/termux-app)
+- [openclaw /openclaw](https://github.com/openclaw/openclaw)
+- [pedroslopez /whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js)
+- [AlexanderGrooff /mermaid-ascii](https://github.com/AlexanderGrooff/mermaid-ascii)
+
+
+
 - [openclaw /openclaw](https://github.com/openclaw/openclaw)
 - [asgeirtj /system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
 - [MoonshotAI /kimi-cli](https://github.com/MoonshotAI/kimi-cli)
