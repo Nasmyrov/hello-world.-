@@ -78,6 +78,19 @@
 
 
 
+- [thedotmack /claude-mem](https://github.com/thedotmack/claude-mem)
+- [ThePrimeagen /99](https://github.com/ThePrimeagen/99)
+- [termux /termux-app](https://github.com/termux/termux-app)
+- [pedramamini /Maestro](https://github.com/pedramamini/Maestro)
+- [netbirdio /netbird](https://github.com/netbirdio/netbird)
+- [OpenBMB /ChatDev](https://github.com/OpenBMB/ChatDev)
+- [autobrr /qui](https://github.com/autobrr/qui)
+- [badlogic /pi-mono](https://github.com/badlogic/pi-mono)
+- [VectifyAI /PageIndex](https://github.com/VectifyAI/PageIndex)
+- [karpathy /nanochat](https://github.com/karpathy/nanochat)
+
+
+
 - [openclaw /openclaw](https://github.com/openclaw/openclaw)
 - [ThePrimeagen /99](https://github.com/ThePrimeagen/99)
 - [pedramamini /Maestro](https://github.com/pedramamini/Maestro)
