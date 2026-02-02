@@ -208,6 +208,19 @@
 
 
 
+- [openclaw /openclaw](https://github.com/openclaw/openclaw)
+- [ThePrimeagen /99](https://github.com/ThePrimeagen/99)
+- [pedramamini /Maestro](https://github.com/pedramamini/Maestro)
+- [kovidgoyal /calibre](https://github.com/kovidgoyal/calibre)
+- [badlogic /pi-mono](https://github.com/badlogic/pi-mono)
+- [thedotmack /claude-mem](https://github.com/thedotmack/claude-mem)
+- [microsoft /agent-lightning](https://github.com/microsoft/agent-lightning)
+- [amantus-ai /vibetunnel](https://github.com/amantus-ai/vibetunnel)
+- [steipete /CodexBar](https://github.com/steipete/CodexBar)
+- [j178 /prek](https://github.com/j178/prek)
+
+
+
 - [ThePrimeagen /99](https://github.com/ThePrimeagen/99)
 - [microsoft /BitNet](https://github.com/microsoft/BitNet)
 - [microsoft /agent-lightning](https://github.com/microsoft/agent-lightning)
