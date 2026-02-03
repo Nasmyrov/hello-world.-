@@ -14,6 +14,19 @@
 
 
 - [thedotmack /claude-mem](https://github.com/thedotmack/claude-mem)
+- [masoncl /review-prompts](https://github.com/masoncl/review-prompts)
+- [openai /skills](https://github.com/openai/skills)
+- [automazeio /ccpm](https://github.com/automazeio/ccpm)
+- [obra /superpowers](https://github.com/obra/superpowers)
+- [virattt /dexter](https://github.com/virattt/dexter)
+- [karpathy /nanochat](https://github.com/karpathy/nanochat)
+- [kovidgoyal /calibre](https://github.com/kovidgoyal/calibre)
+- [OpenBMB /ChatDev](https://github.com/OpenBMB/ChatDev)
+- [pedramamini /Maestro](https://github.com/pedramamini/Maestro)
+
+
+
+- [thedotmack /claude-mem](https://github.com/thedotmack/claude-mem)
 - [ThePrimeagen /99](https://github.com/ThePrimeagen/99)
 - [termux /termux-app](https://github.com/termux/termux-app)
 - [pedramamini /Maestro](https://github.com/pedramamini/Maestro)
