@@ -92,6 +92,19 @@
 
 
 - [thedotmack /claude-mem](https://github.com/thedotmack/claude-mem)
+- [openai /skills](https://github.com/openai/skills)
+- [disler /claude-code-hooks-mastery](https://github.com/disler/claude-code-hooks-mastery)
+- [OpenBMB /ChatDev](https://github.com/OpenBMB/ChatDev)
+- [ankitects /anki](https://github.com/ankitects/anki)
+- [open-telemetry /opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib)
+- [Canner /WrenAI](https://github.com/Canner/WrenAI)
+- [pedramamini /Maestro](https://github.com/pedramamini/Maestro)
+- [nvm-sh /nvm](https://github.com/nvm-sh/nvm)
+- [microsoft /qlib](https://github.com/microsoft/qlib)
+
+
+
+- [thedotmack /claude-mem](https://github.com/thedotmack/claude-mem)
 - [masoncl /review-prompts](https://github.com/masoncl/review-prompts)
 - [openai /skills](https://github.com/openai/skills)
 - [automazeio /ccpm](https://github.com/automazeio/ccpm)
