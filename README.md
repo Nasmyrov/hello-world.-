@@ -52,6 +52,19 @@
 
 
 
+- [bytedance /UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)
+- [openai /skills](https://github.com/openai/skills)
+- [thedotmack /claude-mem](https://github.com/thedotmack/claude-mem)
+- [j178 /prek](https://github.com/j178/prek)
+- [topoteretes /cognee](https://github.com/topoteretes/cognee)
+- [obra /superpowers](https://github.com/obra/superpowers)
+- [aquasecurity /trivy](https://github.com/aquasecurity/trivy)
+- [fish-shell /fish-shell](https://github.com/fish-shell/fish-shell)
+- [nvm-sh /nvm](https://github.com/nvm-sh/nvm)
+- [linshenkx /prompt-optimizer](https://github.com/linshenkx/prompt-optimizer)
+
+
+
 - [thedotmack /claude-mem](https://github.com/thedotmack/claude-mem)
 - [openai /skills](https://github.com/openai/skills)
 - [disler /claude-code-hooks-mastery](https://github.com/disler/claude-code-hooks-mastery)
