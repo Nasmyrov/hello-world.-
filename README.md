@@ -1,5 +1,16 @@
 
 
+- [openai /skills](https://github.com/openai/skills)
+- [bytedance /UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)
+- [nvm-sh /nvm](https://github.com/nvm-sh/nvm)
+- [likec4 /likec4](https://github.com/likec4/likec4)
+- [aquasecurity /trivy](https://github.com/aquasecurity/trivy)
+- [ZeroTworu /anet](https://github.com/ZeroTworu/anet)
+- [Flowseal /zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube)
+- [DataExpert-io /data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook)
+
+
+
 - [bytedance /UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)
 - [openai /skills](https://github.com/openai/skills)
 - [thedotmack /claude-mem](https://github.com/thedotmack/claude-mem)
