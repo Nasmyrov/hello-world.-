@@ -27,6 +27,19 @@
 
 
 - [KeygraphHQ /shannon](https://github.com/KeygraphHQ/shannon)
+- [pydantic /monty](https://github.com/pydantic/monty)
+- [openai /skills](https://github.com/openai/skills)
+- [virattt /dexter](https://github.com/virattt/dexter)
+- [microsoft /litebox](https://github.com/microsoft/litebox)
+- [google /langextract](https://github.com/google/langextract)
+- [obra /superpowers](https://github.com/obra/superpowers)
+- [OpenBMB /MiniCPM-o](https://github.com/OpenBMB/MiniCPM-o)
+- [likec4 /likec4](https://github.com/likec4/likec4)
+- [iOfficeAI /AionUi](https://github.com/iOfficeAI/AionUi)
+
+
+
+- [KeygraphHQ /shannon](https://github.com/KeygraphHQ/shannon)
 - [openai /skills](https://github.com/openai/skills)
 - [microsoft /litebox](https://github.com/microsoft/litebox)
 - [p-e-w /heretic](https://github.com/p-e-w/heretic)
