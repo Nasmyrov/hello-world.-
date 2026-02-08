@@ -195,6 +195,19 @@
 
 
 
+- [KeygraphHQ /shannon](https://github.com/KeygraphHQ/shannon)
+- [openai /skills](https://github.com/openai/skills)
+- [microsoft /litebox](https://github.com/microsoft/litebox)
+- [p-e-w /heretic](https://github.com/p-e-w/heretic)
+- [obra /superpowers](https://github.com/obra/superpowers)
+- [OpenBMB /MiniCPM-o](https://github.com/OpenBMB/MiniCPM-o)
+- [aquasecurity /trivy](https://github.com/aquasecurity/trivy)
+- [wavetermdev /waveterm](https://github.com/wavetermdev/waveterm)
+- [viarotel-org /escrcpy](https://github.com/viarotel-org/escrcpy)
+- [ComposioHQ /awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)
+
+
+
 - [openai /skills](https://github.com/openai/skills)
 - [bytedance /UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)
 - [nvm-sh /nvm](https://github.com/nvm-sh/nvm)
