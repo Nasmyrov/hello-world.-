@@ -92,6 +92,19 @@
 
 
 - [KeygraphHQ /shannon](https://github.com/KeygraphHQ/shannon)
+- [virattt /dexter](https://github.com/virattt/dexter)
+- [pydantic /monty](https://github.com/pydantic/monty)
+- [hsliuping /TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN)
+- [iOfficeAI /AionUi](https://github.com/iOfficeAI/AionUi)
+- [public-apis /public-apis](https://github.com/public-apis/public-apis)
+- [github /gh-aw](https://github.com/github/gh-aw)
+- [Shubhamsaboo /awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
+- [gitbutlerapp /gitbutler](https://github.com/gitbutlerapp/gitbutler)
+- [microsoft /litebox](https://github.com/microsoft/litebox)
+
+
+
+- [KeygraphHQ /shannon](https://github.com/KeygraphHQ/shannon)
 - [pydantic /monty](https://github.com/pydantic/monty)
 - [openai /skills](https://github.com/openai/skills)
 - [virattt /dexter](https://github.com/virattt/dexter)
