@@ -182,6 +182,19 @@
 
 
 
+- [tambo-ai /tambo](https://github.com/tambo-ai/tambo)
+- [danielmiessler /Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure)
+- [google /langextract](https://github.com/google/langextract)
+- [ChromeDevTools /chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
+- [microsoft /PowerToys](https://github.com/microsoft/PowerToys)
+- [iOfficeAI /AionUi](https://github.com/iOfficeAI/AionUi)
+- [Shubhamsaboo /awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
+- [rowboatlabs /rowboat](https://github.com/rowboatlabs/rowboat)
+- [github /gh-aw](https://github.com/github/gh-aw)
+- [unslothai /unsloth](https://github.com/unslothai/unsloth)
+
+
+
 - [google /langextract](https://github.com/google/langextract)
 - [github /gh-aw](https://github.com/github/gh-aw)
 - [microsoft /PowerToys](https://github.com/microsoft/PowerToys)
