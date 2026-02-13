@@ -52,6 +52,19 @@
 
 
 
+- [SynkraAI /aios-core](https://github.com/SynkraAI/aios-core)
+- [ChromeDevTools /chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
+- [danielmiessler /Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure)
+- [patchy631 /ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub)
+- [TelegramMessenger /MTProxy](https://github.com/TelegramMessenger/MTProxy)
+- [google-deepmind /superhuman](https://github.com/google-deepmind/superhuman)
+- [cheahjs /free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources)
+- [HandsOnLLM /Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)
+- [THUDM /slime](https://github.com/THUDM/slime)
+- [DebugSwift /DebugSwift](https://github.com/DebugSwift/DebugSwift)
+
+
+
 - [tambo-ai /tambo](https://github.com/tambo-ai/tambo)
 - [danielmiessler /Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure)
 - [google /langextract](https://github.com/google/langextract)
