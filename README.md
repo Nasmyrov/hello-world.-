@@ -13,6 +13,19 @@
 
 
 
+- [tambo-ai /tambo](https://github.com/tambo-ai/tambo)
+- [SynkraAI /aios-core](https://github.com/SynkraAI/aios-core)
+- [rowboatlabs /rowboat](https://github.com/rowboatlabs/rowboat)
+- [minio /minio](https://github.com/minio/minio)
+- [ChromeDevTools /chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
+- [alibaba /zvec](https://github.com/alibaba/zvec)
+- [ruvnet /wifi-densepose](https://github.com/ruvnet/wifi-densepose)
+- [Zipstack /unstract](https://github.com/Zipstack/unstract)
+- [letta-ai /letta-code](https://github.com/letta-ai/letta-code)
+- [ruby /ruby](https://github.com/ruby/ruby)
+
+
+
 - [SynkraAI /aios-core](https://github.com/SynkraAI/aios-core)
 - [ChromeDevTools /chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
 - [danielmiessler /Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure)
