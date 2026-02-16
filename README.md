@@ -1,5 +1,18 @@
 
 
+- [alibaba /zvec](https://github.com/alibaba/zvec)
+- [nautechsystems /nautilus_trader](https://github.com/nautechsystems/nautilus_trader)
+- [rowboatlabs /rowboat](https://github.com/rowboatlabs/rowboat)
+- [steipete /gogcli](https://github.com/steipete/gogcli)
+- [openclaw /openclaw](https://github.com/openclaw/openclaw)
+- [SynkraAI /aios-core](https://github.com/SynkraAI/aios-core)
+- [letta-ai /letta-code](https://github.com/letta-ai/letta-code)
+- [ruvnet /wifi-densepose](https://github.com/ruvnet/wifi-densepose)
+- [maxritter /claude-pilot](https://github.com/maxritter/claude-pilot)
+- [seerr-team /seerr](https://github.com/seerr-team/seerr)
+
+
+
 - [nautechsystems /nautilus_trader](https://github.com/nautechsystems/nautilus_trader)
 - [steipete /gogcli](https://github.com/steipete/gogcli)
 - [rowboatlabs /rowboat](https://github.com/rowboatlabs/rowboat)
