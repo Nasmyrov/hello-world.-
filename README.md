@@ -1,5 +1,18 @@
 
 
+- [p-e-w /heretic](https://github.com/p-e-w/heretic)
+- [seerr-team /seerr](https://github.com/seerr-team/seerr)
+- [obra /superpowers](https://github.com/obra/superpowers)
+- [steipete /gogcli](https://github.com/steipete/gogcli)
+- [alibaba /zvec](https://github.com/alibaba/zvec)
+- [openclaw /openclaw](https://github.com/openclaw/openclaw)
+- [SynkraAI /aios-core](https://github.com/SynkraAI/aios-core)
+- [ashishps1 /awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources)
+- [hummingbot /hummingbot](https://github.com/hummingbot/hummingbot)
+- [anthropics /claude-quickstarts](https://github.com/anthropics/claude-quickstarts)
+
+
+
 - [alibaba /zvec](https://github.com/alibaba/zvec)
 - [nautechsystems /nautilus_trader](https://github.com/nautechsystems/nautilus_trader)
 - [rowboatlabs /rowboat](https://github.com/rowboatlabs/rowboat)
