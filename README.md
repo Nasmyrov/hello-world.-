@@ -20,6 +20,16 @@
 
 
 
+- [obra /superpowers](https://github.com/obra/superpowers)
+- [open-mercato /open-mercato](https://github.com/open-mercato/open-mercato)
+- [harvard-edge /cs249r_book](https://github.com/harvard-edge/cs249r_book)
+- [HailToDodongo /pyrite64](https://github.com/HailToDodongo/pyrite64)
+- [openclaw /openclaw](https://github.com/openclaw/openclaw)
+- [freemocap /freemocap](https://github.com/freemocap/freemocap)
+- [p-e-w /heretic](https://github.com/p-e-w/heretic)
+
+
+
 - [alibaba /zvec](https://github.com/alibaba/zvec)
 - [p-e-w /heretic](https://github.com/p-e-w/heretic)
 - [OpenCTI-Platform /opencti](https://github.com/OpenCTI-Platform/opencti)
