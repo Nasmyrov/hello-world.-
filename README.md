@@ -53,6 +53,19 @@
 
 
 - [vxcontrol /pentagi](https://github.com/vxcontrol/pentagi)
+- [abhigyanpatwari /GitNexus](https://github.com/abhigyanpatwari/GitNexus)
+- [obra /superpowers](https://github.com/obra/superpowers)
+- [huggingface /skills](https://github.com/huggingface/skills)
+- [PowerShell /PowerShell](https://github.com/PowerShell/PowerShell)
+- [anthropics /claude-code](https://github.com/anthropics/claude-code)
+- [stan-smith /FossFLOW](https://github.com/stan-smith/FossFLOW)
+- [ggml-org /ggml](https://github.com/ggml-org/ggml)
+- [Stremio /stremio-web](https://github.com/Stremio/stremio-web)
+- [HandsOnLLM /Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)
+
+
+
+- [vxcontrol /pentagi](https://github.com/vxcontrol/pentagi)
 - [blackboardsh /electrobun](https://github.com/blackboardsh/electrobun)
 - [HailToDodongo /pyrite64](https://github.com/HailToDodongo/pyrite64)
 - [obra /superpowers](https://github.com/obra/superpowers)
