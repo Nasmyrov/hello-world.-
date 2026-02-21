@@ -195,6 +195,19 @@
 
 
 
+- [vxcontrol /pentagi](https://github.com/vxcontrol/pentagi)
+- [blackboardsh /electrobun](https://github.com/blackboardsh/electrobun)
+- [HailToDodongo /pyrite64](https://github.com/HailToDodongo/pyrite64)
+- [obra /superpowers](https://github.com/obra/superpowers)
+- [aquasecurity /trivy](https://github.com/aquasecurity/trivy)
+- [PostHog /posthog](https://github.com/PostHog/posthog)
+- [eslint /eslint](https://github.com/eslint/eslint)
+- [anthropics /claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
+- [Effect-TS /effect-smol](https://github.com/Effect-TS/effect-smol)
+- [google-research /timesfm](https://github.com/google-research/timesfm)
+
+
+
 - [obra /superpowers](https://github.com/obra/superpowers)
 - [RichardAtCT /claude-code-telegram](https://github.com/RichardAtCT/claude-code-telegram)
 - [open-mercato /open-mercato](https://github.com/open-mercato/open-mercato)
