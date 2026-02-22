@@ -84,6 +84,18 @@
 
 
 
+- [huggingface /skills](https://github.com/huggingface/skills)
+- [vxcontrol /pentagi](https://github.com/vxcontrol/pentagi)
+- [anthropics /claude-code](https://github.com/anthropics/claude-code)
+- [x1xhlol /system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
+- [Stremio /stremio-web](https://github.com/Stremio/stremio-web)
+- [OpenBB-finance /OpenBB](https://github.com/OpenBB-finance/OpenBB)
+- [cloudflare /agents](https://github.com/cloudflare/agents)
+- [abhigyanpatwari /GitNexus](https://github.com/abhigyanpatwari/GitNexus)
+- [stan-smith /FossFLOW](https://github.com/stan-smith/FossFLOW)
+
+
+
 - [vxcontrol /pentagi](https://github.com/vxcontrol/pentagi)
 - [abhigyanpatwari /GitNexus](https://github.com/abhigyanpatwari/GitNexus)
 - [obra /superpowers](https://github.com/obra/superpowers)
