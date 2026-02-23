@@ -78,6 +78,19 @@
 
 
 
+- [x1xhlol /system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
+- [huggingface /skills](https://github.com/huggingface/skills)
+- [OpenBB-finance /OpenBB](https://github.com/OpenBB-finance/OpenBB)
+- [muratcankoylan /Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)
+- [f /prompts.chat](https://github.com/f/prompts.chat)
+- [CompVis /stable-diffusion](https://github.com/CompVis/stable-diffusion)
+- [abhigyanpatwari /GitNexus](https://github.com/abhigyanpatwari/GitNexus)
+- [Stremio /stremio-web](https://github.com/Stremio/stremio-web)
+- [stan-smith /FossFLOW](https://github.com/stan-smith/FossFLOW)
+- [VectifyAI /PageIndex](https://github.com/VectifyAI/PageIndex)
+
+
+
 - [huggingface /skills](https://github.com/huggingface/skills)
 - [vxcontrol /pentagi](https://github.com/vxcontrol/pentagi)
 - [anthropics /claude-code](https://github.com/anthropics/claude-code)
