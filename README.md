@@ -26,6 +26,19 @@
 
 
 
+- [huggingface /skills](https://github.com/huggingface/skills)
+- [muratcankoylan /Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)
+- [OpenBB-finance /OpenBB](https://github.com/OpenBB-finance/OpenBB)
+- [LadybirdBrowser /ladybird](https://github.com/LadybirdBrowser/ladybird)
+- [x1xhlol /system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
+- [obra /superpowers](https://github.com/obra/superpowers)
+- [ruvnet /ruvector](https://github.com/ruvnet/ruvector)
+- [GVCLab /PersonaLive](https://github.com/GVCLab/PersonaLive)
+- [HunxByts /GhostTrack](https://github.com/HunxByts/GhostTrack)
+- [VectifyAI /PageIndex](https://github.com/VectifyAI/PageIndex)
+
+
+
 - [x1xhlol /system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
 - [huggingface /skills](https://github.com/huggingface/skills)
 - [OpenBB-finance /OpenBB](https://github.com/OpenBB-finance/OpenBB)
