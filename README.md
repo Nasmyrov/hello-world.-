@@ -130,6 +130,19 @@
 
 
 
+- [D4Vinci /Scrapling](https://github.com/D4Vinci/Scrapling)
+- [huggingface /skills](https://github.com/huggingface/skills)
+- [abhigyanpatwari /GitNexus](https://github.com/abhigyanpatwari/GitNexus)
+- [obra /superpowers](https://github.com/obra/superpowers)
+- [muratcankoylan /Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)
+- [datawhalechina /hello-agents](https://github.com/datawhalechina/hello-agents)
+- [bytedance /deer-flow](https://github.com/bytedance/deer-flow)
+- [VectifyAI /PageIndex](https://github.com/VectifyAI/PageIndex)
+- [NevaMind-AI /memU](https://github.com/NevaMind-AI/memU)
+- [ruvnet /ruvector](https://github.com/ruvnet/ruvector)
+
+
+
 - [huggingface /skills](https://github.com/huggingface/skills)
 - [muratcankoylan /Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)
 - [OpenBB-finance /OpenBB](https://github.com/OpenBB-finance/OpenBB)
