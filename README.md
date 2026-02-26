@@ -18,6 +18,18 @@
 - [bytedance /deer-flow](https://github.com/bytedance/deer-flow)
 - [huggingface /skills](https://github.com/huggingface/skills)
 - [farion1231 /cc-switch](https://github.com/farion1231/cc-switch)
+- [ruvnet /claude-flow](https://github.com/ruvnet/claude-flow)
+- [ruvnet /ruvector](https://github.com/ruvnet/ruvector)
+- [moonshine-ai /moonshine](https://github.com/moonshine-ai/moonshine)
+
+
+
+- [clockworklabs /SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB)
+- [obra /superpowers](https://github.com/obra/superpowers)
+- [muratcankoylan /Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)
+- [bytedance /deer-flow](https://github.com/bytedance/deer-flow)
+- [huggingface /skills](https://github.com/huggingface/skills)
+- [farion1231 /cc-switch](https://github.com/farion1231/cc-switch)
 - [D4Vinci /Scrapling](https://github.com/D4Vinci/Scrapling)
 - [ruvnet /claude-flow](https://github.com/ruvnet/claude-flow)
 - [ruvnet /ruvector](https://github.com/ruvnet/ruvector)
