@@ -26,6 +26,19 @@
 
 
 
+- [ruvnet /wifi-densepose](https://github.com/ruvnet/wifi-densepose)
+- [bytedance /deer-flow](https://github.com/bytedance/deer-flow)
+- [moonshine-ai /moonshine](https://github.com/moonshine-ai/moonshine)
+- [muratcankoylan /Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)
+- [obra /superpowers](https://github.com/obra/superpowers)
+- [ruvnet /claude-flow](https://github.com/ruvnet/claude-flow)
+- [datawhalechina /hello-agents](https://github.com/datawhalechina/hello-agents)
+- [abhigyanpatwari /GitNexus](https://github.com/abhigyanpatwari/GitNexus)
+- [moeru-ai /airi](https://github.com/moeru-ai/airi)
+- [anthropics /claude-code](https://github.com/anthropics/claude-code)
+
+
+
 - [clockworklabs /SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB)
 - [obra /superpowers](https://github.com/obra/superpowers)
 - [muratcankoylan /Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)
