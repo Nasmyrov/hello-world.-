@@ -1,5 +1,18 @@
 
 
+- [ruvnet /wifi-densepose](https://github.com/ruvnet/wifi-densepose)
+- [moeru-ai /airi](https://github.com/moeru-ai/airi)
+- [anthropics /claude-code](https://github.com/anthropics/claude-code)
+- [tukaani-project /xz](https://github.com/tukaani-project/xz)
+- [Shubhamsaboo /awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
+- [ruvnet /ruflo](https://github.com/ruvnet/ruflo)
+- [bytedance /deer-flow](https://github.com/bytedance/deer-flow)
+- [Wei-Shaw /claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service)
+- [NousResearch /hermes-agent](https://github.com/NousResearch/hermes-agent)
+- [superset-sh /superset](https://github.com/superset-sh/superset)
+
+
+
 - [moeru-ai /airi](https://github.com/moeru-ai/airi)
 - [anthropics /claude-code](https://github.com/anthropics/claude-code)
 - [tukaani-project /xz](https://github.com/tukaani-project/xz)
