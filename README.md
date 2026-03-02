@@ -84,6 +84,18 @@
 
 
 
+- [ruvnet /wifi-densepose](https://github.com/ruvnet/wifi-densepose)
+- [moeru-ai /airi](https://github.com/moeru-ai/airi)
+- [anthropics /prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial)
+- [ruvnet /ruflo](https://github.com/ruvnet/ruflo)
+- [alibaba /OpenSandbox](https://github.com/alibaba/OpenSandbox)
+- [microsoft /markitdown](https://github.com/microsoft/markitdown)
+- [K-Dense-AI /claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills)
+- [superset-sh /superset](https://github.com/superset-sh/superset)
+- [servo /servo](https://github.com/servo/servo)
+
+
+
 - [moeru-ai /airi](https://github.com/moeru-ai/airi)
 - [ruvnet /wifi-densepose](https://github.com/ruvnet/wifi-densepose)
 - [ruvnet /ruflo](https://github.com/ruvnet/ruflo)
