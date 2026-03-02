@@ -208,6 +208,19 @@
 
 
 
+- [moeru-ai /airi](https://github.com/moeru-ai/airi)
+- [ruvnet /wifi-densepose](https://github.com/ruvnet/wifi-densepose)
+- [ruvnet /ruflo](https://github.com/ruvnet/ruflo)
+- [microsoft /markitdown](https://github.com/microsoft/markitdown)
+- [bytedance /deer-flow](https://github.com/bytedance/deer-flow)
+- [alibaba /OpenSandbox](https://github.com/alibaba/OpenSandbox)
+- [Shubhamsaboo /awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
+- [K-Dense-AI /claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills)
+- [basecamp /omarchy](https://github.com/basecamp/omarchy)
+- [X-PLUG /MobileAgent](https://github.com/X-PLUG/MobileAgent)
+
+
+
 - [ruvnet /wifi-densepose](https://github.com/ruvnet/wifi-densepose)
 - [moeru-ai /airi](https://github.com/moeru-ai/airi)
 - [anthropics /claude-code](https://github.com/anthropics/claude-code)
