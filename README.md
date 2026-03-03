@@ -13,6 +13,19 @@
 
 
 
+- [msitarzewski /agency-agents](https://github.com/msitarzewski/agency-agents)
+- [ruvnet /RuView](https://github.com/ruvnet/RuView)
+- [K-Dense-AI /claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills)
+- [moeru-ai /airi](https://github.com/moeru-ai/airi)
+- [CodebuffAI /codebuff](https://github.com/CodebuffAI/codebuff)
+- [agentscope-ai /agentscope](https://github.com/agentscope-ai/agentscope)
+- [agentscope-ai /ReMe](https://github.com/agentscope-ai/ReMe)
+- [LMCache /LMCache](https://github.com/LMCache/LMCache)
+- [superset-sh /superset](https://github.com/superset-sh/superset)
+- [aquasecurity /trivy](https://github.com/aquasecurity/trivy)
+
+
+
 - [ruvnet /RuView](https://github.com/ruvnet/RuView)
 - [K-Dense-AI /claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills)
 - [moeru-ai /airi](https://github.com/moeru-ai/airi)
