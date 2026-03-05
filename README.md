@@ -31,6 +31,19 @@
 - [aquasecurity /trivy](https://github.com/aquasecurity/trivy)
 - [K-Dense-AI /claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills)
 - [CodebuffAI /codebuff](https://github.com/CodebuffAI/codebuff)
+- [alibaba /OpenSandbox](https://github.com/alibaba/OpenSandbox)
+- [FujiwaraChoki /MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2)
+- [ItzCrazyKns /Perplexica](https://github.com/ItzCrazyKns/Perplexica)
+- [agentscope-ai /agentscope](https://github.com/agentscope-ai/agentscope)
+- [moeru-ai /airi](https://github.com/moeru-ai/airi)
+
+
+
+- [KeygraphHQ /shannon](https://github.com/KeygraphHQ/shannon)
+- [msitarzewski /agency-agents](https://github.com/msitarzewski/agency-agents)
+- [aquasecurity /trivy](https://github.com/aquasecurity/trivy)
+- [K-Dense-AI /claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills)
+- [CodebuffAI /codebuff](https://github.com/CodebuffAI/codebuff)
 - [agentscope-ai /ReMe](https://github.com/agentscope-ai/ReMe)
 - [alibaba /OpenSandbox](https://github.com/alibaba/OpenSandbox)
 - [FujiwaraChoki /MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2)
