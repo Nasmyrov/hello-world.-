@@ -6,6 +6,18 @@
 - [aquasecurity /trivy](https://github.com/aquasecurity/trivy)
 - [moeru-ai /airi](https://github.com/moeru-ai/airi)
 - [inclusionAI /AReaL](https://github.com/inclusionAI/AReaL)
+- [CodebuffAI /codebuff](https://github.com/CodebuffAI/codebuff)
+- [FujiwaraChoki /MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2)
+- [microsoft /hve-core](https://github.com/microsoft/hve-core)
+
+
+
+- [msitarzewski /agency-agents](https://github.com/msitarzewski/agency-agents)
+- [TheCraigHewitt /seomachine](https://github.com/TheCraigHewitt/seomachine)
+- [KeygraphHQ /shannon](https://github.com/KeygraphHQ/shannon)
+- [aquasecurity /trivy](https://github.com/aquasecurity/trivy)
+- [moeru-ai /airi](https://github.com/moeru-ai/airi)
+- [inclusionAI /AReaL](https://github.com/inclusionAI/AReaL)
 - [microsoft /mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners)
 - [CodebuffAI /codebuff](https://github.com/CodebuffAI/codebuff)
 - [FujiwaraChoki /MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2)
