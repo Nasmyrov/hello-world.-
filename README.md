@@ -247,6 +247,19 @@
 
 
 
+- [moeru-ai /airi](https://github.com/moeru-ai/airi)
+- [QwenLM /Qwen-Agent](https://github.com/QwenLM/Qwen-Agent)
+- [microsoft /hve-core](https://github.com/microsoft/hve-core)
+- [Ed1s0nZ /CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI)
+- [inclusionAI /AReaL](https://github.com/inclusionAI/AReaL)
+- [lingfengQAQ /webnovel-writer](https://github.com/lingfengQAQ/webnovel-writer)
+- [openai /skills](https://github.com/openai/skills)
+- [TheCraigHewitt /seomachine](https://github.com/TheCraigHewitt/seomachine)
+- [virattt /ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)
+- [aidenybai /react-grab](https://github.com/aidenybai/react-grab)
+
+
+
 - [msitarzewski /agency-agents](https://github.com/msitarzewski/agency-agents)
 - [TheCraigHewitt /seomachine](https://github.com/TheCraigHewitt/seomachine)
 - [KeygraphHQ /shannon](https://github.com/KeygraphHQ/shannon)
