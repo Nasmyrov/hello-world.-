@@ -28,6 +28,19 @@
 
 - [666ghj /MiroFish](https://github.com/666ghj/MiroFish)
 - [openai /skills](https://github.com/openai/skills)
+- [msitarzewski /agency-agents](https://github.com/msitarzewski/agency-agents)
+- [GoogleCloudPlatform /generative-ai](https://github.com/GoogleCloudPlatform/generative-ai)
+- [agentjido /jido](https://github.com/agentjido/jido)
+- [QwenLM /Qwen-Agent](https://github.com/QwenLM/Qwen-Agent)
+- [virattt /ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)
+- [microsoft /hve-core](https://github.com/microsoft/hve-core)
+- [toeverything /AFFiNE](https://github.com/toeverything/AFFiNE)
+- [shadcn-ui /ui](https://github.com/shadcn-ui/ui)
+
+
+
+- [666ghj /MiroFish](https://github.com/666ghj/MiroFish)
+- [openai /skills](https://github.com/openai/skills)
 - [GoogleCloudPlatform /generative-ai](https://github.com/GoogleCloudPlatform/generative-ai)
 - [agentjido /jido](https://github.com/agentjido/jido)
 - [QwenLM /Qwen-Agent](https://github.com/QwenLM/Qwen-Agent)
