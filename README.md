@@ -26,6 +26,19 @@
 
 
 
+- [GoogleCloudPlatform /generative-ai](https://github.com/GoogleCloudPlatform/generative-ai)
+- [666ghj /MiroFish](https://github.com/666ghj/MiroFish)
+- [shadcn-ui /ui](https://github.com/shadcn-ui/ui)
+- [openclaw /openclaw](https://github.com/openclaw/openclaw)
+- [toeverything /AFFiNE](https://github.com/toeverything/AFFiNE)
+- [Ed1s0nZ /CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI)
+- [shareAI-lab /learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)
+- [openai /skills](https://github.com/openai/skills)
+- [virattt /ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)
+- [is-a-dev /register](https://github.com/is-a-dev/register)
+
+
+
 - [666ghj /MiroFish](https://github.com/666ghj/MiroFish)
 - [openai /skills](https://github.com/openai/skills)
 - [msitarzewski /agency-agents](https://github.com/msitarzewski/agency-agents)
