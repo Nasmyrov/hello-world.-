@@ -248,6 +248,19 @@
 
 
 - [GoogleCloudPlatform /generative-ai](https://github.com/GoogleCloudPlatform/generative-ai)
+- [openclaw /openclaw](https://github.com/openclaw/openclaw)
+- [666ghj /MiroFish](https://github.com/666ghj/MiroFish)
+- [karpathy /nanochat](https://github.com/karpathy/nanochat)
+- [666ghj /BettaFish](https://github.com/666ghj/BettaFish)
+- [NousResearch /hermes-agent](https://github.com/NousResearch/hermes-agent)
+- [pbakaus /impeccable](https://github.com/pbakaus/impeccable)
+- [msitarzewski /agency-agents](https://github.com/msitarzewski/agency-agents)
+- [alibaba /page-agent](https://github.com/alibaba/page-agent)
+- [alirezarezvani /claude-skills](https://github.com/alirezarezvani/claude-skills)
+
+
+
+- [GoogleCloudPlatform /generative-ai](https://github.com/GoogleCloudPlatform/generative-ai)
 - [666ghj /MiroFish](https://github.com/666ghj/MiroFish)
 - [shadcn-ui /ui](https://github.com/shadcn-ui/ui)
 - [openclaw /openclaw](https://github.com/openclaw/openclaw)
