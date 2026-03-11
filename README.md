@@ -74,6 +74,18 @@
 
 - [msitarzewski /agency-agents](https://github.com/msitarzewski/agency-agents)
 - [666ghj /MiroFish](https://github.com/666ghj/MiroFish)
+- [promptfoo /promptfoo](https://github.com/promptfoo/promptfoo)
+- [obra /superpowers](https://github.com/obra/superpowers)
+- [fishaudio /fish-speech](https://github.com/fishaudio/fish-speech)
+- [virattt /ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)
+- [alibaba /page-agent](https://github.com/alibaba/page-agent)
+- [NousResearch /hermes-agent](https://github.com/NousResearch/hermes-agent)
+- [AstrBotDevs /AstrBot](https://github.com/AstrBotDevs/AstrBot)
+
+
+
+- [msitarzewski /agency-agents](https://github.com/msitarzewski/agency-agents)
+- [666ghj /MiroFish](https://github.com/666ghj/MiroFish)
 - [NousResearch /hermes-agent](https://github.com/NousResearch/hermes-agent)
 - [promptfoo /promptfoo](https://github.com/promptfoo/promptfoo)
 - [GoogleCloudPlatform /generative-ai](https://github.com/GoogleCloudPlatform/generative-ai)
