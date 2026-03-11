@@ -143,6 +143,19 @@
 
 
 
+- [msitarzewski /agency-agents](https://github.com/msitarzewski/agency-agents)
+- [666ghj /MiroFish](https://github.com/666ghj/MiroFish)
+- [NousResearch /hermes-agent](https://github.com/NousResearch/hermes-agent)
+- [promptfoo /promptfoo](https://github.com/promptfoo/promptfoo)
+- [GoogleCloudPlatform /generative-ai](https://github.com/GoogleCloudPlatform/generative-ai)
+- [virattt /ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)
+- [karpathy /nanochat](https://github.com/karpathy/nanochat)
+- [obra /superpowers](https://github.com/obra/superpowers)
+- [alibaba /page-agent](https://github.com/alibaba/page-agent)
+- [sepinf-inc /IPED](https://github.com/sepinf-inc/IPED)
+
+
+
 - [GoogleCloudPlatform /generative-ai](https://github.com/GoogleCloudPlatform/generative-ai)
 - [openclaw /openclaw](https://github.com/openclaw/openclaw)
 - [666ghj /MiroFish](https://github.com/666ghj/MiroFish)
