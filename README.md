@@ -104,6 +104,19 @@
 
 
 
+- [microsoft /BitNet](https://github.com/microsoft/BitNet)
+- [fishaudio /fish-speech](https://github.com/fishaudio/fish-speech)
+- [langflow-ai /openrag](https://github.com/langflow-ai/openrag)
+- [InsForge /InsForge](https://github.com/InsForge/InsForge)
+- [vectorize-io /hindsight](https://github.com/vectorize-io/hindsight)
+- [alibaba /page-agent](https://github.com/alibaba/page-agent)
+- [obra /superpowers](https://github.com/obra/superpowers)
+- [NousResearch /hermes-agent](https://github.com/NousResearch/hermes-agent)
+- [666ghj /MiroFish](https://github.com/666ghj/MiroFish)
+- [google-ai-edge /LiteRT](https://github.com/google-ai-edge/LiteRT)
+
+
+
 - [msitarzewski /agency-agents](https://github.com/msitarzewski/agency-agents)
 - [666ghj /MiroFish](https://github.com/666ghj/MiroFish)
 - [promptfoo /promptfoo](https://github.com/promptfoo/promptfoo)
