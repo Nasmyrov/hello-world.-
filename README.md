@@ -40,6 +40,19 @@
 
 
 - [microsoft /BitNet](https://github.com/microsoft/BitNet)
+- [langflow-ai /openrag](https://github.com/langflow-ai/openrag)
+- [lightpanda-io /browser](https://github.com/lightpanda-io/browser)
+- [obra /superpowers](https://github.com/obra/superpowers)
+- [public-apis /public-apis](https://github.com/public-apis/public-apis)
+- [promptfoo /promptfoo](https://github.com/promptfoo/promptfoo)
+- [msitarzewski /agency-agents](https://github.com/msitarzewski/agency-agents)
+- [dolthub /dolt](https://github.com/dolthub/dolt)
+- [google /A2UI](https://github.com/google/A2UI)
+- [fishaudio /fish-speech](https://github.com/fishaudio/fish-speech)
+
+
+
+- [microsoft /BitNet](https://github.com/microsoft/BitNet)
 - [fishaudio /fish-speech](https://github.com/fishaudio/fish-speech)
 - [langflow-ai /openrag](https://github.com/langflow-ai/openrag)
 - [InsForge /InsForge](https://github.com/InsForge/InsForge)
