@@ -78,6 +78,19 @@
 
 
 
+- [volcengine /OpenViking](https://github.com/volcengine/OpenViking)
+- [anthropics /claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
+- [dimensionalOS /dimos](https://github.com/dimensionalOS/dimos)
+- [p-e-w /heretic](https://github.com/p-e-w/heretic)
+- [langflow-ai /openrag](https://github.com/langflow-ai/openrag)
+- [lightpanda-io /browser](https://github.com/lightpanda-io/browser)
+- [msitarzewski /agency-agents](https://github.com/msitarzewski/agency-agents)
+- [fishaudio /fish-speech](https://github.com/fishaudio/fish-speech)
+- [InsForge /InsForge](https://github.com/InsForge/InsForge)
+- [obra /superpowers](https://github.com/obra/superpowers)
+
+
+
 - [microsoft /BitNet](https://github.com/microsoft/BitNet)
 - [langflow-ai /openrag](https://github.com/langflow-ai/openrag)
 - [lightpanda-io /browser](https://github.com/lightpanda-io/browser)
