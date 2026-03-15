@@ -65,6 +65,19 @@
 
 
 
+- [lightpanda-io /browser](https://github.com/lightpanda-io/browser)
+- [Crosstalk-Solutions /project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
+- [volcengine /OpenViking](https://github.com/volcengine/OpenViking)
+- [shareAI-lab /learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)
+- [shanraisshan /claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice)
+- [obra /superpowers](https://github.com/obra/superpowers)
+- [p-e-w /heretic](https://github.com/p-e-w/heretic)
+- [666ghj /MiroFish](https://github.com/666ghj/MiroFish)
+- [abhigyanpatwari /GitNexus](https://github.com/abhigyanpatwari/GitNexus)
+- [topoteretes /cognee](https://github.com/topoteretes/cognee)
+
+
+
 - [volcengine /OpenViking](https://github.com/volcengine/OpenViking)
 - [anthropics /claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
 - [dimensionalOS /dimos](https://github.com/dimensionalOS/dimos)
