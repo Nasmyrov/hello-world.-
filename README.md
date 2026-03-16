@@ -91,6 +91,19 @@
 
 
 
+- [666ghj /MiroFish](https://github.com/666ghj/MiroFish)
+- [thedotmack /claude-mem](https://github.com/thedotmack/claude-mem)
+- [Crosstalk-Solutions /project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
+- [obra /superpowers](https://github.com/obra/superpowers)
+- [abhigyanpatwari /GitNexus](https://github.com/abhigyanpatwari/GitNexus)
+- [lightpanda-io /browser](https://github.com/lightpanda-io/browser)
+- [volcengine /OpenViking](https://github.com/volcengine/OpenViking)
+- [shareAI-lab /learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)
+- [p-e-w /heretic](https://github.com/p-e-w/heretic)
+- [langchain-ai /deepagents](https://github.com/langchain-ai/deepagents)
+
+
+
 - [lightpanda-io /browser](https://github.com/lightpanda-io/browser)
 - [Crosstalk-Solutions /project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
 - [volcengine /OpenViking](https://github.com/volcengine/OpenViking)
