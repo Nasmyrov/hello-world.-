@@ -54,6 +54,15 @@
 
 
 
+- [obra /superpowers](https://github.com/obra/superpowers)
+- [codecrafters-io /build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+- [abhigyanpatwari /GitNexus](https://github.com/abhigyanpatwari/GitNexus)
+- [langchain-ai /deepagents](https://github.com/langchain-ai/deepagents)
+- [jarrodwatts /claude-hud](https://github.com/jarrodwatts/claude-hud)
+- [cloudflare /workerd](https://github.com/cloudflare/workerd)
+
+
+
 - [666ghj /MiroFish](https://github.com/666ghj/MiroFish)
 - [thedotmack /claude-mem](https://github.com/thedotmack/claude-mem)
 - [Crosstalk-Solutions /project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
