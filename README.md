@@ -27,6 +27,15 @@
 
 
 
+- [jarrodwatts /claude-hud](https://github.com/jarrodwatts/claude-hud)
+- [obra /superpowers](https://github.com/obra/superpowers)
+- [unslothai /unsloth](https://github.com/unslothai/unsloth)
+- [newton-physics /newton](https://github.com/newton-physics/newton)
+- [shadps4-emu /shadPS4](https://github.com/shadps4-emu/shadPS4)
+- [langchain-ai /open-swe](https://github.com/langchain-ai/open-swe)
+
+
+
 - [obra /superpowers](https://github.com/obra/superpowers)
 - [codecrafters-io /build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
 - [abhigyanpatwari /GitNexus](https://github.com/abhigyanpatwari/GitNexus)
