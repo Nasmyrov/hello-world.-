@@ -32,6 +32,19 @@
 - [jarrodwatts /claude-hud](https://github.com/jarrodwatts/claude-hud)
 - [unslothai /unsloth](https://github.com/unslothai/unsloth)
 - [mobile-dev-inc /Maestro](https://github.com/mobile-dev-inc/Maestro)
+- [tw93 /Mole](https://github.com/tw93/Mole)
+- [newton-physics /newton](https://github.com/newton-physics/newton)
+- [louis-e /arnis](https://github.com/louis-e/arnis)
+- [FujiwaraChoki /MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2)
+
+
+
+- [opendataloader-project /opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)
+- [langchain-ai /open-swe](https://github.com/langchain-ai/open-swe)
+- [obra /superpowers](https://github.com/obra/superpowers)
+- [jarrodwatts /claude-hud](https://github.com/jarrodwatts/claude-hud)
+- [unslothai /unsloth](https://github.com/unslothai/unsloth)
+- [mobile-dev-inc /Maestro](https://github.com/mobile-dev-inc/Maestro)
 - [newton-physics /newton](https://github.com/newton-physics/newton)
 - [louis-e /arnis](https://github.com/louis-e/arnis)
 - [FujiwaraChoki /MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2)
