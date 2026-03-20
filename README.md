@@ -72,6 +72,18 @@
 
 
 
+- [jarrodwatts /claude-hud](https://github.com/jarrodwatts/claude-hud)
+- [langchain-ai /open-swe](https://github.com/langchain-ai/open-swe)
+- [obra /superpowers](https://github.com/obra/superpowers)
+- [opendataloader-project /opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)
+- [louis-e /arnis](https://github.com/louis-e/arnis)
+- [newton-physics /newton](https://github.com/newton-physics/newton)
+- [vas3k /TaxHacker](https://github.com/vas3k/TaxHacker)
+- [TauricResearch /TradingAgents](https://github.com/TauricResearch/TradingAgents)
+- [openrocket /openrocket](https://github.com/openrocket/openrocket)
+
+
+
 - [opendataloader-project /opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)
 - [langchain-ai /open-swe](https://github.com/langchain-ai/open-swe)
 - [obra /superpowers](https://github.com/obra/superpowers)
