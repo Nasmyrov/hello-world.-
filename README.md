@@ -180,6 +180,18 @@
 
 
 
+- [FujiwaraChoki /MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2)
+- [systemd /systemd](https://github.com/systemd/systemd)
+- [aquasecurity /trivy](https://github.com/aquasecurity/trivy)
+- [Crosstalk-Solutions /project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
+- [opendataloader-project /opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)
+- [jarrodwatts /claude-hud](https://github.com/jarrodwatts/claude-hud)
+- [protocolbuffers /protobuf](https://github.com/protocolbuffers/protobuf)
+- [vllm-project /vllm-omni](https://github.com/vllm-project/vllm-omni)
+- [louis-e /arnis](https://github.com/louis-e/arnis)
+
+
+
 - [jarrodwatts /claude-hud](https://github.com/jarrodwatts/claude-hud)
 - [langchain-ai /open-swe](https://github.com/langchain-ai/open-swe)
 - [obra /superpowers](https://github.com/obra/superpowers)
