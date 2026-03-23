@@ -14,6 +14,19 @@
 
 
 - [FujiwaraChoki /MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2)
+- [bytedance /deer-flow](https://github.com/bytedance/deer-flow)
+- [Crosstalk-Solutions /project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
+- [vxcontrol /pentagi](https://github.com/vxcontrol/pentagi)
+- [browser-use /browser-use](https://github.com/browser-use/browser-use)
+- [TauricResearch /TradingAgents](https://github.com/TauricResearch/TradingAgents)
+- [tinygrad /tinygrad](https://github.com/tinygrad/tinygrad)
+- [affaan-m /everything-claude-code](https://github.com/affaan-m/everything-claude-code)
+- [NousResearch /hermes-agent](https://github.com/NousResearch/hermes-agent)
+- [jingyaogong /minimind](https://github.com/jingyaogong/minimind)
+
+
+
+- [FujiwaraChoki /MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2)
 - [TauricResearch /TradingAgents](https://github.com/TauricResearch/TradingAgents)
 - [vxcontrol /pentagi](https://github.com/vxcontrol/pentagi)
 - [jamwithai /production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course)
