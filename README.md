@@ -143,6 +143,19 @@
 
 
 
+- [pascalorg /editor](https://github.com/pascalorg/editor)
+- [bytedance /deer-flow](https://github.com/bytedance/deer-flow)
+- [supermemoryai /supermemory](https://github.com/supermemoryai/supermemory)
+- [FujiwaraChoki /MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2)
+- [harry0703 /MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
+- [Crosstalk-Solutions /project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
+- [TauricResearch /TradingAgents](https://github.com/TauricResearch/TradingAgents)
+- [mvanhorn /last30days-skill](https://github.com/mvanhorn/last30days-skill)
+- [ruvnet /ruflo](https://github.com/ruvnet/ruflo)
+- [NousResearch /hermes-agent](https://github.com/NousResearch/hermes-agent)
+
+
+
 - [FujiwaraChoki /MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2)
 - [bytedance /deer-flow](https://github.com/bytedance/deer-flow)
 - [Crosstalk-Solutions /project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
