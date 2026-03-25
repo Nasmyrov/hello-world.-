@@ -13,6 +13,19 @@
 
 
 
+- [mvanhorn /last30days-skill](https://github.com/mvanhorn/last30days-skill)
+- [bytedance /deer-flow](https://github.com/bytedance/deer-flow)
+- [BerriAI /litellm](https://github.com/BerriAI/litellm)
+- [pascalorg /editor](https://github.com/pascalorg/editor)
+- [ruvnet /ruflo](https://github.com/ruvnet/ruflo)
+- [Crosstalk-Solutions /project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
+- [ruvnet /RuView](https://github.com/ruvnet/RuView)
+- [supermemoryai /supermemory](https://github.com/supermemoryai/supermemory)
+- [FujiwaraChoki /MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2)
+- [usestrix /strix](https://github.com/usestrix/strix)
+
+
+
 - [pascalorg /editor](https://github.com/pascalorg/editor)
 - [bytedance /deer-flow](https://github.com/bytedance/deer-flow)
 - [supermemoryai /supermemory](https://github.com/supermemoryai/supermemory)
