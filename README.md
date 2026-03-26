@@ -1,6 +1,18 @@
 
 
 - [mvanhorn /last30days-skill](https://github.com/mvanhorn/last30days-skill)
+- [Yeachan-Heo /oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)
+- [virattt /dexter](https://github.com/virattt/dexter)
+- [ruvnet /RuView](https://github.com/ruvnet/RuView)
+- [bytedance /deer-flow](https://github.com/bytedance/deer-flow)
+- [Vaibhavs10 /insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper)
+- [agentscope-ai /agentscope](https://github.com/agentscope-ai/agentscope)
+- [twentyhq /twenty](https://github.com/twentyhq/twenty)
+- [datalab-to /chandra](https://github.com/datalab-to/chandra)
+
+
+
+- [mvanhorn /last30days-skill](https://github.com/mvanhorn/last30days-skill)
 - [bytedance /deer-flow](https://github.com/bytedance/deer-flow)
 - [BerriAI /litellm](https://github.com/BerriAI/litellm)
 - [pascalorg /editor](https://github.com/pascalorg/editor)
