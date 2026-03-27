@@ -53,6 +53,19 @@
 
 
 - [mvanhorn /last30days-skill](https://github.com/mvanhorn/last30days-skill)
+- [hacksider /Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
+- [SakanaAI /AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2)
+- [microsoft /VibeVoice](https://github.com/microsoft/VibeVoice)
+- [twentyhq /twenty](https://github.com/twentyhq/twenty)
+- [datalab-to /chandra](https://github.com/datalab-to/chandra)
+- [obra /superpowers](https://github.com/obra/superpowers)
+- [virattt /dexter](https://github.com/virattt/dexter)
+- [Yeachan-Heo /oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)
+- [FreeCAD /FreeCAD](https://github.com/FreeCAD/FreeCAD)
+
+
+
+- [mvanhorn /last30days-skill](https://github.com/mvanhorn/last30days-skill)
 - [Yeachan-Heo /oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)
 - [virattt /dexter](https://github.com/virattt/dexter)
 - [ruvnet /RuView](https://github.com/ruvnet/RuView)
