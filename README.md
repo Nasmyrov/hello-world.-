@@ -156,6 +156,18 @@
 
 
 
+- [hacksider /Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
+- [obra /superpowers](https://github.com/obra/superpowers)
+- [SakanaAI /AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2)
+- [virattt /dexter](https://github.com/virattt/dexter)
+- [twentyhq /twenty](https://github.com/twentyhq/twenty)
+- [onyx-dot-app /onyx](https://github.com/onyx-dot-app/onyx)
+- [datalab-to /chandra](https://github.com/datalab-to/chandra)
+- [agentscope-ai /agentscope](https://github.com/agentscope-ai/agentscope)
+- [apache /superset](https://github.com/apache/superset)
+
+
+
 - [mvanhorn /last30days-skill](https://github.com/mvanhorn/last30days-skill)
 - [hacksider /Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
 - [SakanaAI /AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2)
