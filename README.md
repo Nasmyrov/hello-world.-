@@ -1,5 +1,18 @@
 
 
+- [Yeachan-Heo /oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)
+- [microsoft /VibeVoice](https://github.com/microsoft/VibeVoice)
+- [NousResearch /hermes-agent](https://github.com/NousResearch/hermes-agent)
+- [OpenBB-finance /OpenBB](https://github.com/OpenBB-finance/OpenBB)
+- [obra /superpowers](https://github.com/obra/superpowers)
+- [thedotmack /claude-mem](https://github.com/thedotmack/claude-mem)
+- [hacksider /Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
+- [mvanhorn /last30days-skill](https://github.com/mvanhorn/last30days-skill)
+- [shareAI-lab /learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)
+- [fastfetch-cli /fastfetch](https://github.com/fastfetch-cli/fastfetch)
+
+
+
 - [hacksider /Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
 - [obra /superpowers](https://github.com/obra/superpowers)
 - [SakanaAI /AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2)
