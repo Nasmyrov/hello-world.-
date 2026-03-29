@@ -13,6 +13,19 @@
 
 
 
+- [luongnv89 /claude-howto](https://github.com/luongnv89/claude-howto)
+- [Yeachan-Heo /oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)
+- [microsoft /VibeVoice](https://github.com/microsoft/VibeVoice)
+- [NousResearch /hermes-agent](https://github.com/NousResearch/hermes-agent)
+- [OpenBB-finance /OpenBB](https://github.com/OpenBB-finance/OpenBB)
+- [obra /superpowers](https://github.com/obra/superpowers)
+- [thedotmack /claude-mem](https://github.com/thedotmack/claude-mem)
+- [hacksider /Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
+- [mvanhorn /last30days-skill](https://github.com/mvanhorn/last30days-skill)
+- [shareAI-lab /learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)
+
+
+
 - [Yeachan-Heo /oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)
 - [microsoft /VibeVoice](https://github.com/microsoft/VibeVoice)
 - [NousResearch /hermes-agent](https://github.com/NousResearch/hermes-agent)
