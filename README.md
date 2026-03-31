@@ -26,6 +26,19 @@
 
 
 
+- [luongnv89 /claude-howto](https://github.com/luongnv89/claude-howto)
+- [microsoft /VibeVoice](https://github.com/microsoft/VibeVoice)
+- [Yeachan-Heo /oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)
+- [shanraisshan /claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice)
+- [NousResearch /hermes-agent](https://github.com/NousResearch/hermes-agent)
+- [obra /superpowers](https://github.com/obra/superpowers)
+- [microsoft /agent-lightning](https://github.com/microsoft/agent-lightning)
+- [PaddlePaddle /PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
+- [Dimillian /Skills](https://github.com/Dimillian/Skills)
+- [sherlock-project /sherlock](https://github.com/sherlock-project/sherlock)
+
+
+
 - [microsoft /VibeVoice](https://github.com/microsoft/VibeVoice)
 - [luongnv89 /claude-howto](https://github.com/luongnv89/claude-howto)
 - [shanraisshan /claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice)
