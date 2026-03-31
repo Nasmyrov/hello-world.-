@@ -41,6 +41,19 @@
 
 - [microsoft /VibeVoice](https://github.com/microsoft/VibeVoice)
 - [luongnv89 /claude-howto](https://github.com/luongnv89/claude-howto)
+- [shanraisshan /claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice)
+- [hacksider /Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
+- [OpenBB-finance /OpenBB](https://github.com/OpenBB-finance/OpenBB)
+- [freeCodeCamp /freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+- [sherlock-project /sherlock](https://github.com/sherlock-project/sherlock)
+- [apache /superset](https://github.com/apache/superset)
+- [fastfetch-cli /fastfetch](https://github.com/fastfetch-cli/fastfetch)
+- [NousResearch /hermes-agent](https://github.com/NousResearch/hermes-agent)
+
+
+
+- [microsoft /VibeVoice](https://github.com/microsoft/VibeVoice)
+- [luongnv89 /claude-howto](https://github.com/luongnv89/claude-howto)
 - [Yeachan-Heo /oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)
 - [shanraisshan /claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice)
 - [hacksider /Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
