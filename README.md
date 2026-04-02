@@ -4,6 +4,17 @@
 - [microsoft /VibeVoice](https://github.com/microsoft/VibeVoice)
 - [google-research /timesfm](https://github.com/google-research/timesfm)
 - [luongnv89 /claude-howto](https://github.com/luongnv89/claude-howto)
+- [zai-org /GLM-OCR](https://github.com/zai-org/GLM-OCR)
+- [axios /axios](https://github.com/axios/axios)
+- [openai /codex](https://github.com/openai/codex)
+- [f /prompts.chat](https://github.com/f/prompts.chat)
+
+
+
+- [anthropics /claude-code](https://github.com/anthropics/claude-code)
+- [microsoft /VibeVoice](https://github.com/microsoft/VibeVoice)
+- [google-research /timesfm](https://github.com/google-research/timesfm)
+- [luongnv89 /claude-howto](https://github.com/luongnv89/claude-howto)
 - [axios /axios](https://github.com/axios/axios)
 - [openai /codex](https://github.com/openai/codex)
 - [f /prompts.chat](https://github.com/f/prompts.chat)
