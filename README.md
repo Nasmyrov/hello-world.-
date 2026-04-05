@@ -2,6 +2,16 @@
 
 - [Blaizzy /mlx-vlm](https://github.com/Blaizzy/mlx-vlm)
 - [onyx-dot-app /onyx](https://github.com/onyx-dot-app/onyx)
+- [siddharthvaddem /openscreen](https://github.com/siddharthvaddem/openscreen)
+- [telegramdesktop /tdesktop](https://github.com/telegramdesktop/tdesktop)
+- [block /goose](https://github.com/block/goose)
+- [microsoft /agent-framework](https://github.com/microsoft/agent-framework)
+- [sherlock-project /sherlock](https://github.com/sherlock-project/sherlock)
+
+
+
+- [Blaizzy /mlx-vlm](https://github.com/Blaizzy/mlx-vlm)
+- [onyx-dot-app /onyx](https://github.com/onyx-dot-app/onyx)
 - [Yeachan-Heo /oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex)
 - [siddharthvaddem /openscreen](https://github.com/siddharthvaddem/openscreen)
 - [telegramdesktop /tdesktop](https://github.com/telegramdesktop/tdesktop)
