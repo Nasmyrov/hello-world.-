@@ -52,6 +52,19 @@
 
 
 
+- [google-ai-edge /gallery](https://github.com/google-ai-edge/gallery)
+- [Blaizzy /mlx-vlm](https://github.com/Blaizzy/mlx-vlm)
+- [siddharthvaddem /openscreen](https://github.com/siddharthvaddem/openscreen)
+- [block /goose](https://github.com/block/goose)
+- [onyx-dot-app /onyx](https://github.com/onyx-dot-app/onyx)
+- [badlogic /pi-mono](https://github.com/badlogic/pi-mono)
+- [dmtrKovalenko /fff.nvim](https://github.com/dmtrKovalenko/fff.nvim)
+- [google-ai-edge /LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM)
+- [telegramdesktop /tdesktop](https://github.com/telegramdesktop/tdesktop)
+- [freeCodeCamp /freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+
+
+
 - [Blaizzy /mlx-vlm](https://github.com/Blaizzy/mlx-vlm)
 - [onyx-dot-app /onyx](https://github.com/onyx-dot-app/onyx)
 - [siddharthvaddem /openscreen](https://github.com/siddharthvaddem/openscreen)
