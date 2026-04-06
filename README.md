@@ -143,6 +143,19 @@
 
 
 
+- [abhigyanpatwari /GitNexus](https://github.com/abhigyanpatwari/GitNexus)
+- [google-ai-edge /gallery](https://github.com/google-ai-edge/gallery)
+- [block /goose](https://github.com/block/goose)
+- [google-ai-edge /LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM)
+- [immich-app /immich](https://github.com/immich-app/immich)
+- [KeygraphHQ /shannon](https://github.com/KeygraphHQ/shannon)
+- [NousResearch /hermes-agent](https://github.com/NousResearch/hermes-agent)
+- [tobi /qmd](https://github.com/tobi/qmd)
+- [TelegramMessenger /Telegram-iOS](https://github.com/TelegramMessenger/Telegram-iOS)
+- [kepano /obsidian-skills](https://github.com/kepano/obsidian-skills)
+
+
+
 - [google-ai-edge /gallery](https://github.com/google-ai-edge/gallery)
 - [Blaizzy /mlx-vlm](https://github.com/Blaizzy/mlx-vlm)
 - [siddharthvaddem /openscreen](https://github.com/siddharthvaddem/openscreen)
