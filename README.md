@@ -156,6 +156,18 @@
 
 
 
+- [google-ai-edge /gallery](https://github.com/google-ai-edge/gallery)
+- [google-ai-edge /LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM)
+- [NVIDIA /personaplex](https://github.com/NVIDIA/personaplex)
+- [abhigyanpatwari /GitNexus](https://github.com/abhigyanpatwari/GitNexus)
+- [tobi /qmd](https://github.com/tobi/qmd)
+- [forrestchang /andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
+- [elebumm /RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot)
+- [HKUDS /DeepTutor](https://github.com/HKUDS/DeepTutor)
+- [TheCraigHewitt /seomachine](https://github.com/TheCraigHewitt/seomachine)
+
+
+
 - [abhigyanpatwari /GitNexus](https://github.com/abhigyanpatwari/GitNexus)
 - [google-ai-edge /gallery](https://github.com/google-ai-edge/gallery)
 - [aaif-goose /goose](https://github.com/aaif-goose/goose)
