@@ -1,5 +1,18 @@
 
 
+- [NousResearch /hermes-agent](https://github.com/NousResearch/hermes-agent)
+- [forrestchang /andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
+- [HKUDS /DeepTutor](https://github.com/HKUDS/DeepTutor)
+- [OpenBMB /VoxCPM](https://github.com/OpenBMB/VoxCPM)
+- [opendataloader-project /opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)
+- [obra /superpowers](https://github.com/obra/superpowers)
+- [TheCraigHewitt /seomachine](https://github.com/TheCraigHewitt/seomachine)
+- [coleam00 /Archon](https://github.com/coleam00/Archon)
+- [shiyu-coder /Kronos](https://github.com/shiyu-coder/Kronos)
+- [YishenTu /claudian](https://github.com/YishenTu/claudian)
+
+
+
 - [forrestchang /andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
 - [TheCraigHewitt /seomachine](https://github.com/TheCraigHewitt/seomachine)
 - [google-ai-edge /gallery](https://github.com/google-ai-edge/gallery)
