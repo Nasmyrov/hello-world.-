@@ -26,6 +26,19 @@
 
 
 
+- [microsoft /markitdown](https://github.com/microsoft/markitdown)
+- [coleam00 /Archon](https://github.com/coleam00/Archon)
+- [NousResearch /hermes-agent](https://github.com/NousResearch/hermes-agent)
+- [rowboatlabs /rowboat](https://github.com/rowboatlabs/rowboat)
+- [multica-ai /multica](https://github.com/multica-ai/multica)
+- [forrestchang /andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
+- [shiyu-coder /Kronos](https://github.com/shiyu-coder/Kronos)
+- [HKUDS /DeepTutor](https://github.com/HKUDS/DeepTutor)
+- [opendataloader-project /opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)
+- [obra /superpowers](https://github.com/obra/superpowers)
+
+
+
 - [NousResearch /hermes-agent](https://github.com/NousResearch/hermes-agent)
 - [forrestchang /andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
 - [HKUDS /DeepTutor](https://github.com/HKUDS/DeepTutor)
