@@ -143,6 +143,19 @@
 
 
 
+- [NousResearch /hermes-agent](https://github.com/NousResearch/hermes-agent)
+- [microsoft /markitdown](https://github.com/microsoft/markitdown)
+- [coleam00 /Archon](https://github.com/coleam00/Archon)
+- [forrestchang /andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
+- [multica-ai /multica](https://github.com/multica-ai/multica)
+- [shanraisshan /claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice)
+- [TapXWorld /ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)
+- [OpenBMB /VoxCPM](https://github.com/OpenBMB/VoxCPM)
+- [shiyu-coder /Kronos](https://github.com/shiyu-coder/Kronos)
+- [opendataloader-project /opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)
+
+
+
 - [microsoft /markitdown](https://github.com/microsoft/markitdown)
 - [coleam00 /Archon](https://github.com/coleam00/Archon)
 - [NousResearch /hermes-agent](https://github.com/NousResearch/hermes-agent)
