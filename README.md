@@ -39,6 +39,19 @@
 
 
 
+- [forrestchang /andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
+- [NousResearch /hermes-agent](https://github.com/NousResearch/hermes-agent)
+- [shiyu-coder /Kronos](https://github.com/shiyu-coder/Kronos)
+- [thedotmack /claude-mem](https://github.com/thedotmack/claude-mem)
+- [microsoft /markitdown](https://github.com/microsoft/markitdown)
+- [multica-ai /multica](https://github.com/multica-ai/multica)
+- [coleam00 /Archon](https://github.com/coleam00/Archon)
+- [snarktank /ralph](https://github.com/snarktank/ralph)
+- [virattt /ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)
+- [anthropics /claude-cookbooks](https://github.com/anthropics/claude-cookbooks)
+
+
+
 - [NousResearch /hermes-agent](https://github.com/NousResearch/hermes-agent)
 - [shiyu-coder /Kronos](https://github.com/shiyu-coder/Kronos)
 - [forrestchang /andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
