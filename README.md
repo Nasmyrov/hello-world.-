@@ -1,6 +1,19 @@
 
 
 - [forrestchang /andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
+- [thedotmack /claude-mem](https://github.com/thedotmack/claude-mem)
+- [jamiepine /voicebox](https://github.com/jamiepine/voicebox)
+- [pascalorg /editor](https://github.com/pascalorg/editor)
+- [microsoft /markitdown](https://github.com/microsoft/markitdown)
+- [obra /superpowers](https://github.com/obra/superpowers)
+- [chrislgarry /Apollo-11](https://github.com/chrislgarry/Apollo-11)
+- [virattt /ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)
+- [shiyu-coder /Kronos](https://github.com/shiyu-coder/Kronos)
+- [NousResearch /hermes-agent](https://github.com/NousResearch/hermes-agent)
+
+
+
+- [forrestchang /andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
 - [NousResearch /hermes-agent](https://github.com/NousResearch/hermes-agent)
 - [shiyu-coder /Kronos](https://github.com/shiyu-coder/Kronos)
 - [thedotmack /claude-mem](https://github.com/thedotmack/claude-mem)
