@@ -118,6 +118,19 @@
 
 
 - [forrestchang /andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
+- [pascalorg /editor](https://github.com/pascalorg/editor)
+- [thedotmack /claude-mem](https://github.com/thedotmack/claude-mem)
+- [Lordog /dive-into-llms](https://github.com/Lordog/dive-into-llms)
+- [virattt /ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)
+- [chrislgarry /Apollo-11](https://github.com/chrislgarry/Apollo-11)
+- [obra /superpowers](https://github.com/obra/superpowers)
+- [jamiepine /voicebox](https://github.com/jamiepine/voicebox)
+- [public-apis /public-apis](https://github.com/public-apis/public-apis)
+- [vercel-labs /open-agents](https://github.com/vercel-labs/open-agents)
+
+
+
+- [forrestchang /andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
 - [thedotmack /claude-mem](https://github.com/thedotmack/claude-mem)
 - [jamiepine /voicebox](https://github.com/jamiepine/voicebox)
 - [pascalorg /editor](https://github.com/pascalorg/editor)
