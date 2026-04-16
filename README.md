@@ -92,6 +92,19 @@
 
 
 - [forrestchang /andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
+- [thedotmack /claude-mem](https://github.com/thedotmack/claude-mem)
+- [lsdefine /GenericAgent](https://github.com/lsdefine/GenericAgent)
+- [jamiepine /voicebox](https://github.com/jamiepine/voicebox)
+- [vercel-labs /open-agents](https://github.com/vercel-labs/open-agents)
+- [google /magika](https://github.com/google/magika)
+- [steipete /wacli](https://github.com/steipete/wacli)
+- [topoteretes /cognee](https://github.com/topoteretes/cognee)
+- [z-lab /dflash](https://github.com/z-lab/dflash)
+- [Lordog /dive-into-llms](https://github.com/Lordog/dive-into-llms)
+
+
+
+- [forrestchang /andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
 - [pascalorg /editor](https://github.com/pascalorg/editor)
 - [thedotmack /claude-mem](https://github.com/thedotmack/claude-mem)
 - [Lordog /dive-into-llms](https://github.com/Lordog/dive-into-llms)
