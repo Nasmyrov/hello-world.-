@@ -65,6 +65,19 @@
 
 
 
+- [EvoMap /evolver](https://github.com/EvoMap/evolver)
+- [lsdefine /GenericAgent](https://github.com/lsdefine/GenericAgent)
+- [SimoneAvogadro /android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill)
+- [BasedHardware /omi](https://github.com/BasedHardware/omi)
+- [Lordog /dive-into-llms](https://github.com/Lordog/dive-into-llms)
+- [Donchitos /Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios)
+- [jamiepine /voicebox](https://github.com/jamiepine/voicebox)
+- [lukilabs /craft-agents-oss](https://github.com/lukilabs/craft-agents-oss)
+- [Tracer-Cloud /opensre](https://github.com/Tracer-Cloud/opensre)
+- [obra /superpowers](https://github.com/obra/superpowers)
+
+
+
 - [forrestchang /andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
 - [thedotmack /claude-mem](https://github.com/thedotmack/claude-mem)
 - [lsdefine /GenericAgent](https://github.com/lsdefine/GenericAgent)
