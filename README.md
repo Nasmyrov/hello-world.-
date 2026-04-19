@@ -169,6 +169,19 @@
 
 
 
+- [thunderbird /thunderbolt](https://github.com/thunderbird/thunderbolt)
+- [BasedHardware /omi](https://github.com/BasedHardware/omi)
+- [openai /openai-agents-python](https://github.com/openai/openai-agents-python)
+- [EvoMap /evolver](https://github.com/EvoMap/evolver)
+- [deepseek-ai /DeepGEMM](https://github.com/deepseek-ai/DeepGEMM)
+- [Lordog /dive-into-llms](https://github.com/Lordog/dive-into-llms)
+- [aaddrick /claude-desktop-debian](https://github.com/aaddrick/claude-desktop-debian)
+- [rustdesk /rustdesk](https://github.com/rustdesk/rustdesk)
+- [SimoneAvogadro /android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill)
+- [tractorjuice /arc-kit](https://github.com/tractorjuice/arc-kit)
+
+
+
 - [EvoMap /evolver](https://github.com/EvoMap/evolver)
 - [lsdefine /GenericAgent](https://github.com/lsdefine/GenericAgent)
 - [SimoneAvogadro /android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill)
