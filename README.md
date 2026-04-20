@@ -40,6 +40,19 @@
 
 
 - [Fincept-Corporation /FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal)
+- [ruvnet /RuView](https://github.com/ruvnet/RuView)
+- [thunderbird /thunderbolt](https://github.com/thunderbird/thunderbolt)
+- [paperless-ngx /paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)
+- [tractorjuice /arc-kit](https://github.com/tractorjuice/arc-kit)
+- [koala73 /worldmonitor](https://github.com/koala73/worldmonitor)
+- [openai /openai-agents-python](https://github.com/openai/openai-agents-python)
+- [deepseek-ai /DeepGEMM](https://github.com/deepseek-ai/DeepGEMM)
+- [pi-hole /pi-hole](https://github.com/pi-hole/pi-hole)
+- [XTLS /Xray-core](https://github.com/XTLS/Xray-core)
+
+
+
+- [Fincept-Corporation /FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal)
 - [thunderbird /thunderbolt](https://github.com/thunderbird/thunderbolt)
 - [tractorjuice /arc-kit](https://github.com/tractorjuice/arc-kit)
 - [openai /openai-agents-python](https://github.com/openai/openai-agents-python)
