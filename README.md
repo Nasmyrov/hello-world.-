@@ -91,6 +91,19 @@
 
 
 
+- [zilliztech /claude-context](https://github.com/zilliztech/claude-context)
+- [Fincept-Corporation /FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal)
+- [koala73 /worldmonitor](https://github.com/koala73/worldmonitor)
+- [langfuse /langfuse](https://github.com/langfuse/langfuse)
+- [KeygraphHQ /shannon](https://github.com/KeygraphHQ/shannon)
+- [open-metadata /OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+- [ruvnet /RuView](https://github.com/ruvnet/RuView)
+- [HKUDS /RAG-Anything](https://github.com/HKUDS/RAG-Anything)
+- [sansan0 /TrendRadar](https://github.com/sansan0/TrendRadar)
+- [AIDC-AI /Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video)
+
+
+
 - [Fincept-Corporation /FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal)
 - [thunderbird /thunderbolt](https://github.com/thunderbird/thunderbolt)
 - [zilliztech /claude-context](https://github.com/zilliztech/claude-context)
