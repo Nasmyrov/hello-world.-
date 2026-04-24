@@ -70,6 +70,19 @@
 - [HKUDS /RAG-Anything](https://github.com/HKUDS/RAG-Anything)
 - [Z4nzu /hackingtool](https://github.com/Z4nzu/hackingtool)
 - [ruvnet /RuView](https://github.com/ruvnet/RuView)
+- [Anil-matcha /Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)
+- [Alishahryar1 /free-claude-code](https://github.com/Alishahryar1/free-claude-code)
+- [open-metadata /OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+- [microsoft /ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
+- [PowerShell /PowerShell](https://github.com/PowerShell/PowerShell)
+
+
+
+- [huggingface /ml-intern](https://github.com/huggingface/ml-intern)
+- [zilliztech /claude-context](https://github.com/zilliztech/claude-context)
+- [HKUDS /RAG-Anything](https://github.com/HKUDS/RAG-Anything)
+- [Z4nzu /hackingtool](https://github.com/Z4nzu/hackingtool)
+- [ruvnet /RuView](https://github.com/ruvnet/RuView)
 - [Alishahryar1 /free-claude-code](https://github.com/Alishahryar1/free-claude-code)
 - [open-metadata /OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 - [microsoft /ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
