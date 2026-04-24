@@ -21,6 +21,19 @@
 - [open-metadata /OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 - [PostHog /posthog](https://github.com/PostHog/posthog)
 - [dani-garcia /vaultwarden](https://github.com/dani-garcia/vaultwarden)
+- [Anil-matcha /Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)
+- [codecrafters-io /build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+
+
+
+- [Alishahryar1 /free-claude-code](https://github.com/Alishahryar1/free-claude-code)
+- [huggingface /ml-intern](https://github.com/huggingface/ml-intern)
+- [google /osv-scanner](https://github.com/google/osv-scanner)
+- [Z4nzu /hackingtool](https://github.com/Z4nzu/hackingtool)
+- [zilliztech /claude-context](https://github.com/zilliztech/claude-context)
+- [open-metadata /OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+- [PostHog /posthog](https://github.com/PostHog/posthog)
+- [dani-garcia /vaultwarden](https://github.com/dani-garcia/vaultwarden)
 - [codecrafters-io /build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
 - [deepseek-ai /DeepEP](https://github.com/deepseek-ai/DeepEP)
 
