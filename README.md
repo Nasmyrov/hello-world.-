@@ -40,6 +40,19 @@
 
 
 - [Alishahryar1 /free-claude-code](https://github.com/Alishahryar1/free-claude-code)
+- [mattpocock /skills](https://github.com/mattpocock/skills)
+- [Z4nzu /hackingtool](https://github.com/Z4nzu/hackingtool)
+- [PostHog /posthog](https://github.com/PostHog/posthog)
+- [davila7 /claude-code-templates](https://github.com/davila7/claude-code-templates)
+- [deepseek-ai /DeepEP](https://github.com/deepseek-ai/DeepEP)
+- [PowerShell /PowerShell](https://github.com/PowerShell/PowerShell)
+- [RooCodeInc /Roo-Code](https://github.com/RooCodeInc/Roo-Code)
+- [huggingface /ml-intern](https://github.com/huggingface/ml-intern)
+- [codecrafters-io /build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+
+
+
+- [Alishahryar1 /free-claude-code](https://github.com/Alishahryar1/free-claude-code)
 - [huggingface /ml-intern](https://github.com/huggingface/ml-intern)
 - [google /osv-scanner](https://github.com/google/osv-scanner)
 - [Z4nzu /hackingtool](https://github.com/Z4nzu/hackingtool)
