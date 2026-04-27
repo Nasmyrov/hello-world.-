@@ -14,6 +14,19 @@
 
 
 - [mattpocock /skills](https://github.com/mattpocock/skills)
+- [abhigyanpatwari /GitNexus](https://github.com/abhigyanpatwari/GitNexus)
+- [ComposioHQ /awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills)
+- [Alishahryar1 /free-claude-code](https://github.com/Alishahryar1/free-claude-code)
+- [gastownhall /beads](https://github.com/gastownhall/beads)
+- [penpot /penpot](https://github.com/penpot/penpot)
+- [davila7 /claude-code-templates](https://github.com/davila7/claude-code-templates)
+- [microsoft /VibeVoice](https://github.com/microsoft/VibeVoice)
+- [Z4nzu /hackingtool](https://github.com/Z4nzu/hackingtool)
+- [TauricResearch /TradingAgents](https://github.com/TauricResearch/TradingAgents)
+
+
+
+- [mattpocock /skills](https://github.com/mattpocock/skills)
 - [Alishahryar1 /free-claude-code](https://github.com/Alishahryar1/free-claude-code)
 - [Z4nzu /hackingtool](https://github.com/Z4nzu/hackingtool)
 - [abhigyanpatwari /GitNexus](https://github.com/abhigyanpatwari/GitNexus)
