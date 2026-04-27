@@ -195,6 +195,19 @@
 
 
 
+- [mattpocock /skills](https://github.com/mattpocock/skills)
+- [Alishahryar1 /free-claude-code](https://github.com/Alishahryar1/free-claude-code)
+- [Z4nzu /hackingtool](https://github.com/Z4nzu/hackingtool)
+- [abhigyanpatwari /GitNexus](https://github.com/abhigyanpatwari/GitNexus)
+- [PostHog /posthog](https://github.com/PostHog/posthog)
+- [microsoft /typescript-go](https://github.com/microsoft/typescript-go)
+- [trycua /cua](https://github.com/trycua/cua)
+- [gastownhall /beads](https://github.com/gastownhall/beads)
+- [curl /curl](https://github.com/curl/curl)
+- [home-assistant /core](https://github.com/home-assistant/core)
+
+
+
 - [Alishahryar1 /free-claude-code](https://github.com/Alishahryar1/free-claude-code)
 - [mattpocock /skills](https://github.com/mattpocock/skills)
 - [Z4nzu /hackingtool](https://github.com/Z4nzu/hackingtool)
