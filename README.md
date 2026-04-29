@@ -107,6 +107,19 @@
 - [mattpocock /skills](https://github.com/mattpocock/skills)
 - [abhigyanpatwari /GitNexus](https://github.com/abhigyanpatwari/GitNexus)
 - [ComposioHQ /awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills)
+- [microsoft /VibeVoice](https://github.com/microsoft/VibeVoice)
+- [davila7 /claude-code-templates](https://github.com/davila7/claude-code-templates)
+- [HunxByts /GhostTrack](https://github.com/HunxByts/GhostTrack)
+- [fspecii /ace-step-ui](https://github.com/fspecii/ace-step-ui)
+- [public-apis /public-apis](https://github.com/public-apis/public-apis)
+- [CJackHwang /ds2api](https://github.com/CJackHwang/ds2api)
+- [Alishahryar1 /free-claude-code](https://github.com/Alishahryar1/free-claude-code)
+
+
+
+- [mattpocock /skills](https://github.com/mattpocock/skills)
+- [abhigyanpatwari /GitNexus](https://github.com/abhigyanpatwari/GitNexus)
+- [ComposioHQ /awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills)
 - [Alishahryar1 /free-claude-code](https://github.com/Alishahryar1/free-claude-code)
 - [gastownhall /beads](https://github.com/gastownhall/beads)
 - [penpot /penpot](https://github.com/penpot/penpot)
