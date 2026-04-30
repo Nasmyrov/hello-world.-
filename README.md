@@ -91,6 +91,19 @@
 
 
 
+- [warpdotdev /warp](https://github.com/warpdotdev/warp)
+- [mattpocock /skills](https://github.com/mattpocock/skills)
+- [HunxByts /GhostTrack](https://github.com/HunxByts/GhostTrack)
+- [ComposioHQ /awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills)
+- [1jehuang /jcode](https://github.com/1jehuang/jcode)
+- [abhigyanpatwari /GitNexus](https://github.com/abhigyanpatwari/GitNexus)
+- [microsoft /VibeVoice](https://github.com/microsoft/VibeVoice)
+- [CJackHwang /ds2api](https://github.com/CJackHwang/ds2api)
+- [obra /superpowers](https://github.com/obra/superpowers)
+- [ZhuLinsen /daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)
+
+
+
 - [mattpocock /skills](https://github.com/mattpocock/skills)
 - [abhigyanpatwari /GitNexus](https://github.com/abhigyanpatwari/GitNexus)
 - [ComposioHQ /awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills)
