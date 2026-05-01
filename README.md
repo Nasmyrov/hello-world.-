@@ -131,6 +131,19 @@
 
 
 - [warpdotdev /warp](https://github.com/warpdotdev/warp)
+- [TauricResearch /TradingAgents](https://github.com/TauricResearch/TradingAgents)
+- [mattpocock /skills](https://github.com/mattpocock/skills)
+- [obra /superpowers](https://github.com/obra/superpowers)
+- [lukilabs /craft-agents-oss](https://github.com/lukilabs/craft-agents-oss)
+- [public-apis /public-apis](https://github.com/public-apis/public-apis)
+- [1jehuang /jcode](https://github.com/1jehuang/jcode)
+- [soxoj /maigret](https://github.com/soxoj/maigret)
+- [HunxByts /GhostTrack](https://github.com/HunxByts/GhostTrack)
+- [iamgio /quarkdown](https://github.com/iamgio/quarkdown)
+
+
+
+- [warpdotdev /warp](https://github.com/warpdotdev/warp)
 - [mattpocock /skills](https://github.com/mattpocock/skills)
 - [HunxByts /GhostTrack](https://github.com/HunxByts/GhostTrack)
 - [ComposioHQ /awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills)
