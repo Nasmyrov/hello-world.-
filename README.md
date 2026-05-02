@@ -156,6 +156,18 @@
 
 
 
+- [TauricResearch /TradingAgents](https://github.com/TauricResearch/TradingAgents)
+- [soxoj /maigret](https://github.com/soxoj/maigret)
+- [warpdotdev /warp](https://github.com/warpdotdev/warp)
+- [1jehuang /jcode](https://github.com/1jehuang/jcode)
+- [mattpocock /skills](https://github.com/mattpocock/skills)
+- [browserbase /skills](https://github.com/browserbase/skills)
+- [simstudioai /sim](https://github.com/simstudioai/sim)
+- [obra /superpowers](https://github.com/obra/superpowers)
+- [Flowseal /zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube)
+
+
+
 - [warpdotdev /warp](https://github.com/warpdotdev/warp)
 - [TauricResearch /TradingAgents](https://github.com/TauricResearch/TradingAgents)
 - [mattpocock /skills](https://github.com/mattpocock/skills)
