@@ -48,6 +48,18 @@
 
 
 
+- [ruvnet /ruflo](https://github.com/ruvnet/ruflo)
+- [TauricResearch /TradingAgents](https://github.com/TauricResearch/TradingAgents)
+- [soxoj /maigret](https://github.com/soxoj/maigret)
+- [Hmbown /DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI)
+- [AIDC-AI /Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video)
+- [browserbase /skills](https://github.com/browserbase/skills)
+- [czlonkowski /n8n-mcp](https://github.com/czlonkowski/n8n-mcp)
+- [1jehuang /jcode](https://github.com/1jehuang/jcode)
+- [openwrt /openwrt](https://github.com/openwrt/openwrt)
+
+
+
 - [TauricResearch /TradingAgents](https://github.com/TauricResearch/TradingAgents)
 - [ruvnet /ruflo](https://github.com/ruvnet/ruflo)
 - [browserbase /skills](https://github.com/browserbase/skills)
