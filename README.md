@@ -28,6 +28,19 @@
 
 - [ruvnet /ruflo](https://github.com/ruvnet/ruflo)
 - [TauricResearch /TradingAgents](https://github.com/TauricResearch/TradingAgents)
+- [browserbase /skills](https://github.com/browserbase/skills)
+- [Hmbown /DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI)
+- [soxoj /maigret](https://github.com/soxoj/maigret)
+- [qbittorrent /qBittorrent](https://github.com/qbittorrent/qBittorrent)
+- [czlonkowski /n8n-mcp](https://github.com/czlonkowski/n8n-mcp)
+- [1jehuang /jcode](https://github.com/1jehuang/jcode)
+- [msitarzewski /agency-agents](https://github.com/msitarzewski/agency-agents)
+- [virattt /dexter](https://github.com/virattt/dexter)
+
+
+
+- [ruvnet /ruflo](https://github.com/ruvnet/ruflo)
+- [TauricResearch /TradingAgents](https://github.com/TauricResearch/TradingAgents)
 - [soxoj /maigret](https://github.com/soxoj/maigret)
 - [Hmbown /DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI)
 - [AIDC-AI /Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video)
