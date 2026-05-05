@@ -35,6 +35,19 @@
 - [cocoindex-io /cocoindex](https://github.com/cocoindex-io/cocoindex)
 - [msitarzewski /agency-agents](https://github.com/msitarzewski/agency-agents)
 - [jwasham /coding-interview-university](https://github.com/jwasham/coding-interview-university)
+- [D4Vinci /Scrapling](https://github.com/D4Vinci/Scrapling)
+
+
+
+- [Hmbown /DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI)
+- [ruvnet /ruflo](https://github.com/ruvnet/ruflo)
+- [virattt /dexter](https://github.com/virattt/dexter)
+- [docusealco /docuseal](https://github.com/docusealco/docuseal)
+- [bwya77 /vscode-dark-islands](https://github.com/bwya77/vscode-dark-islands)
+- [mksglu /context-mode](https://github.com/mksglu/context-mode)
+- [cocoindex-io /cocoindex](https://github.com/cocoindex-io/cocoindex)
+- [msitarzewski /agency-agents](https://github.com/msitarzewski/agency-agents)
+- [jwasham /coding-interview-university](https://github.com/jwasham/coding-interview-university)
 - [Arindam200 /awesome-ai-apps](https://github.com/Arindam200/awesome-ai-apps)
 
 
