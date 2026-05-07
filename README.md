@@ -105,6 +105,19 @@
 
 
 - [Hmbown /DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI)
+- [addyosmani /agent-skills](https://github.com/addyosmani/agent-skills)
+- [PriorLabs /TabPFN](https://github.com/PriorLabs/TabPFN)
+- [docusealco /docuseal](https://github.com/docusealco/docuseal)
+- [LearningCircuit /local-deep-research](https://github.com/LearningCircuit/local-deep-research)
+- [LadybirdBrowser /ladybird](https://github.com/LadybirdBrowser/ladybird)
+- [InsForge /InsForge](https://github.com/InsForge/InsForge)
+- [virattt /dexter](https://github.com/virattt/dexter)
+- [anthropics /financial-services](https://github.com/anthropics/financial-services)
+- [ruvnet /ruflo](https://github.com/ruvnet/ruflo)
+
+
+
+- [Hmbown /DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI)
 - [ruvnet /ruflo](https://github.com/ruvnet/ruflo)
 - [virattt /dexter](https://github.com/virattt/dexter)
 - [docusealco /docuseal](https://github.com/docusealco/docuseal)
