@@ -65,6 +65,19 @@
 
 
 
+- [anthropics /financial-services](https://github.com/anthropics/financial-services)
+- [Hmbown /DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI)
+- [z-lab /dflash](https://github.com/z-lab/dflash)
+- [InsForge /InsForge](https://github.com/InsForge/InsForge)
+- [LearningCircuit /local-deep-research](https://github.com/LearningCircuit/local-deep-research)
+- [addyosmani /agent-skills](https://github.com/addyosmani/agent-skills)
+- [VectifyAI /PageIndex](https://github.com/VectifyAI/PageIndex)
+- [vercel-labs /open-agents](https://github.com/vercel-labs/open-agents)
+- [docusealco /docuseal](https://github.com/docusealco/docuseal)
+- [decolua /9router](https://github.com/decolua/9router)
+
+
+
 - [Hmbown /DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI)
 - [addyosmani /agent-skills](https://github.com/addyosmani/agent-skills)
 - [PriorLabs /TabPFN](https://github.com/PriorLabs/TabPFN)
