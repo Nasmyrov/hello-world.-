@@ -157,6 +157,19 @@
 
 
 - [anthropics /financial-services](https://github.com/anthropics/financial-services)
+- [bytedance /UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)
+- [rohitg00 /agentmemory](https://github.com/rohitg00/agentmemory)
+- [datawhalechina /hello-agents](https://github.com/datawhalechina/hello-agents)
+- [datawhalechina /easy-vibe](https://github.com/datawhalechina/easy-vibe)
+- [rowboatlabs /rowboat](https://github.com/rowboatlabs/rowboat)
+- [ChromeDevTools /chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
+- [masterking32 /MasterDnsVPN](https://github.com/masterking32/MasterDnsVPN)
+- [playcanvas /supersplat](https://github.com/playcanvas/supersplat)
+- [Lordog /dive-into-llms](https://github.com/Lordog/dive-into-llms)
+
+
+
+- [anthropics /financial-services](https://github.com/anthropics/financial-services)
 - [addyosmani /agent-skills](https://github.com/addyosmani/agent-skills)
 - [Hmbown /DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI)
 - [z-lab /dflash](https://github.com/z-lab/dflash)
