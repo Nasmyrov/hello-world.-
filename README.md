@@ -26,6 +26,19 @@
 
 
 
+- [bytedance /UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)
+- [anthropics /financial-services](https://github.com/anthropics/financial-services)
+- [addyosmani /agent-skills](https://github.com/addyosmani/agent-skills)
+- [CloakHQ /CloakBrowser](https://github.com/CloakHQ/CloakBrowser)
+- [HKUDS /AI-Trader](https://github.com/HKUDS/AI-Trader)
+- [jundot /omlx](https://github.com/jundot/omlx)
+- [datawhalechina /easy-vibe](https://github.com/datawhalechina/easy-vibe)
+- [playcanvas /supersplat](https://github.com/playcanvas/supersplat)
+- [masterking32 /MasterDnsVPN](https://github.com/masterking32/MasterDnsVPN)
+- [lsdefine /GenericAgent](https://github.com/lsdefine/GenericAgent)
+
+
+
 - [anthropics /financial-services](https://github.com/anthropics/financial-services)
 - [bytedance /UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)
 - [rohitg00 /agentmemory](https://github.com/rohitg00/agentmemory)
