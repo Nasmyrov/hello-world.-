@@ -14,6 +14,19 @@
 
 
 - [bytedance /UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)
+- [CloakHQ /CloakBrowser](https://github.com/CloakHQ/CloakBrowser)
+- [yikart /AiToEarn](https://github.com/yikart/AiToEarn)
+- [playcanvas /supersplat](https://github.com/playcanvas/supersplat)
+- [datawhalechina /easy-vibe](https://github.com/datawhalechina/easy-vibe)
+- [decolua /9router](https://github.com/decolua/9router)
+- [tinyhumansai /openhuman](https://github.com/tinyhumansai/openhuman)
+- [millionco /react-doctor](https://github.com/millionco/react-doctor)
+- [Lordog /dive-into-llms](https://github.com/Lordog/dive-into-llms)
+- [AUTOMATIC1111 /stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+
+
+
+- [bytedance /UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)
 - [anthropics /financial-services](https://github.com/anthropics/financial-services)
 - [addyosmani /agent-skills](https://github.com/addyosmani/agent-skills)
 - [CloakHQ /CloakBrowser](https://github.com/CloakHQ/CloakBrowser)
