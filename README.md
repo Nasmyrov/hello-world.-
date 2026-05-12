@@ -39,6 +39,19 @@
 
 
 
+- [tinyhumansai /openhuman](https://github.com/tinyhumansai/openhuman)
+- [rohitg00 /agentmemory](https://github.com/rohitg00/agentmemory)
+- [CloakHQ /CloakBrowser](https://github.com/CloakHQ/CloakBrowser)
+- [apernet /hysteria](https://github.com/apernet/hysteria)
+- [mattpocock /skills](https://github.com/mattpocock/skills)
+- [anonfaded /FadCam](https://github.com/anonfaded/FadCam)
+- [millionco /react-doctor](https://github.com/millionco/react-doctor)
+- [rasbt /LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
+- [datawhalechina /hello-agents](https://github.com/datawhalechina/hello-agents)
+- [yikart /AiToEarn](https://github.com/yikart/AiToEarn)
+
+
+
 - [bytedance /UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)
 - [CloakHQ /CloakBrowser](https://github.com/CloakHQ/CloakBrowser)
 - [yikart /AiToEarn](https://github.com/yikart/AiToEarn)
