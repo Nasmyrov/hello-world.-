@@ -28,6 +28,19 @@
 
 - [tinyhumansai /openhuman](https://github.com/tinyhumansai/openhuman)
 - [rohitg00 /agentmemory](https://github.com/rohitg00/agentmemory)
+- [obra /superpowers](https://github.com/obra/superpowers)
+- [yikart /AiToEarn](https://github.com/yikart/AiToEarn)
+- [influxdata /telegraf](https://github.com/influxdata/telegraf)
+- [millionco /react-doctor](https://github.com/millionco/react-doctor)
+- [K-Dense-AI /scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)
+- [danielmiessler /Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure)
+- [supertone-inc /supertonic](https://github.com/supertone-inc/supertonic)
+- [CloakHQ /CloakBrowser](https://github.com/CloakHQ/CloakBrowser)
+
+
+
+- [tinyhumansai /openhuman](https://github.com/tinyhumansai/openhuman)
+- [rohitg00 /agentmemory](https://github.com/rohitg00/agentmemory)
 - [CloakHQ /CloakBrowser](https://github.com/CloakHQ/CloakBrowser)
 - [apernet /hysteria](https://github.com/apernet/hysteria)
 - [mattpocock /skills](https://github.com/mattpocock/skills)
