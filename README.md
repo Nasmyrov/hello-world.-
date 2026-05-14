@@ -26,6 +26,19 @@
 
 
 
+- [ruvnet /RuView](https://github.com/ruvnet/RuView)
+- [tinyhumansai /openhuman](https://github.com/tinyhumansai/openhuman)
+- [rohitg00 /agentmemory](https://github.com/rohitg00/agentmemory)
+- [obra /superpowers](https://github.com/obra/superpowers)
+- [K-Dense-AI /scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)
+- [shiyu-coder /Kronos](https://github.com/shiyu-coder/Kronos)
+- [roboflow /supervision](https://github.com/roboflow/supervision)
+- [influxdata /telegraf](https://github.com/influxdata/telegraf)
+- [supertone-inc /supertonic](https://github.com/supertone-inc/supertonic)
+- [Genymobile /scrcpy](https://github.com/Genymobile/scrcpy)
+
+
+
 - [tinyhumansai /openhuman](https://github.com/tinyhumansai/openhuman)
 - [rohitg00 /agentmemory](https://github.com/rohitg00/agentmemory)
 - [obra /superpowers](https://github.com/obra/superpowers)
