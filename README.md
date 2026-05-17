@@ -104,6 +104,19 @@
 
 
 
+- [tinyhumansai /openhuman](https://github.com/tinyhumansai/openhuman)
+- [HKUDS /CLI-Anything](https://github.com/HKUDS/CLI-Anything)
+- [calcom /cal.diy](https://github.com/calcom/cal.diy)
+- [oven-sh /bun](https://github.com/oven-sh/bun)
+- [Anil-matcha /Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)
+- [BigBodyCobain /Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker)
+- [tech-leads-club /agent-skills](https://github.com/tech-leads-club/agent-skills)
+- [NirDiamant /agents-towards-production](https://github.com/NirDiamant/agents-towards-production)
+- [dograh-hq /dograh](https://github.com/dograh-hq/dograh)
+- [K-Dense-AI /scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)
+
+
+
 - [oven-sh /bun](https://github.com/oven-sh/bun)
 - [K-Dense-AI /scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)
 - [obra /superpowers](https://github.com/obra/superpowers)
