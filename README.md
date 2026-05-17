@@ -95,6 +95,17 @@
 - [supertone-inc /supertonic](https://github.com/supertone-inc/supertonic)
 - [tinyhumansai /openhuman](https://github.com/tinyhumansai/openhuman)
 - [ruvnet /RuView](https://github.com/ruvnet/RuView)
+- [colbymchenry /codegraph](https://github.com/colbymchenry/codegraph)
+
+
+
+- [oven-sh /bun](https://github.com/oven-sh/bun)
+- [K-Dense-AI /scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)
+- [obra /superpowers](https://github.com/obra/superpowers)
+- [Anil-matcha /Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)
+- [supertone-inc /supertonic](https://github.com/supertone-inc/supertonic)
+- [tinyhumansai /openhuman](https://github.com/tinyhumansai/openhuman)
+- [ruvnet /RuView](https://github.com/ruvnet/RuView)
 - [pranshuparmar /witr](https://github.com/pranshuparmar/witr)
 - [colbymchenry /codegraph](https://github.com/colbymchenry/codegraph)
 
