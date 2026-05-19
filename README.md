@@ -1,6 +1,19 @@
 
 
 - [tinyhumansai /openhuman](https://github.com/tinyhumansai/openhuman)
+- [HKUDS /CLI-Anything](https://github.com/HKUDS/CLI-Anything)
+- [Imbad0202 /academic-research-skills](https://github.com/Imbad0202/academic-research-skills)
+- [obra /superpowers](https://github.com/obra/superpowers)
+- [anthropics /claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
+- [rohitg00 /agentmemory](https://github.com/rohitg00/agentmemory)
+- [CloakHQ /CloakBrowser](https://github.com/CloakHQ/CloakBrowser)
+- [rtk-ai /rtk](https://github.com/rtk-ai/rtk)
+- [msitarzewski /agency-agents](https://github.com/msitarzewski/agency-agents)
+- [colbymchenry /codegraph](https://github.com/colbymchenry/codegraph)
+
+
+
+- [tinyhumansai /openhuman](https://github.com/tinyhumansai/openhuman)
 - [Imbad0202 /academic-research-skills](https://github.com/Imbad0202/academic-research-skills)
 - [HKUDS /CLI-Anything](https://github.com/HKUDS/CLI-Anything)
 - [K-Dense-AI /scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)
