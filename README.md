@@ -79,6 +79,19 @@
 
 
 - [tinyhumansai /openhuman](https://github.com/tinyhumansai/openhuman)
+- [Imbad0202 /academic-research-skills](https://github.com/Imbad0202/academic-research-skills)
+- [HKUDS /CLI-Anything](https://github.com/HKUDS/CLI-Anything)
+- [K-Dense-AI /scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)
+- [supertone-inc /supertonic](https://github.com/supertone-inc/supertonic)
+- [ggml-org /llama.cpp](https://github.com/ggml-org/llama.cpp)
+- [ruvnet /RuView](https://github.com/ruvnet/RuView)
+- [CloakHQ /CloakBrowser](https://github.com/CloakHQ/CloakBrowser)
+- [tech-leads-club /agent-skills](https://github.com/tech-leads-club/agent-skills)
+- [BigBodyCobain /Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker)
+
+
+
+- [tinyhumansai /openhuman](https://github.com/tinyhumansai/openhuman)
 - [HKUDS /CLI-Anything](https://github.com/HKUDS/CLI-Anything)
 - [calcom /cal.diy](https://github.com/calcom/cal.diy)
 - [oven-sh /bun](https://github.com/oven-sh/bun)
