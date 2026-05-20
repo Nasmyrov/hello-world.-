@@ -52,6 +52,19 @@
 
 
 
+- [colbymchenry /codegraph](https://github.com/colbymchenry/codegraph)
+- [Imbad0202 /academic-research-skills](https://github.com/Imbad0202/academic-research-skills)
+- [tinyhumansai /openhuman](https://github.com/tinyhumansai/openhuman)
+- [multica-ai /andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)
+- [rohitg00 /ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
+- [HKUDS /CLI-Anything](https://github.com/HKUDS/CLI-Anything)
+- [can1357 /oh-my-pi](https://github.com/can1357/oh-my-pi)
+- [obra /superpowers](https://github.com/obra/superpowers)
+- [anthropics /claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
+- [msitarzewski /agency-agents](https://github.com/msitarzewski/agency-agents)
+
+
+
 - [tinyhumansai /openhuman](https://github.com/tinyhumansai/openhuman)
 - [HKUDS /CLI-Anything](https://github.com/HKUDS/CLI-Anything)
 - [Imbad0202 /academic-research-skills](https://github.com/Imbad0202/academic-research-skills)
