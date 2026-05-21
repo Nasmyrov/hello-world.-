@@ -52,6 +52,19 @@
 
 
 
+- [anthropics /claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
+- [colbymchenry /codegraph](https://github.com/colbymchenry/codegraph)
+- [multica-ai /andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)
+- [dotnet /skills](https://github.com/dotnet/skills)
+- [obra /superpowers](https://github.com/obra/superpowers)
+- [HKUDS /CLI-Anything](https://github.com/HKUDS/CLI-Anything)
+- [rmyndharis /OpenWA](https://github.com/rmyndharis/OpenWA)
+- [ChromeDevTools /chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
+- [rohitg00 /ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
+- [teng-lin /notebooklm-py](https://github.com/teng-lin/notebooklm-py)
+
+
+
 - [colbymchenry /codegraph](https://github.com/colbymchenry/codegraph)
 - [Imbad0202 /academic-research-skills](https://github.com/Imbad0202/academic-research-skills)
 - [tinyhumansai /openhuman](https://github.com/tinyhumansai/openhuman)
