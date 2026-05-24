@@ -130,6 +130,19 @@
 
 
 
+- [Lum1104 /Understand-Anything](https://github.com/Lum1104/Understand-Anything)
+- [anthropics /claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
+- [colbymchenry /codegraph](https://github.com/colbymchenry/codegraph)
+- [rohitg00 /ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
+- [Fincept-Corporation /FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal)
+- [multica-ai /andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)
+- [dotnet /skills](https://github.com/dotnet/skills)
+- [ChromeDevTools /chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
+- [mukul975 /Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)
+- [presenton /presenton](https://github.com/presenton/presenton)
+
+
+
 - [anthropics /claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
 - [colbymchenry /codegraph](https://github.com/colbymchenry/codegraph)
 - [ruvnet /RuView](https://github.com/ruvnet/RuView)
