@@ -14,6 +14,19 @@
 
 
 - [Lum1104 /Understand-Anything](https://github.com/Lum1104/Understand-Anything)
+- [rohitg00 /ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
+- [anthropics /claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
+- [anthropics /knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)
+- [multica-ai /andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)
+- [earendil-works /pi](https://github.com/earendil-works/pi)
+- [Alishahryar1 /free-claude-code](https://github.com/Alishahryar1/free-claude-code)
+- [colbymchenry /codegraph](https://github.com/colbymchenry/codegraph)
+- [multica-ai /multica](https://github.com/multica-ai/multica)
+- [shiyu-coder /Kronos](https://github.com/shiyu-coder/Kronos)
+
+
+
+- [Lum1104 /Understand-Anything](https://github.com/Lum1104/Understand-Anything)
 - [anthropics /claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
 - [colbymchenry /codegraph](https://github.com/colbymchenry/codegraph)
 - [rohitg00 /ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
