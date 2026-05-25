@@ -40,6 +40,19 @@
 
 
 - [Lum1104 /Understand-Anything](https://github.com/Lum1104/Understand-Anything)
+- [anthropics /knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)
+- [rohitg00 /ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
+- [affaan-m /ECC](https://github.com/affaan-m/ECC)
+- [mukul975 /Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)
+- [colbymchenry /codegraph](https://github.com/colbymchenry/codegraph)
+- [manaflow-ai /cmux](https://github.com/manaflow-ai/cmux)
+- [multica-ai /andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)
+- [Fincept-Corporation /FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal)
+- [paperless-ngx /paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)
+
+
+
+- [Lum1104 /Understand-Anything](https://github.com/Lum1104/Understand-Anything)
 - [rohitg00 /ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
 - [anthropics /claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
 - [anthropics /knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)
