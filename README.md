@@ -1,6 +1,19 @@
 
 
 - [Lum1104 /Understand-Anything](https://github.com/Lum1104/Understand-Anything)
+- [hardikpandya /stop-slop](https://github.com/hardikpandya/stop-slop)
+- [affaan-m /ECC](https://github.com/affaan-m/ECC)
+- [anthropics /knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)
+- [Leonxlnx /taste-skill](https://github.com/Leonxlnx/taste-skill)
+- [p-e-w /heretic](https://github.com/p-e-w/heretic)
+- [shiyu-coder /Kronos](https://github.com/shiyu-coder/Kronos)
+- [mukul975 /Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)
+- [twentyhq /twenty](https://github.com/twentyhq/twenty)
+- [Yeachan-Heo /oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)
+
+
+
+- [Lum1104 /Understand-Anything](https://github.com/Lum1104/Understand-Anything)
 - [affaan-m /ECC](https://github.com/affaan-m/ECC)
 - [rohitg00 /ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
 - [anthropics /knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)
