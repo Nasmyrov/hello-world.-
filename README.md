@@ -14,6 +14,19 @@
 
 
 - [harry0703 /MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
+- [affaan-m /ECC](https://github.com/affaan-m/ECC)
+- [Leonxlnx /taste-skill](https://github.com/Leonxlnx/taste-skill)
+- [hardikpandya /stop-slop](https://github.com/hardikpandya/stop-slop)
+- [twentyhq /twenty](https://github.com/twentyhq/twenty)
+- [DigitalPlatDev /FreeDomain](https://github.com/DigitalPlatDev/FreeDomain)
+- [byoungd /English-level-up-tips](https://github.com/byoungd/English-level-up-tips)
+- [microsoft /markitdown](https://github.com/microsoft/markitdown)
+- [obra /superpowers](https://github.com/obra/superpowers)
+- [revfactory /harness](https://github.com/revfactory/harness)
+
+
+
+- [harry0703 /MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
 - [Lum1104 /Understand-Anything](https://github.com/Lum1104/Understand-Anything)
 - [hardikpandya /stop-slop](https://github.com/hardikpandya/stop-slop)
 - [affaan-m /ECC](https://github.com/affaan-m/ECC)
