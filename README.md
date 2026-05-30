@@ -105,6 +105,19 @@
 
 
 - [harry0703 /MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
+- [microsoft /markitdown](https://github.com/microsoft/markitdown)
+- [EveryInc /compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin)
+- [twentyhq /twenty](https://github.com/twentyhq/twenty)
+- [anthropics /claude-code](https://github.com/anthropics/claude-code)
+- [Leonxlnx /taste-skill](https://github.com/Leonxlnx/taste-skill)
+- [cursor /plugins](https://github.com/cursor/plugins)
+- [run-llama /liteparse](https://github.com/run-llama/liteparse)
+- [galilai-group /stable-worldmodel](https://github.com/galilai-group/stable-worldmodel)
+- [byoungd /English-level-up-tips](https://github.com/byoungd/English-level-up-tips)
+
+
+
+- [harry0703 /MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
 - [affaan-m /ECC](https://github.com/affaan-m/ECC)
 - [Leonxlnx /taste-skill](https://github.com/Leonxlnx/taste-skill)
 - [hardikpandya /stop-slop](https://github.com/hardikpandya/stop-slop)
