@@ -104,6 +104,19 @@
 
 
 
+- [microsoft /markitdown](https://github.com/microsoft/markitdown)
+- [harry0703 /MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
+- [anthropics /claude-code](https://github.com/anthropics/claude-code)
+- [cursor /plugins](https://github.com/cursor/plugins)
+- [revfactory /harness](https://github.com/revfactory/harness)
+- [EveryInc /compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin)
+- [affaan-m /ECC](https://github.com/affaan-m/ECC)
+- [OpenBMB /VoxCPM](https://github.com/OpenBMB/VoxCPM)
+- [galilai-group /stable-worldmodel](https://github.com/galilai-group/stable-worldmodel)
+- [Crosstalk-Solutions /project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
+
+
+
 - [harry0703 /MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
 - [microsoft /markitdown](https://github.com/microsoft/markitdown)
 - [EveryInc /compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin)
