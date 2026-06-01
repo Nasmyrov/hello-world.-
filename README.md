@@ -91,6 +91,19 @@
 
 
 
+- [harry0703 /MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
+- [microsoft /markitdown](https://github.com/microsoft/markitdown)
+- [D4Vinci /Scrapling](https://github.com/D4Vinci/Scrapling)
+- [nesquena /hermes-webui](https://github.com/nesquena/hermes-webui)
+- [EveryInc /compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin)
+- [github /docs](https://github.com/github/docs)
+- [OpenBMB /VoxCPM](https://github.com/OpenBMB/VoxCPM)
+- [revfactory /harness](https://github.com/revfactory/harness)
+- [FareedKhan-dev /train-llm-from-scratch](https://github.com/FareedKhan-dev/train-llm-from-scratch)
+- [supermemoryai /supermemory](https://github.com/supermemoryai/supermemory)
+
+
+
 - [microsoft /markitdown](https://github.com/microsoft/markitdown)
 - [harry0703 /MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
 - [anthropics /claude-code](https://github.com/anthropics/claude-code)
