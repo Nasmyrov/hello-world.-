@@ -65,6 +65,19 @@
 
 
 
+- [microsoft /markitdown](https://github.com/microsoft/markitdown)
+- [nesquena /hermes-webui](https://github.com/nesquena/hermes-webui)
+- [supermemoryai /supermemory](https://github.com/supermemoryai/supermemory)
+- [harry0703 /MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
+- [D4Vinci /Scrapling](https://github.com/D4Vinci/Scrapling)
+- [pbakaus /impeccable](https://github.com/pbakaus/impeccable)
+- [p-e-w /heretic](https://github.com/p-e-w/heretic)
+- [EveryInc /compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin)
+- [TauricResearch /TradingAgents](https://github.com/TauricResearch/TradingAgents)
+- [revfactory /harness](https://github.com/revfactory/harness)
+
+
+
 - [harry0703 /MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
 - [microsoft /markitdown](https://github.com/microsoft/markitdown)
 - [D4Vinci /Scrapling](https://github.com/D4Vinci/Scrapling)
