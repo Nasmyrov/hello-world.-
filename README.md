@@ -39,6 +39,19 @@
 
 
 
+- [chopratejas /headroom](https://github.com/chopratejas/headroom)
+- [microsoft /markitdown](https://github.com/microsoft/markitdown)
+- [affaan-m /ECC](https://github.com/affaan-m/ECC)
+- [D4Vinci /Scrapling](https://github.com/D4Vinci/Scrapling)
+- [nesquena /hermes-webui](https://github.com/nesquena/hermes-webui)
+- [reconurge /flowsint](https://github.com/reconurge/flowsint)
+- [OpenBMB /VoxCPM](https://github.com/OpenBMB/VoxCPM)
+- [stefan-jansen /machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading)
+- [jamwithai /production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course)
+- [supermemoryai /supermemory](https://github.com/supermemoryai/supermemory)
+
+
+
 - [microsoft /markitdown](https://github.com/microsoft/markitdown)
 - [nesquena /hermes-webui](https://github.com/nesquena/hermes-webui)
 - [supermemoryai /supermemory](https://github.com/supermemoryai/supermemory)
