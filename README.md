@@ -14,6 +14,19 @@
 
 
 - [chopratejas /headroom](https://github.com/chopratejas/headroom)
+- [affaan-m /ECC](https://github.com/affaan-m/ECC)
+- [aquasecurity /trivy](https://github.com/aquasecurity/trivy)
+- [NousResearch /hermes-agent](https://github.com/NousResearch/hermes-agent)
+- [microsoft /markitdown](https://github.com/microsoft/markitdown)
+- [nesquena /hermes-webui](https://github.com/nesquena/hermes-webui)
+- [D4Vinci /Scrapling](https://github.com/D4Vinci/Scrapling)
+- [opendataloader-project /opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)
+- [odoo /odoo](https://github.com/odoo/odoo)
+- [Open-LLM-VTuber /Open-LLM-VTuber](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber)
+
+
+
+- [chopratejas /headroom](https://github.com/chopratejas/headroom)
 - [microsoft /markitdown](https://github.com/microsoft/markitdown)
 - [affaan-m /ECC](https://github.com/affaan-m/ECC)
 - [D4Vinci /Scrapling](https://github.com/D4Vinci/Scrapling)
