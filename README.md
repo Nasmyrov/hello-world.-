@@ -104,6 +104,19 @@
 
 
 
+- [NousResearch /hermes-agent](https://github.com/NousResearch/hermes-agent)
+- [chopratejas /headroom](https://github.com/chopratejas/headroom)
+- [CopilotKit /CopilotKit](https://github.com/CopilotKit/CopilotKit)
+- [lfnovo /open-notebook](https://github.com/lfnovo/open-notebook)
+- [affaan-m /ECC](https://github.com/affaan-m/ECC)
+- [Panniantong /Agent-Reach](https://github.com/Panniantong/Agent-Reach)
+- [NVIDIA /cosmos](https://github.com/NVIDIA/cosmos)
+- [666ghj /MiroFish](https://github.com/666ghj/MiroFish)
+- [mvanhorn /last30days-skill](https://github.com/mvanhorn/last30days-skill)
+- [PaddlePaddle /PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
+
+
+
 - [chopratejas /headroom](https://github.com/chopratejas/headroom)
 - [NousResearch /hermes-agent](https://github.com/NousResearch/hermes-agent)
 - [affaan-m /ECC](https://github.com/affaan-m/ECC)
