@@ -39,6 +39,19 @@
 
 
 
+- [mvanhorn /last30days-skill](https://github.com/mvanhorn/last30days-skill)
+- [CopilotKit /CopilotKit](https://github.com/CopilotKit/CopilotKit)
+- [MemPalace /mempalace](https://github.com/MemPalace/mempalace)
+- [danielmiessler /Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure)
+- [openai /plugins](https://github.com/openai/plugins)
+- [Panniantong /Agent-Reach](https://github.com/Panniantong/Agent-Reach)
+- [sveltejs /svelte](https://github.com/sveltejs/svelte)
+- [nginx /nginx](https://github.com/nginx/nginx)
+- [aquasecurity /trivy](https://github.com/aquasecurity/trivy)
+- [golang /go](https://github.com/golang/go)
+
+
+
 - [NousResearch /hermes-agent](https://github.com/NousResearch/hermes-agent)
 - [chopratejas /headroom](https://github.com/chopratejas/headroom)
 - [CopilotKit /CopilotKit](https://github.com/CopilotKit/CopilotKit)
