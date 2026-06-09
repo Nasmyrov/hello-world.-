@@ -66,6 +66,19 @@
 
 
 - [mvanhorn /last30days-skill](https://github.com/mvanhorn/last30days-skill)
+- [RyanCodrai /turbovec](https://github.com/RyanCodrai/turbovec)
+- [google /skills](https://github.com/google/skills)
+- [refactoringhq /tolaria](https://github.com/refactoringhq/tolaria)
+- [Panniantong /Agent-Reach](https://github.com/Panniantong/Agent-Reach)
+- [danielmiessler /Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure)
+- [santifer /career-ops](https://github.com/santifer/career-ops)
+- [phuryn /pm-skills](https://github.com/phuryn/pm-skills)
+- [openai /plugins](https://github.com/openai/plugins)
+- [Andyyyy64 /whichllm](https://github.com/Andyyyy64/whichllm)
+
+
+
+- [mvanhorn /last30days-skill](https://github.com/mvanhorn/last30days-skill)
 - [opencv /opencv](https://github.com/opencv/opencv)
 - [Leonxlnx /taste-skill](https://github.com/Leonxlnx/taste-skill)
 - [NousResearch /hermes-agent](https://github.com/NousResearch/hermes-agent)
