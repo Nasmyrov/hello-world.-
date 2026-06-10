@@ -80,6 +80,19 @@
 
 - [mvanhorn /last30days-skill](https://github.com/mvanhorn/last30days-skill)
 - [RyanCodrai /turbovec](https://github.com/RyanCodrai/turbovec)
+- [roboflow /supervision](https://github.com/roboflow/supervision)
+- [opencv /opencv](https://github.com/opencv/opencv)
+- [refactoringhq /tolaria](https://github.com/refactoringhq/tolaria)
+- [aaif-goose /goose](https://github.com/aaif-goose/goose)
+- [Andyyyy64 /whichllm](https://github.com/Andyyyy64/whichllm)
+- [TapXWorld /ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)
+- [x1xhlol /system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
+- [yikart /AiToEarn](https://github.com/yikart/AiToEarn)
+
+
+
+- [mvanhorn /last30days-skill](https://github.com/mvanhorn/last30days-skill)
+- [RyanCodrai /turbovec](https://github.com/RyanCodrai/turbovec)
 - [google /skills](https://github.com/google/skills)
 - [refactoringhq /tolaria](https://github.com/refactoringhq/tolaria)
 - [Panniantong /Agent-Reach](https://github.com/Panniantong/Agent-Reach)
