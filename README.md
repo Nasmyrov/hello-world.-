@@ -52,6 +52,19 @@
 
 
 
+- [addyosmani /agent-skills](https://github.com/addyosmani/agent-skills)
+- [phuryn /pm-skills](https://github.com/phuryn/pm-skills)
+- [refactoringhq /tolaria](https://github.com/refactoringhq/tolaria)
+- [mvanhorn /last30days-skill](https://github.com/mvanhorn/last30days-skill)
+- [soxoj /maigret](https://github.com/soxoj/maigret)
+- [x1xhlol /system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
+- [obra /superpowers](https://github.com/obra/superpowers)
+- [masterking32 /MasterDnsVPN](https://github.com/masterking32/MasterDnsVPN)
+- [harry0703 /MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
+- [maziyarpanahi /openmed](https://github.com/maziyarpanahi/openmed)
+
+
+
 - [mvanhorn /last30days-skill](https://github.com/mvanhorn/last30days-skill)
 - [RyanCodrai /turbovec](https://github.com/RyanCodrai/turbovec)
 - [roboflow /supervision](https://github.com/roboflow/supervision)
