@@ -1,5 +1,18 @@
 
 
+- [addyosmani /agent-skills](https://github.com/addyosmani/agent-skills)
+- [music-assistant /server](https://github.com/music-assistant/server)
+- [mattermost /mattermost](https://github.com/mattermost/mattermost)
+- [apple /container](https://github.com/apple/container)
+- [iptv-org /iptv](https://github.com/iptv-org/iptv)
+- [obra /superpowers](https://github.com/obra/superpowers)
+- [refactoringhq /tolaria](https://github.com/refactoringhq/tolaria)
+- [maziyarpanahi /openmed](https://github.com/maziyarpanahi/openmed)
+- [LMCache /LMCache](https://github.com/LMCache/LMCache)
+- [phuryn /pm-skills](https://github.com/phuryn/pm-skills)
+
+
+
 - [apple /container](https://github.com/apple/container)
 - [addyosmani /agent-skills](https://github.com/addyosmani/agent-skills)
 - [maziyarpanahi /openmed](https://github.com/maziyarpanahi/openmed)
