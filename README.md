@@ -78,6 +78,19 @@
 
 
 
+- [apple /container](https://github.com/apple/container)
+- [addyosmani /agent-skills](https://github.com/addyosmani/agent-skills)
+- [maziyarpanahi /openmed](https://github.com/maziyarpanahi/openmed)
+- [phuryn /pm-skills](https://github.com/phuryn/pm-skills)
+- [NVIDIA /SkillSpector](https://github.com/NVIDIA/SkillSpector)
+- [soxoj /maigret](https://github.com/soxoj/maigret)
+- [x1xhlol /system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
+- [refactoringhq /tolaria](https://github.com/refactoringhq/tolaria)
+- [obra /superpowers](https://github.com/obra/superpowers)
+- [restic /restic](https://github.com/restic/restic)
+
+
+
 - [addyosmani /agent-skills](https://github.com/addyosmani/agent-skills)
 - [phuryn /pm-skills](https://github.com/phuryn/pm-skills)
 - [refactoringhq /tolaria](https://github.com/refactoringhq/tolaria)
