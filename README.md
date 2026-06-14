@@ -91,6 +91,19 @@
 
 
 
+- [iptv-org /iptv](https://github.com/iptv-org/iptv)
+- [addyosmani /agent-skills](https://github.com/addyosmani/agent-skills)
+- [chatwoot /chatwoot](https://github.com/chatwoot/chatwoot)
+- [obra /superpowers](https://github.com/obra/superpowers)
+- [apple /container](https://github.com/apple/container)
+- [music-assistant /server](https://github.com/music-assistant/server)
+- [kenn-io /agentsview](https://github.com/kenn-io/agentsview)
+- [LMCache /LMCache](https://github.com/LMCache/LMCache)
+- [microsoft /PowerToys](https://github.com/microsoft/PowerToys)
+- [andrewyng /aisuite](https://github.com/andrewyng/aisuite)
+
+
+
 - [addyosmani /agent-skills](https://github.com/addyosmani/agent-skills)
 - [music-assistant /server](https://github.com/music-assistant/server)
 - [mattermost /mattermost](https://github.com/mattermost/mattermost)
