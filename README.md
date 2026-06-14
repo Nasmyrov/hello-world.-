@@ -66,6 +66,19 @@
 
 
 - [iptv-org /iptv](https://github.com/iptv-org/iptv)
+- [freeCodeCamp /freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+- [pytest-dev /pytest](https://github.com/pytest-dev/pytest)
+- [swc-project /swc](https://github.com/swc-project/swc)
+- [chatwoot /chatwoot](https://github.com/chatwoot/chatwoot)
+- [NVIDIA /SkillSpector](https://github.com/NVIDIA/SkillSpector)
+- [meshery /meshery](https://github.com/meshery/meshery)
+- [cypress-io /cypress](https://github.com/cypress-io/cypress)
+- [GorvGoyl /Clone-Wars](https://github.com/GorvGoyl/Clone-Wars)
+- [Introduction-to-Autonomous-Robots /Introduction-to-Autonomous-Robots](https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots)
+
+
+
+- [iptv-org /iptv](https://github.com/iptv-org/iptv)
 - [addyosmani /agent-skills](https://github.com/addyosmani/agent-skills)
 - [chatwoot /chatwoot](https://github.com/chatwoot/chatwoot)
 - [obra /superpowers](https://github.com/obra/superpowers)
