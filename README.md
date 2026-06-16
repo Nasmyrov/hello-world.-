@@ -1,5 +1,18 @@
 
 
+- [freeCodeCamp /freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+- [swc-project /swc](https://github.com/swc-project/swc)
+- [teslamate-org /teslamate](https://github.com/teslamate-org/teslamate)
+- [iptv-org /iptv](https://github.com/iptv-org/iptv)
+- [puppeteer /puppeteer](https://github.com/puppeteer/puppeteer)
+- [meshery /meshery](https://github.com/meshery/meshery)
+- [cypress-io /cypress](https://github.com/cypress-io/cypress)
+- [music-assistant /server](https://github.com/music-assistant/server)
+- [Universal-Debloater-Alliance /universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation)
+- [OpenBMB /VoxCPM](https://github.com/OpenBMB/VoxCPM)
+
+
+
 - [iptv-org /iptv](https://github.com/iptv-org/iptv)
 - [teslamate-org /teslamate](https://github.com/teslamate-org/teslamate)
 - [Panniantong /Agent-Reach](https://github.com/Panniantong/Agent-Reach)
