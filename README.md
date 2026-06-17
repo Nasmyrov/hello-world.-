@@ -1,5 +1,18 @@
 
 
+- [DeusData /codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
+- [n0-computer /iroh](https://github.com/n0-computer/iroh)
+- [Panniantong /Agent-Reach](https://github.com/Panniantong/Agent-Reach)
+- [meshery /meshery](https://github.com/meshery/meshery)
+- [obra /superpowers](https://github.com/obra/superpowers)
+- [google-research /timesfm](https://github.com/google-research/timesfm)
+- [RocketChat /Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)
+- [continuedev /continue](https://github.com/continuedev/continue)
+- [penpot /penpot](https://github.com/penpot/penpot)
+- [krahets /hello-algo](https://github.com/krahets/hello-algo)
+
+
+
 - [freeCodeCamp /freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
 - [swc-project /swc](https://github.com/swc-project/swc)
 - [teslamate-org /teslamate](https://github.com/teslamate-org/teslamate)
