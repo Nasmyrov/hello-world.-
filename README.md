@@ -13,6 +13,19 @@
 
 
 
+- [google-research /timesfm](https://github.com/google-research/timesfm)
+- [n0-computer /iroh](https://github.com/n0-computer/iroh)
+- [freeCodeCamp /freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+- [obra /superpowers](https://github.com/obra/superpowers)
+- [zai-org /GLM-5](https://github.com/zai-org/GLM-5)
+- [DeusData /codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
+- [alibaba /zvec](https://github.com/alibaba/zvec)
+- [withastro /flue](https://github.com/withastro/flue)
+- [Kilo-Org /kilocode](https://github.com/Kilo-Org/kilocode)
+- [makeplane /plane](https://github.com/makeplane/plane)
+
+
+
 - [DeusData /codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
 - [n0-computer /iroh](https://github.com/n0-computer/iroh)
 - [Panniantong /Agent-Reach](https://github.com/Panniantong/Agent-Reach)
