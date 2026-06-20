@@ -78,6 +78,19 @@
 
 
 
+- [DeusData /codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
+- [google-research /timesfm](https://github.com/google-research/timesfm)
+- [palmier-io /palmier-pro](https://github.com/palmier-io/palmier-pro)
+- [koala73 /worldmonitor](https://github.com/koala73/worldmonitor)
+- [aishwaryanr /awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide)
+- [BuilderIO /agent-native](https://github.com/BuilderIO/agent-native)
+- [chopratejas /headroom](https://github.com/chopratejas/headroom)
+- [calesthio /OpenMontage](https://github.com/calesthio/OpenMontage)
+- [zai-org /GLM-5](https://github.com/zai-org/GLM-5)
+- [withastro /flue](https://github.com/withastro/flue)
+
+
+
 - [google-research /timesfm](https://github.com/google-research/timesfm)
 - [n0-computer /iroh](https://github.com/n0-computer/iroh)
 - [freeCodeCamp /freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
