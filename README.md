@@ -26,6 +26,19 @@
 
 
 
+- [palmier-io /palmier-pro](https://github.com/palmier-io/palmier-pro)
+- [penpot /penpot](https://github.com/penpot/penpot)
+- [calesthio /OpenMontage](https://github.com/calesthio/OpenMontage)
+- [tursodatabase /turso](https://github.com/tursodatabase/turso)
+- [DeusData /codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
+- [google-research /timesfm](https://github.com/google-research/timesfm)
+- [twentyhq /twenty](https://github.com/twentyhq/twenty)
+- [Kong /insomnia](https://github.com/Kong/insomnia)
+- [tw93 /Pake](https://github.com/tw93/Pake)
+- [chopratejas /headroom](https://github.com/chopratejas/headroom)
+
+
+
 - [DeusData /codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
 - [google-research /timesfm](https://github.com/google-research/timesfm)
 - [palmier-io /palmier-pro](https://github.com/palmier-io/palmier-pro)
