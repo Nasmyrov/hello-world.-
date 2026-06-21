@@ -14,6 +14,19 @@
 
 
 - [palmier-io /palmier-pro](https://github.com/palmier-io/palmier-pro)
+- [calesthio /OpenMontage](https://github.com/calesthio/OpenMontage)
+- [chopratejas /headroom](https://github.com/chopratejas/headroom)
+- [tursodatabase /turso](https://github.com/tursodatabase/turso)
+- [penpot /penpot](https://github.com/penpot/penpot)
+- [ZhuLinsen /daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)
+- [koala73 /worldmonitor](https://github.com/koala73/worldmonitor)
+- [bytedance /deer-flow](https://github.com/bytedance/deer-flow)
+- [DeusData /codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
+- [mukul975 /Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)
+
+
+
+- [palmier-io /palmier-pro](https://github.com/palmier-io/palmier-pro)
 - [penpot /penpot](https://github.com/penpot/penpot)
 - [calesthio /OpenMontage](https://github.com/calesthio/OpenMontage)
 - [tursodatabase /turso](https://github.com/tursodatabase/turso)
