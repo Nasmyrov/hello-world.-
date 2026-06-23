@@ -40,6 +40,19 @@
 
 
 - [calesthio /OpenMontage](https://github.com/calesthio/OpenMontage)
+- [ZhuLinsen /daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)
+- [mukul975 /Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)
+- [garrytan /gstack](https://github.com/garrytan/gstack)
+- [bytedance /deer-flow](https://github.com/bytedance/deer-flow)
+- [koala73 /worldmonitor](https://github.com/koala73/worldmonitor)
+- [palmier-io /palmier-pro](https://github.com/palmier-io/palmier-pro)
+- [anthropics /claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
+- [shanraisshan /claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice)
+- [revfactory /harness](https://github.com/revfactory/harness)
+
+
+
+- [calesthio /OpenMontage](https://github.com/calesthio/OpenMontage)
 - [palmier-io /palmier-pro](https://github.com/palmier-io/palmier-pro)
 - [jamiepine /voicebox](https://github.com/jamiepine/voicebox)
 - [mukul975 /Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)
