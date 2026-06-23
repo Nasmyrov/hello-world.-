@@ -65,6 +65,19 @@
 
 
 
+- [calesthio /OpenMontage](https://github.com/calesthio/OpenMontage)
+- [palmier-io /palmier-pro](https://github.com/palmier-io/palmier-pro)
+- [jamiepine /voicebox](https://github.com/jamiepine/voicebox)
+- [mukul975 /Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)
+- [penpot /penpot](https://github.com/penpot/penpot)
+- [Stirling-Tools /Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)
+- [garrytan /gstack](https://github.com/garrytan/gstack)
+- [heygen-com /hyperframes](https://github.com/heygen-com/hyperframes)
+- [tursodatabase /turso](https://github.com/tursodatabase/turso)
+- [bytedance /deer-flow](https://github.com/bytedance/deer-flow)
+
+
+
 - [palmier-io /palmier-pro](https://github.com/palmier-io/palmier-pro)
 - [calesthio /OpenMontage](https://github.com/calesthio/OpenMontage)
 - [tursodatabase /turso](https://github.com/tursodatabase/turso)
