@@ -28,6 +28,19 @@
 
 - [calesthio /OpenMontage](https://github.com/calesthio/OpenMontage)
 - [ZhuLinsen /daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)
+- [apple /container](https://github.com/apple/container)
+- [interviewstreet /hiring-agent](https://github.com/interviewstreet/hiring-agent)
+- [JCodesMore /ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template)
+- [revfactory /harness](https://github.com/revfactory/harness)
+- [flutter /flutter](https://github.com/flutter/flutter)
+- [andreknieriem /headunit-revived](https://github.com/andreknieriem/headunit-revived)
+- [stablyai /orca](https://github.com/stablyai/orca)
+- [google-labs-code /design.md](https://github.com/google-labs-code/design.md)
+
+
+
+- [calesthio /OpenMontage](https://github.com/calesthio/OpenMontage)
+- [ZhuLinsen /daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)
 - [mukul975 /Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)
 - [garrytan /gstack](https://github.com/garrytan/gstack)
 - [bytedance /deer-flow](https://github.com/bytedance/deer-flow)
