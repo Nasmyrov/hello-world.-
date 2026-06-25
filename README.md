@@ -6,6 +6,19 @@
 - [mauriceboe /TREK](https://github.com/mauriceboe/TREK)
 - [apple /container](https://github.com/apple/container)
 - [JCodesMore /ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template)
+- [every-app /open-seo](https://github.com/every-app/open-seo)
+- [garrytan /gstack](https://github.com/garrytan/gstack)
+- [aws /agent-toolkit-for-aws](https://github.com/aws/agent-toolkit-for-aws)
+- [mukul975 /Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)
+
+
+
+- [google-labs-code /design.md](https://github.com/google-labs-code/design.md)
+- [calesthio /OpenMontage](https://github.com/calesthio/OpenMontage)
+- [xbtlin /ai-berkshire](https://github.com/xbtlin/ai-berkshire)
+- [mauriceboe /TREK](https://github.com/mauriceboe/TREK)
+- [apple /container](https://github.com/apple/container)
+- [JCodesMore /ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template)
 - [garrytan /gstack](https://github.com/garrytan/gstack)
 - [aws /agent-toolkit-for-aws](https://github.com/aws/agent-toolkit-for-aws)
 - [mukul975 /Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)
