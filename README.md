@@ -14,6 +14,19 @@
 
 
 - [simplex-chat /simplex-chat](https://github.com/simplex-chat/simplex-chat)
+- [xbtlin /ai-berkshire](https://github.com/xbtlin/ai-berkshire)
+- [commaai /openpilot](https://github.com/commaai/openpilot)
+- [IceWhaleTech /CasaOS](https://github.com/IceWhaleTech/CasaOS)
+- [ripienaar /free-for-dev](https://github.com/ripienaar/free-for-dev)
+- [google-labs-code /design.md](https://github.com/google-labs-code/design.md)
+- [microsoft /PowerToys](https://github.com/microsoft/PowerToys)
+- [hugohe3 /ppt-master](https://github.com/hugohe3/ppt-master)
+- [JCodesMore /ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template)
+- [garrytan /gstack](https://github.com/garrytan/gstack)
+
+
+
+- [simplex-chat /simplex-chat](https://github.com/simplex-chat/simplex-chat)
 - [google-labs-code /design.md](https://github.com/google-labs-code/design.md)
 - [commaai /openpilot](https://github.com/commaai/openpilot)
 - [kunchenguid /no-mistakes](https://github.com/kunchenguid/no-mistakes)
