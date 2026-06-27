@@ -65,6 +65,19 @@
 
 
 
+- [simplex-chat /simplex-chat](https://github.com/simplex-chat/simplex-chat)
+- [google-labs-code /design.md](https://github.com/google-labs-code/design.md)
+- [commaai /openpilot](https://github.com/commaai/openpilot)
+- [kunchenguid /no-mistakes](https://github.com/kunchenguid/no-mistakes)
+- [grafana /grafana](https://github.com/grafana/grafana)
+- [ripienaar /free-for-dev](https://github.com/ripienaar/free-for-dev)
+- [opendatalab /MinerU](https://github.com/opendatalab/MinerU)
+- [alchaincyf /zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill)
+- [mauriceboe /TREK](https://github.com/mauriceboe/TREK)
+- [xbtlin /ai-berkshire](https://github.com/xbtlin/ai-berkshire)
+
+
+
 - [google-labs-code /design.md](https://github.com/google-labs-code/design.md)
 - [calesthio /OpenMontage](https://github.com/calesthio/OpenMontage)
 - [xbtlin /ai-berkshire](https://github.com/xbtlin/ai-berkshire)
