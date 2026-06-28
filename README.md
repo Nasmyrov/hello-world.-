@@ -14,6 +14,19 @@
 
 
 - [simplex-chat /simplex-chat](https://github.com/simplex-chat/simplex-chat)
+- [ripienaar /free-for-dev](https://github.com/ripienaar/free-for-dev)
+- [commaai /openpilot](https://github.com/commaai/openpilot)
+- [xbtlin /ai-berkshire](https://github.com/xbtlin/ai-berkshire)
+- [Robbyant /lingbot-map](https://github.com/Robbyant/lingbot-map)
+- [DeusData /codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
+- [cupy /cupy](https://github.com/cupy/cupy)
+- [altic-dev /FluidVoice](https://github.com/altic-dev/FluidVoice)
+- [opendatalab /MinerU](https://github.com/opendatalab/MinerU)
+- [HKUDS /Vibe-Trading](https://github.com/HKUDS/Vibe-Trading)
+
+
+
+- [simplex-chat /simplex-chat](https://github.com/simplex-chat/simplex-chat)
 - [xbtlin /ai-berkshire](https://github.com/xbtlin/ai-berkshire)
 - [commaai /openpilot](https://github.com/commaai/openpilot)
 - [IceWhaleTech /CasaOS](https://github.com/IceWhaleTech/CasaOS)
