@@ -1,5 +1,18 @@
 
 
+- [hasaneyldrm /exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset)
+- [usestrix /strix](https://github.com/usestrix/strix)
+- [msitarzewski /agency-agents](https://github.com/msitarzewski/agency-agents)
+- [altic-dev /FluidVoice](https://github.com/altic-dev/FluidVoice)
+- [diegosouzapw /OmniRoute](https://github.com/diegosouzapw/OmniRoute)
+- [browser-use /video-use](https://github.com/browser-use/video-use)
+- [xbtlin /ai-berkshire](https://github.com/xbtlin/ai-berkshire)
+- [Mebus /cupp](https://github.com/Mebus/cupp)
+- [ripienaar /free-for-dev](https://github.com/ripienaar/free-for-dev)
+- [google /agents-cli](https://github.com/google/agents-cli)
+
+
+
 - [usestrix /strix](https://github.com/usestrix/strix)
 - [msitarzewski /agency-agents](https://github.com/msitarzewski/agency-agents)
 - [altic-dev /FluidVoice](https://github.com/altic-dev/FluidVoice)
