@@ -66,6 +66,19 @@
 
 
 - [simplex-chat /simplex-chat](https://github.com/simplex-chat/simplex-chat)
+- [msitarzewski /agency-agents](https://github.com/msitarzewski/agency-agents)
+- [cupy /cupy](https://github.com/cupy/cupy)
+- [altic-dev /FluidVoice](https://github.com/altic-dev/FluidVoice)
+- [soxoj /maigret](https://github.com/soxoj/maigret)
+- [commaai /openpilot](https://github.com/commaai/openpilot)
+- [ripienaar /free-for-dev](https://github.com/ripienaar/free-for-dev)
+- [logto-io /logto](https://github.com/logto-io/logto)
+- [xbtlin /ai-berkshire](https://github.com/xbtlin/ai-berkshire)
+- [browser-use /video-use](https://github.com/browser-use/video-use)
+
+
+
+- [simplex-chat /simplex-chat](https://github.com/simplex-chat/simplex-chat)
 - [ripienaar /free-for-dev](https://github.com/ripienaar/free-for-dev)
 - [commaai /openpilot](https://github.com/commaai/openpilot)
 - [xbtlin /ai-berkshire](https://github.com/xbtlin/ai-berkshire)
