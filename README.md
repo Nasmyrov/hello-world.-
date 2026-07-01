@@ -52,6 +52,19 @@
 
 
 
+- [msitarzewski /agency-agents](https://github.com/msitarzewski/agency-agents)
+- [usestrix /strix](https://github.com/usestrix/strix)
+- [HKUDS /Vibe-Trading](https://github.com/HKUDS/Vibe-Trading)
+- [hasaneyldrm /exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset)
+- [facebook /astryx](https://github.com/facebook/astryx)
+- [diegosouzapw /OmniRoute](https://github.com/diegosouzapw/OmniRoute)
+- [allenai /olmocr](https://github.com/allenai/olmocr)
+- [logto-io /logto](https://github.com/logto-io/logto)
+- [togatoga /karukan](https://github.com/togatoga/karukan)
+- [Mebus /cupp](https://github.com/Mebus/cupp)
+
+
+
 - [hasaneyldrm /exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset)
 - [usestrix /strix](https://github.com/usestrix/strix)
 - [msitarzewski /agency-agents](https://github.com/msitarzewski/agency-agents)
