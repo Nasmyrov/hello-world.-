@@ -13,6 +13,19 @@
 
 
 
+- [usestrix /strix](https://github.com/usestrix/strix)
+- [JuliusBrussee /caveman](https://github.com/JuliusBrussee/caveman)
+- [msitarzewski /agency-agents](https://github.com/msitarzewski/agency-agents)
+- [hasaneyldrm /exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset)
+- [santifer /career-ops](https://github.com/santifer/career-ops)
+- [obra /superpowers](https://github.com/obra/superpowers)
+- [ChromeDevTools /chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
+- [browser-use /video-use](https://github.com/browser-use/video-use)
+- [actions /checkout](https://github.com/actions/checkout)
+- [affaan-m /ECC](https://github.com/affaan-m/ECC)
+
+
+
 - [msitarzewski /agency-agents](https://github.com/msitarzewski/agency-agents)
 - [usestrix /strix](https://github.com/usestrix/strix)
 - [HKUDS /Vibe-Trading](https://github.com/HKUDS/Vibe-Trading)
