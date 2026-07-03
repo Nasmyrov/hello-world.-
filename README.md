@@ -53,6 +53,19 @@
 
 
 - [usestrix /strix](https://github.com/usestrix/strix)
+- [openai /codex-plugin-cc](https://github.com/openai/codex-plugin-cc)
+- [JuliusBrussee /caveman](https://github.com/JuliusBrussee/caveman)
+- [elastic /elasticsearch](https://github.com/elastic/elasticsearch)
+- [actions /checkout](https://github.com/actions/checkout)
+- [ChromeDevTools /chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
+- [ansible /ansible](https://github.com/ansible/ansible)
+- [facebook /astryx](https://github.com/facebook/astryx)
+- [rommapp /romm](https://github.com/rommapp/romm)
+- [harvard-edge /cs249r_book](https://github.com/harvard-edge/cs249r_book)
+
+
+
+- [usestrix /strix](https://github.com/usestrix/strix)
 - [JuliusBrussee /caveman](https://github.com/JuliusBrussee/caveman)
 - [msitarzewski /agency-agents](https://github.com/msitarzewski/agency-agents)
 - [hasaneyldrm /exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset)
