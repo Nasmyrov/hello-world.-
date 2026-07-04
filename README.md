@@ -1,5 +1,18 @@
 
 
+- [openai /codex-plugin-cc](https://github.com/openai/codex-plugin-cc)
+- [JuliusBrussee /caveman](https://github.com/JuliusBrussee/caveman)
+- [alibaba /page-agent](https://github.com/alibaba/page-agent)
+- [usestrix /strix](https://github.com/usestrix/strix)
+- [ChromeDevTools /chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
+- [Zackriya-Solutions /meetily](https://github.com/Zackriya-Solutions/meetily)
+- [asgeirtj /system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
+- [harvard-edge /cs249r_book](https://github.com/harvard-edge/cs249r_book)
+- [rommapp /romm](https://github.com/rommapp/romm)
+- [ogulcancelik /herdr](https://github.com/ogulcancelik/herdr)
+
+
+
 - [usestrix /strix](https://github.com/usestrix/strix)
 - [openai /codex-plugin-cc](https://github.com/openai/codex-plugin-cc)
 - [JuliusBrussee /caveman](https://github.com/JuliusBrussee/caveman)
