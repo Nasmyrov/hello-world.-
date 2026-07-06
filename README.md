@@ -52,6 +52,19 @@
 
 
 
+- [asgeirtj /system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
+- [addyosmani /agent-skills](https://github.com/addyosmani/agent-skills)
+- [Zackriya-Solutions /meetily](https://github.com/Zackriya-Solutions/meetily)
+- [ruvnet /RuView](https://github.com/ruvnet/RuView)
+- [Leonxlnx /taste-skill](https://github.com/Leonxlnx/taste-skill)
+- [alirezarezvani /claude-skills](https://github.com/alirezarezvani/claude-skills)
+- [openai /codex-plugin-cc](https://github.com/openai/codex-plugin-cc)
+- [mvanhorn /last30days-skill](https://github.com/mvanhorn/last30days-skill)
+- [ogulcancelik /herdr](https://github.com/ogulcancelik/herdr)
+- [bradautomates /claude-video](https://github.com/bradautomates/claude-video)
+
+
+
 - [Zackriya-Solutions /meetily](https://github.com/Zackriya-Solutions/meetily)
 - [openai /codex-plugin-cc](https://github.com/openai/codex-plugin-cc)
 - [asgeirtj /system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
