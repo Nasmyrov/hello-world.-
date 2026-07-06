@@ -78,6 +78,19 @@
 
 
 
+- [Zackriya-Solutions /meetily](https://github.com/Zackriya-Solutions/meetily)
+- [openai /codex-plugin-cc](https://github.com/openai/codex-plugin-cc)
+- [asgeirtj /system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
+- [Leonxlnx /taste-skill](https://github.com/Leonxlnx/taste-skill)
+- [alirezarezvani /claude-skills](https://github.com/alirezarezvani/claude-skills)
+- [rommapp /romm](https://github.com/rommapp/romm)
+- [ogulcancelik /herdr](https://github.com/ogulcancelik/herdr)
+- [alibaba /page-agent](https://github.com/alibaba/page-agent)
+- [harvard-edge /cs249r_book](https://github.com/harvard-edge/cs249r_book)
+- [usestrix /strix](https://github.com/usestrix/strix)
+
+
+
 - [openai /codex-plugin-cc](https://github.com/openai/codex-plugin-cc)
 - [JuliusBrussee /caveman](https://github.com/JuliusBrussee/caveman)
 - [alibaba /page-agent](https://github.com/alibaba/page-agent)
