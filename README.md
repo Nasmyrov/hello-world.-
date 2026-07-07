@@ -13,6 +13,19 @@
 
 
 
+- [MadsLorentzen /ai-job-search](https://github.com/MadsLorentzen/ai-job-search)
+- [Zackriya-Solutions /meetily](https://github.com/Zackriya-Solutions/meetily)
+- [addyosmani /agent-skills](https://github.com/addyosmani/agent-skills)
+- [ruvnet /RuView](https://github.com/ruvnet/RuView)
+- [asgeirtj /system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
+- [TencentCloud /CubeSandbox](https://github.com/TencentCloud/CubeSandbox)
+- [AhmadIbrahiim /Website-downloader](https://github.com/AhmadIbrahiim/Website-downloader)
+- [steipete /CodexBar](https://github.com/steipete/CodexBar)
+- [dotnet /skills](https://github.com/dotnet/skills)
+- [iOfficeAI /OfficeCLI](https://github.com/iOfficeAI/OfficeCLI)
+
+
+
 - [Zackriya-Solutions /meetily](https://github.com/Zackriya-Solutions/meetily)
 - [addyosmani /agent-skills](https://github.com/addyosmani/agent-skills)
 - [ruvnet /RuView](https://github.com/ruvnet/RuView)
