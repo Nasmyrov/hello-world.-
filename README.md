@@ -26,6 +26,19 @@
 
 
 
+- [addyosmani /agent-skills](https://github.com/addyosmani/agent-skills)
+- [ruvnet /RuView](https://github.com/ruvnet/RuView)
+- [TencentCloud /TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)
+- [prisma /prisma](https://github.com/prisma/prisma)
+- [mvanhorn /last30days-skill](https://github.com/mvanhorn/last30days-skill)
+- [argoproj /argo-cd](https://github.com/argoproj/argo-cd)
+- [iOfficeAI /OfficeCLI](https://github.com/iOfficeAI/OfficeCLI)
+- [asgeirtj /system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
+- [obra /superpowers](https://github.com/obra/superpowers)
+- [alibaba /zvec](https://github.com/alibaba/zvec)
+
+
+
 - [MadsLorentzen /ai-job-search](https://github.com/MadsLorentzen/ai-job-search)
 - [addyosmani /agent-skills](https://github.com/addyosmani/agent-skills)
 - [ruvnet /RuView](https://github.com/ruvnet/RuView)
