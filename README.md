@@ -1,5 +1,18 @@
 
 
+- [SmartlyDressedGames /U3-SDK](https://github.com/SmartlyDressedGames/U3-SDK)
+- [addyosmani /agent-skills](https://github.com/addyosmani/agent-skills)
+- [VoltAgent /awesome-design-md](https://github.com/VoltAgent/awesome-design-md)
+- [iOfficeAI /OfficeCLI](https://github.com/iOfficeAI/OfficeCLI)
+- [wonderwhy-er /DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP)
+- [anthropics /claude-cookbooks](https://github.com/anthropics/claude-cookbooks)
+- [vxcontrol /pentagi](https://github.com/vxcontrol/pentagi)
+- [unclecode /crawl4ai](https://github.com/unclecode/crawl4ai)
+- [imthenachoman /How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)
+- [huxingyi /autoremesher](https://github.com/huxingyi/autoremesher)
+
+
+
 - [MadsLorentzen /ai-job-search](https://github.com/MadsLorentzen/ai-job-search)
 - [SmartlyDressedGames /U3-SDK](https://github.com/SmartlyDressedGames/U3-SDK)
 - [addyosmani /agent-skills](https://github.com/addyosmani/agent-skills)
