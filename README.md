@@ -78,6 +78,19 @@
 
 
 
+- [wonderwhy-er /DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP)
+- [oven-sh /bun](https://github.com/oven-sh/bun)
+- [abseil /abseil-cpp](https://github.com/abseil/abseil-cpp)
+- [addyosmani /agent-skills](https://github.com/addyosmani/agent-skills)
+- [jbeder /yaml-cpp](https://github.com/jbeder/yaml-cpp)
+- [mattpocock /skills](https://github.com/mattpocock/skills)
+- [obra /superpowers](https://github.com/obra/superpowers)
+- [microsoft /TypeScript](https://github.com/microsoft/TypeScript)
+- [catchorg /Catch2](https://github.com/catchorg/Catch2)
+- [chriskohlhoff /asio](https://github.com/chriskohlhoff/asio)
+
+
+
 - [SmartlyDressedGames /U3-SDK](https://github.com/SmartlyDressedGames/U3-SDK)
 - [addyosmani /agent-skills](https://github.com/addyosmani/agent-skills)
 - [VoltAgent /awesome-design-md](https://github.com/VoltAgent/awesome-design-md)
