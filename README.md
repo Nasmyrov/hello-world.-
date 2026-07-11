@@ -39,6 +39,19 @@
 
 
 
+- [catchorg /Catch2](https://github.com/catchorg/Catch2)
+- [abseil /abseil-cpp](https://github.com/abseil/abseil-cpp)
+- [davila7 /claude-code-templates](https://github.com/davila7/claude-code-templates)
+- [google-labs-code /stitch-skills](https://github.com/google-labs-code/stitch-skills)
+- [hashicorp /terraform](https://github.com/hashicorp/terraform)
+- [zeux /meshoptimizer](https://github.com/zeux/meshoptimizer)
+- [openai /plugins](https://github.com/openai/plugins)
+- [wonderwhy-er /DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP)
+- [chriskohlhoff /asio](https://github.com/chriskohlhoff/asio)
+- [oven-sh /bun](https://github.com/oven-sh/bun)
+
+
+
 - [wonderwhy-er /DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP)
 - [oven-sh /bun](https://github.com/oven-sh/bun)
 - [abseil /abseil-cpp](https://github.com/abseil/abseil-cpp)
