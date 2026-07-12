@@ -65,6 +65,19 @@
 
 
 
+- [Dicklesworthstone /destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard)
+- [wonderwhy-er /DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP)
+- [HKUDS /Vibe-Trading](https://github.com/HKUDS/Vibe-Trading)
+- [PrefectHQ /prefect](https://github.com/PrefectHQ/prefect)
+- [Shubhamsaboo /awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
+- [anthropics /claude-cookbooks](https://github.com/anthropics/claude-cookbooks)
+- [home-assistant /core](https://github.com/home-assistant/core)
+- [Crosstalk-Solutions /project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
+- [ColeMurray /background-agents](https://github.com/ColeMurray/background-agents)
+- [k1tbyte /Wand-Enhancer](https://github.com/k1tbyte/Wand-Enhancer)
+
+
+
 - [catchorg /Catch2](https://github.com/catchorg/Catch2)
 - [abseil /abseil-cpp](https://github.com/abseil/abseil-cpp)
 - [davila7 /claude-code-templates](https://github.com/davila7/claude-code-templates)
