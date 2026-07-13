@@ -39,6 +39,19 @@
 
 
 
+- [OpenCut-app /OpenCut](https://github.com/OpenCut-app/OpenCut)
+- [HKUDS /Vibe-Trading](https://github.com/HKUDS/Vibe-Trading)
+- [moeru-ai /airi](https://github.com/moeru-ai/airi)
+- [Shubhamsaboo /awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
+- [Nutlope /hallmark](https://github.com/Nutlope/hallmark)
+- [Raphire /Win11Debloat](https://github.com/Raphire/Win11Debloat)
+- [Graphify-Labs /graphify](https://github.com/Graphify-Labs/graphify)
+- [hasaneyldrm /exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset)
+- [github /spec-kit](https://github.com/github/spec-kit)
+- [coreyhaines31 /marketingskills](https://github.com/coreyhaines31/marketingskills)
+
+
+
 - [Dicklesworthstone /destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard)
 - [wonderwhy-er /DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP)
 - [HKUDS /Vibe-Trading](https://github.com/HKUDS/Vibe-Trading)
