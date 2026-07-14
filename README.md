@@ -13,6 +13,19 @@
 
 
 
+- [Shubhamsaboo /awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
+- [mattpocock /skills](https://github.com/mattpocock/skills)
+- [Dicklesworthstone /destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard)
+- [OpenCut-app /OpenCut](https://github.com/OpenCut-app/OpenCut)
+- [virattt /ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)
+- [Nutlope /hallmark](https://github.com/Nutlope/hallmark)
+- [HKUDS /Vibe-Trading](https://github.com/HKUDS/Vibe-Trading)
+- [Raphire /Win11Debloat](https://github.com/Raphire/Win11Debloat)
+- [hasaneyldrm /exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset)
+- [penpot /penpot](https://github.com/penpot/penpot)
+
+
+
 - [1c7 /chinese-independent-developer](https://github.com/1c7/chinese-independent-developer)
 - [Shubhamsaboo /awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
 - [mattpocock /skills](https://github.com/mattpocock/skills)
