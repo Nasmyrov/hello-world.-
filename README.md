@@ -9,6 +9,19 @@
 - [openinterpreter /openinterpreter](https://github.com/openinterpreter/openinterpreter)
 - [HKUDS /DeepTutor](https://github.com/HKUDS/DeepTutor)
 - [HenryNdubuaku /maths-cs-ai-compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium)
+- [injaneity /pi-computer-use](https://github.com/injaneity/pi-computer-use)
+
+
+
+- [OpenCut-app /OpenCut](https://github.com/OpenCut-app/OpenCut)
+- [Nutlope /hallmark](https://github.com/Nutlope/hallmark)
+- [mattpocock /skills](https://github.com/mattpocock/skills)
+- [moeru-ai /airi](https://github.com/moeru-ai/airi)
+- [Dicklesworthstone /destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard)
+- [HKUDS /Vibe-Trading](https://github.com/HKUDS/Vibe-Trading)
+- [openinterpreter /openinterpreter](https://github.com/openinterpreter/openinterpreter)
+- [HKUDS /DeepTutor](https://github.com/HKUDS/DeepTutor)
+- [HenryNdubuaku /maths-cs-ai-compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium)
 - [Shubhamsaboo /awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
 
 
