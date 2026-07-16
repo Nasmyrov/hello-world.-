@@ -1,5 +1,18 @@
 
 
+- [1c7 /chinese-independent-developer](https://github.com/1c7/chinese-independent-developer)
+- [apache /ossie](https://github.com/apache/ossie)
+- [Nutlope /hallmark](https://github.com/Nutlope/hallmark)
+- [OpenCut-app /OpenCut](https://github.com/OpenCut-app/OpenCut)
+- [PostHog /posthog](https://github.com/PostHog/posthog)
+- [openinterpreter /openinterpreter](https://github.com/openinterpreter/openinterpreter)
+- [PrismML-Eng /Bonsai-demo](https://github.com/PrismML-Eng/Bonsai-demo)
+- [hasaneyldrm /exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset)
+- [Shubhamsaboo /awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
+- [lobehub /lobehub](https://github.com/lobehub/lobehub)
+
+
+
 - [apache /ossie](https://github.com/apache/ossie)
 - [Nutlope /hallmark](https://github.com/Nutlope/hallmark)
 - [OpenCut-app /OpenCut](https://github.com/OpenCut-app/OpenCut)
