@@ -65,6 +65,19 @@
 
 
 
+- [codecrafters-io /build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+- [PostHog /posthog](https://github.com/PostHog/posthog)
+- [HenryNdubuaku /maths-cs-ai-compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium)
+- [Nutlope /hallmark](https://github.com/Nutlope/hallmark)
+- [github /copilot-sdk](https://github.com/github/copilot-sdk)
+- [anthropics /cwc-workshops](https://github.com/anthropics/cwc-workshops)
+- [PrismML-Eng /Bonsai-demo](https://github.com/PrismML-Eng/Bonsai-demo)
+- [protocolbuffers /protobuf](https://github.com/protocolbuffers/protobuf)
+- [tirth8205 /code-review-graph](https://github.com/tirth8205/code-review-graph)
+- [docusealco /docuseal](https://github.com/docusealco/docuseal)
+
+
+
 - [apache /ossie](https://github.com/apache/ossie)
 - [Nutlope /hallmark](https://github.com/Nutlope/hallmark)
 - [OpenCut-app /OpenCut](https://github.com/OpenCut-app/OpenCut)
