@@ -52,6 +52,19 @@
 
 
 
+- [Robbyant /lingbot-map](https://github.com/Robbyant/lingbot-map)
+- [apache /ossie](https://github.com/apache/ossie)
+- [PostHog /posthog](https://github.com/PostHog/posthog)
+- [ibelick /ui-skills](https://github.com/ibelick/ui-skills)
+- [rohitg00 /ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
+- [tirth8205 /code-review-graph](https://github.com/tirth8205/code-review-graph)
+- [elder-plinius /G0DM0D3](https://github.com/elder-plinius/G0DM0D3)
+- [lyogavin /airllm](https://github.com/lyogavin/airllm)
+- [KnockOutEZ /wigolo](https://github.com/KnockOutEZ/wigolo)
+- [codecrafters-io /build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+
+
+
 - [codecrafters-io /build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
 - [PostHog /posthog](https://github.com/PostHog/posthog)
 - [HenryNdubuaku /maths-cs-ai-compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium)
