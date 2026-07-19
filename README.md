@@ -26,6 +26,19 @@
 
 
 
+- [tirth8205 /code-review-graph](https://github.com/tirth8205/code-review-graph)
+- [kvcache-ai /ktransformers](https://github.com/kvcache-ai/ktransformers)
+- [rohitg00 /ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
+- [jamiepine /voicebox](https://github.com/jamiepine/voicebox)
+- [KnockOutEZ /wigolo](https://github.com/KnockOutEZ/wigolo)
+- [andrewrabert /jellium-desktop](https://github.com/andrewrabert/jellium-desktop)
+- [github /copilot-sdk](https://github.com/github/copilot-sdk)
+- [PostHog /posthog](https://github.com/PostHog/posthog)
+- [microsoft /terminal](https://github.com/microsoft/terminal)
+- [AstrBotDevs /AstrBot](https://github.com/AstrBotDevs/AstrBot)
+
+
+
 - [Robbyant /lingbot-map](https://github.com/Robbyant/lingbot-map)
 - [apache /ossie](https://github.com/apache/ossie)
 - [PostHog /posthog](https://github.com/PostHog/posthog)
