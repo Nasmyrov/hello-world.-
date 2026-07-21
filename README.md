@@ -1,5 +1,18 @@
 
 
+- [bojieli /ai-agent-book](https://github.com/bojieli/ai-agent-book)
+- [tirth8205 /code-review-graph](https://github.com/tirth8205/code-review-graph)
+- [1jehuang /jcode](https://github.com/1jehuang/jcode)
+- [diegosouzapw /OmniRoute](https://github.com/diegosouzapw/OmniRoute)
+- [rohitg00 /ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
+- [msitarzewski /agency-agents](https://github.com/msitarzewski/agency-agents)
+- [kvcache-ai /ktransformers](https://github.com/kvcache-ai/ktransformers)
+- [jamiepine /voicebox](https://github.com/jamiepine/voicebox)
+- [topoteretes /cognee](https://github.com/topoteretes/cognee)
+- [Robbyant /lingbot-map](https://github.com/Robbyant/lingbot-map)
+
+
+
 - [tirth8205 /code-review-graph](https://github.com/tirth8205/code-review-graph)
 - [1jehuang /jcode](https://github.com/1jehuang/jcode)
 - [diegosouzapw /OmniRoute](https://github.com/diegosouzapw/OmniRoute)
