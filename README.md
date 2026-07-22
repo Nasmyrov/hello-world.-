@@ -1,6 +1,19 @@
 
 
 - [koala73 /worldmonitor](https://github.com/koala73/worldmonitor)
+- [ruvnet /RuView](https://github.com/ruvnet/RuView)
+- [ayghri /i-have-adhd](https://github.com/ayghri/i-have-adhd)
+- [schollz /croc](https://github.com/schollz/croc)
+- [likec4 /likec4](https://github.com/likec4/likec4)
+- [chrislgarry /Apollo-11](https://github.com/chrislgarry/Apollo-11)
+- [jamiepine /voicebox](https://github.com/jamiepine/voicebox)
+- [diegosouzapw /OmniRoute](https://github.com/diegosouzapw/OmniRoute)
+- [shiyu-coder /Kronos](https://github.com/shiyu-coder/Kronos)
+- [ComposioHQ /awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)
+
+
+
+- [koala73 /worldmonitor](https://github.com/koala73/worldmonitor)
 - [bojieli /ai-agent-book](https://github.com/bojieli/ai-agent-book)
 - [tirth8205 /code-review-graph](https://github.com/tirth8205/code-review-graph)
 - [ayghri /i-have-adhd](https://github.com/ayghri/i-have-adhd)
