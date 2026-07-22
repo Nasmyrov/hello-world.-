@@ -130,6 +130,19 @@
 
 
 
+- [koala73 /worldmonitor](https://github.com/koala73/worldmonitor)
+- [bojieli /ai-agent-book](https://github.com/bojieli/ai-agent-book)
+- [tirth8205 /code-review-graph](https://github.com/tirth8205/code-review-graph)
+- [ayghri /i-have-adhd](https://github.com/ayghri/i-have-adhd)
+- [earthtojake /text-to-cad](https://github.com/earthtojake/text-to-cad)
+- [1jehuang /jcode](https://github.com/1jehuang/jcode)
+- [oblien /openship](https://github.com/oblien/openship)
+- [AstrBotDevs /AstrBot](https://github.com/AstrBotDevs/AstrBot)
+- [every-app /open-seo](https://github.com/every-app/open-seo)
+- [tradesdontlie /tradingview-mcp](https://github.com/tradesdontlie/tradingview-mcp)
+
+
+
 - [bojieli /ai-agent-book](https://github.com/bojieli/ai-agent-book)
 - [tirth8205 /code-review-graph](https://github.com/tirth8205/code-review-graph)
 - [1jehuang /jcode](https://github.com/1jehuang/jcode)
