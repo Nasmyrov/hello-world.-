@@ -16,6 +16,19 @@
 - [block /buzz](https://github.com/block/buzz)
 - [koala73 /worldmonitor](https://github.com/koala73/worldmonitor)
 - [shiyu-coder /Kronos](https://github.com/shiyu-coder/Kronos)
+- [Pumpkin-MC /Pumpkin](https://github.com/Pumpkin-MC/Pumpkin)
+- [citrolabs /ego-lite](https://github.com/citrolabs/ego-lite)
+- [chrislgarry /Apollo-11](https://github.com/chrislgarry/Apollo-11)
+- [diegosouzapw /OmniRoute](https://github.com/diegosouzapw/OmniRoute)
+- [ComposioHQ /awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)
+- [earthtojake /text-to-cad](https://github.com/earthtojake/text-to-cad)
+- [agegr /pi-web](https://github.com/agegr/pi-web)
+
+
+
+- [block /buzz](https://github.com/block/buzz)
+- [koala73 /worldmonitor](https://github.com/koala73/worldmonitor)
+- [shiyu-coder /Kronos](https://github.com/shiyu-coder/Kronos)
 - [ayghri /i-have-adhd](https://github.com/ayghri/i-have-adhd)
 - [Pumpkin-MC /Pumpkin](https://github.com/Pumpkin-MC/Pumpkin)
 - [citrolabs /ego-lite](https://github.com/citrolabs/ego-lite)
