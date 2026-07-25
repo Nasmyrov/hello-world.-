@@ -93,6 +93,19 @@
 
 - [block /buzz](https://github.com/block/buzz)
 - [koala73 /worldmonitor](https://github.com/koala73/worldmonitor)
+- [ComposioHQ /awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)
+- [Pumpkin-MC /Pumpkin](https://github.com/Pumpkin-MC/Pumpkin)
+- [shiyu-coder /Kronos](https://github.com/shiyu-coder/Kronos)
+- [Automattic /harper](https://github.com/Automattic/harper)
+- [likec4 /likec4](https://github.com/likec4/likec4)
+- [citrolabs /ego-lite](https://github.com/citrolabs/ego-lite)
+- [yorukot /superfile](https://github.com/yorukot/superfile)
+- [ruvnet /RuView](https://github.com/ruvnet/RuView)
+
+
+
+- [block /buzz](https://github.com/block/buzz)
+- [koala73 /worldmonitor](https://github.com/koala73/worldmonitor)
 - [shiyu-coder /Kronos](https://github.com/shiyu-coder/Kronos)
 - [Pumpkin-MC /Pumpkin](https://github.com/Pumpkin-MC/Pumpkin)
 - [citrolabs /ego-lite](https://github.com/citrolabs/ego-lite)
