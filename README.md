@@ -65,6 +65,19 @@
 
 
 
+- [permissionlesstech /bitchat](https://github.com/permissionlesstech/bitchat)
+- [citrolabs /ego-lite](https://github.com/citrolabs/ego-lite)
+- [block /buzz](https://github.com/block/buzz)
+- [pingdotgg /t3code](https://github.com/pingdotgg/t3code)
+- [CoreBunch /Instatic](https://github.com/CoreBunch/Instatic)
+- [yorukot /superfile](https://github.com/yorukot/superfile)
+- [nodejs /node](https://github.com/nodejs/node)
+- [OtterMind /Chat2DB](https://github.com/OtterMind/Chat2DB)
+- [pbakaus /impeccable](https://github.com/pbakaus/impeccable)
+- [shiyu-coder /Kronos](https://github.com/shiyu-coder/Kronos)
+
+
+
 - [block /buzz](https://github.com/block/buzz)
 - [alibaba /open-code-review](https://github.com/alibaba/open-code-review)
 - [citrolabs /ego-lite](https://github.com/citrolabs/ego-lite)
