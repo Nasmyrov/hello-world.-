@@ -131,6 +131,19 @@
 
 
 - [block /buzz](https://github.com/block/buzz)
+- [alibaba /open-code-review](https://github.com/alibaba/open-code-review)
+- [citrolabs /ego-lite](https://github.com/citrolabs/ego-lite)
+- [ComposioHQ /awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)
+- [anthropics /claude-cookbooks](https://github.com/anthropics/claude-cookbooks)
+- [Automattic /harper](https://github.com/Automattic/harper)
+- [shiyu-coder /Kronos](https://github.com/shiyu-coder/Kronos)
+- [obra /superpowers](https://github.com/obra/superpowers)
+- [Pumpkin-MC /Pumpkin](https://github.com/Pumpkin-MC/Pumpkin)
+- [permissionlesstech /bitchat](https://github.com/permissionlesstech/bitchat)
+
+
+
+- [block /buzz](https://github.com/block/buzz)
 - [koala73 /worldmonitor](https://github.com/koala73/worldmonitor)
 - [ComposioHQ /awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)
 - [Pumpkin-MC /Pumpkin](https://github.com/Pumpkin-MC/Pumpkin)
