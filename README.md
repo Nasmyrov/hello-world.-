@@ -3,6 +3,19 @@
 - [permissionlesstech /bitchat](https://github.com/permissionlesstech/bitchat)
 - [amnezia-vpn /amnezia-client](https://github.com/amnezia-vpn/amnezia-client)
 - [moeru-ai /airi](https://github.com/moeru-ai/airi)
+- [opengeos /GeoLibre](https://github.com/opengeos/GeoLibre)
+- [yorukot /superfile](https://github.com/yorukot/superfile)
+- [NanmiCoder /MediaCrawler](https://github.com/NanmiCoder/MediaCrawler)
+- [pbakaus /impeccable](https://github.com/pbakaus/impeccable)
+- [shiyu-coder /Kronos](https://github.com/shiyu-coder/Kronos)
+- [alibaba /open-code-review](https://github.com/alibaba/open-code-review)
+- [jenkinsci /jenkins](https://github.com/jenkinsci/jenkins)
+
+
+
+- [permissionlesstech /bitchat](https://github.com/permissionlesstech/bitchat)
+- [amnezia-vpn /amnezia-client](https://github.com/amnezia-vpn/amnezia-client)
+- [moeru-ai /airi](https://github.com/moeru-ai/airi)
 - [yorukot /superfile](https://github.com/yorukot/superfile)
 - [NanmiCoder /MediaCrawler](https://github.com/NanmiCoder/MediaCrawler)
 - [pbakaus /impeccable](https://github.com/pbakaus/impeccable)
