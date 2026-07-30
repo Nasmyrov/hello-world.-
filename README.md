@@ -13,6 +13,19 @@
 
 
 
+- [huggingface /speech-to-speech](https://github.com/huggingface/speech-to-speech)
+- [microsoft /AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)
+- [paperswithbacktest /awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading)
+- [different-ai /openwork](https://github.com/different-ai/openwork)
+- [WhiskeySockets /Baileys](https://github.com/WhiskeySockets/Baileys)
+- [pascalorg /editor](https://github.com/pascalorg/editor)
+- [mvanhorn /last30days-skill](https://github.com/mvanhorn/last30days-skill)
+- [dotnet /aspnetcore](https://github.com/dotnet/aspnetcore)
+- [microsoft /PowerToys](https://github.com/microsoft/PowerToys)
+- [ansible /ansible](https://github.com/ansible/ansible)
+
+
+
 - [opengeos /GeoLibre](https://github.com/opengeos/GeoLibre)
 - [moeru-ai /airi](https://github.com/moeru-ai/airi)
 - [affaan-m /ECC](https://github.com/affaan-m/ECC)
