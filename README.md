@@ -104,6 +104,19 @@
 
 
 
+- [opengeos /GeoLibre](https://github.com/opengeos/GeoLibre)
+- [moeru-ai /airi](https://github.com/moeru-ai/airi)
+- [affaan-m /ECC](https://github.com/affaan-m/ECC)
+- [huggingface /speech-to-speech](https://github.com/huggingface/speech-to-speech)
+- [1jehuang /jcode](https://github.com/1jehuang/jcode)
+- [grokability /snipe-it](https://github.com/grokability/snipe-it)
+- [deepfakes /faceswap](https://github.com/deepfakes/faceswap)
+- [microsoft /VibeVoice](https://github.com/microsoft/VibeVoice)
+- [different-ai /openwork](https://github.com/different-ai/openwork)
+- [obra /superpowers](https://github.com/obra/superpowers)
+
+
+
 - [pascalorg /editor](https://github.com/pascalorg/editor)
 - [jenkinsci /jenkins](https://github.com/jenkinsci/jenkins)
 - [moeru-ai /airi](https://github.com/moeru-ai/airi)
