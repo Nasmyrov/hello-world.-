@@ -1,5 +1,18 @@
 
 
+- [zhaoxuya520 /reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
+- [different-ai /openwork](https://github.com/different-ai/openwork)
+- [mvanhorn /last30days-skill](https://github.com/mvanhorn/last30days-skill)
+- [paperswithbacktest /awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading)
+- [microsoft /AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)
+- [github /copilot-sdk](https://github.com/github/copilot-sdk)
+- [chatwoot /chatwoot](https://github.com/chatwoot/chatwoot)
+- [agavra /tuicr](https://github.com/agavra/tuicr)
+- [usekaneo /kaneo](https://github.com/usekaneo/kaneo)
+- [geo-tp /ESP32-Bit-Pirate](https://github.com/geo-tp/ESP32-Bit-Pirate)
+
+
+
 - [huggingface /speech-to-speech](https://github.com/huggingface/speech-to-speech)
 - [microsoft /AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)
 - [paperswithbacktest /awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading)
