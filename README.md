@@ -13,6 +13,19 @@
 
 
 
+- [microsoft /AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)
+- [paperswithbacktest /awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading)
+- [usekaneo /kaneo](https://github.com/usekaneo/kaneo)
+- [zhaoxuya520 /reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
+- [microsoft /generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
+- [github /copilot-sdk](https://github.com/github/copilot-sdk)
+- [github /gh-stack](https://github.com/github/gh-stack)
+- [huggingface /speech-to-speech](https://github.com/huggingface/speech-to-speech)
+- [abus-aikorea /voice-pro](https://github.com/abus-aikorea/voice-pro)
+- [iv-org /invidious](https://github.com/iv-org/invidious)
+
+
+
 - [zhaoxuya520 /reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
 - [different-ai /openwork](https://github.com/different-ai/openwork)
 - [mvanhorn /last30days-skill](https://github.com/mvanhorn/last30days-skill)
