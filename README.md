@@ -118,6 +118,19 @@
 
 
 - [microsoft /AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)
+- [usekaneo /kaneo](https://github.com/usekaneo/kaneo)
+- [lyogavin /airllm](https://github.com/lyogavin/airllm)
+- [iv-org /invidious](https://github.com/iv-org/invidious)
+- [codecrafters-io /build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+- [zhaoxuya520 /reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
+- [different-ai /openwork](https://github.com/different-ai/openwork)
+- [microsoft /generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
+- [Panniantong /Agent-Reach](https://github.com/Panniantong/Agent-Reach)
+- [TencentCloud /TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)
+
+
+
+- [microsoft /AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)
 - [paperswithbacktest /awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading)
 - [usekaneo /kaneo](https://github.com/usekaneo/kaneo)
 - [zhaoxuya520 /reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
