@@ -26,6 +26,19 @@
 
 
 
+- [TencentCloud /TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)
+- [zhaoxuya520 /reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
+- [firecrawl /pdf-inspector](https://github.com/firecrawl/pdf-inspector)
+- [uber /ADR](https://github.com/uber/ADR)
+- [obra /superpowers](https://github.com/obra/superpowers)
+- [microsoft /generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
+- [cypress-io /cypress](https://github.com/cypress-io/cypress)
+- [lyogavin /airllm](https://github.com/lyogavin/airllm)
+- [webpack /webpack](https://github.com/webpack/webpack)
+- [gabime /spdlog](https://github.com/gabime/spdlog)
+
+
+
 - [lyogavin /airllm](https://github.com/lyogavin/airllm)
 - [zhaoxuya520 /reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
 - [firecrawl /pdf-inspector](https://github.com/firecrawl/pdf-inspector)
