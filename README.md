@@ -78,6 +78,19 @@
 
 
 
+- [lyogavin /airllm](https://github.com/lyogavin/airllm)
+- [zhaoxuya520 /reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
+- [firecrawl /pdf-inspector](https://github.com/firecrawl/pdf-inspector)
+- [esengine /DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix)
+- [TencentCloud /TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)
+- [microsoft /AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)
+- [microsoft /generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
+- [donnemartin /system-design-primer](https://github.com/donnemartin/system-design-primer)
+- [antirez /ds4](https://github.com/antirez/ds4)
+- [shiyu-coder /Kronos](https://github.com/shiyu-coder/Kronos)
+
+
+
 - [microsoft /AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)
 - [usekaneo /kaneo](https://github.com/usekaneo/kaneo)
 - [lyogavin /airllm](https://github.com/lyogavin/airllm)
