@@ -1,5 +1,18 @@
 
 
+- [TencentCloud /TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)
+- [addyosmani /agent-skills](https://github.com/addyosmani/agent-skills)
+- [cloudflare /computer](https://github.com/cloudflare/computer)
+- [mattpocock /skills](https://github.com/mattpocock/skills)
+- [goauthentik /authentik](https://github.com/goauthentik/authentik)
+- [huangruiteng /loopx](https://github.com/huangruiteng/loopx)
+- [google /guava](https://github.com/google/guava)
+- [TapXWorld /ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)
+- [Significant-Gravitas /AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
+- [tirth8205 /code-review-graph](https://github.com/tirth8205/code-review-graph)
+
+
+
 - [cloudflare /computer](https://github.com/cloudflare/computer)
 - [huangruiteng /loopx](https://github.com/huangruiteng/loopx)
 - [TencentCloud /TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)
