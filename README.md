@@ -39,6 +39,19 @@
 
 
 
+- [PrimeIntellect-ai /prime-agent](https://github.com/PrimeIntellect-ai/prime-agent)
+- [addyosmani /agent-skills](https://github.com/addyosmani/agent-skills)
+- [cloudflare /computer](https://github.com/cloudflare/computer)
+- [mattpocock /skills](https://github.com/mattpocock/skills)
+- [obra /superpowers](https://github.com/obra/superpowers)
+- [goauthentik /authentik](https://github.com/goauthentik/authentik)
+- [semantica-agi /semantica](https://github.com/semantica-agi/semantica)
+- [666ghj /MiroFish](https://github.com/666ghj/MiroFish)
+- [chenyme /grok2api](https://github.com/chenyme/grok2api)
+- [jdx /mise](https://github.com/jdx/mise)
+
+
+
 - [TencentCloud /TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)
 - [addyosmani /agent-skills](https://github.com/addyosmani/agent-skills)
 - [cloudflare /computer](https://github.com/cloudflare/computer)
