@@ -2,6 +2,19 @@
 
 - [PrimeIntellect-ai /prime-agent](https://github.com/PrimeIntellect-ai/prime-agent)
 - [addyosmani /agent-skills](https://github.com/addyosmani/agent-skills)
+- [TapXWorld /ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)
+- [google /skills](https://github.com/google/skills)
+- [mattpocock /skills](https://github.com/mattpocock/skills)
+- [goauthentik /authentik](https://github.com/goauthentik/authentik)
+- [TauricResearch /TradingAgents](https://github.com/TauricResearch/TradingAgents)
+- [google /guava](https://github.com/google/guava)
+- [LadybirdBrowser /ladybird](https://github.com/LadybirdBrowser/ladybird)
+- [denoland /celld](https://github.com/denoland/celld)
+
+
+
+- [PrimeIntellect-ai /prime-agent](https://github.com/PrimeIntellect-ai/prime-agent)
+- [addyosmani /agent-skills](https://github.com/addyosmani/agent-skills)
 - [cloudflare /computer](https://github.com/cloudflare/computer)
 - [mattpocock /skills](https://github.com/mattpocock/skills)
 - [obra /superpowers](https://github.com/obra/superpowers)
