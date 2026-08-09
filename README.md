@@ -105,6 +105,19 @@
 
 
 - [PrimeIntellect-ai /prime-agent](https://github.com/PrimeIntellect-ai/prime-agent)
+- [vitali87 /code-graph-rag](https://github.com/vitali87/code-graph-rag)
+- [msitarzewski /agency-agents](https://github.com/msitarzewski/agency-agents)
+- [pranshuparmar /witr](https://github.com/pranshuparmar/witr)
+- [google-deepmind /weathernext](https://github.com/google-deepmind/weathernext)
+- [addyosmani /agent-skills](https://github.com/addyosmani/agent-skills)
+- [ZhuLinsen /daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)
+- [goauthentik /authentik](https://github.com/goauthentik/authentik)
+- [google /skills](https://github.com/google/skills)
+- [Comfy-Org /ComfyUI](https://github.com/Comfy-Org/ComfyUI)
+
+
+
+- [PrimeIntellect-ai /prime-agent](https://github.com/PrimeIntellect-ai/prime-agent)
 - [addyosmani /agent-skills](https://github.com/addyosmani/agent-skills)
 - [TapXWorld /ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)
 - [google /skills](https://github.com/google/skills)
