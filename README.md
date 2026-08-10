@@ -78,6 +78,19 @@
 
 
 
+- [semantica-agi /semantica](https://github.com/semantica-agi/semantica)
+- [msitarzewski /agency-agents](https://github.com/msitarzewski/agency-agents)
+- [NanmiCoder /MediaCrawler](https://github.com/NanmiCoder/MediaCrawler)
+- [addyosmani /agent-skills](https://github.com/addyosmani/agent-skills)
+- [paperclipai /paperclip](https://github.com/paperclipai/paperclip)
+- [PrimeIntellect-ai /prime-agent](https://github.com/PrimeIntellect-ai/prime-agent)
+- [LadybirdBrowser /ladybird](https://github.com/LadybirdBrowser/ladybird)
+- [ruvnet /RuView](https://github.com/ruvnet/RuView)
+- [danielmiessler /LifeOS](https://github.com/danielmiessler/LifeOS)
+- [firecrawl /firecrawl](https://github.com/firecrawl/firecrawl)
+
+
+
 - [PrimeIntellect-ai /prime-agent](https://github.com/PrimeIntellect-ai/prime-agent)
 - [vitali87 /code-graph-rag](https://github.com/vitali87/code-graph-rag)
 - [msitarzewski /agency-agents](https://github.com/msitarzewski/agency-agents)
