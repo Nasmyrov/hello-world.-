@@ -26,6 +26,19 @@
 
 
 
+- [cathrynlavery /diagram-design](https://github.com/cathrynlavery/diagram-design)
+- [msitarzewski /agency-agents](https://github.com/msitarzewski/agency-agents)
+- [semantica-agi /semantica](https://github.com/semantica-agi/semantica)
+- [nvm-sh /nvm](https://github.com/nvm-sh/nvm)
+- [addyosmani /agent-skills](https://github.com/addyosmani/agent-skills)
+- [ZhuLinsen /daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)
+- [vitali87 /code-graph-rag](https://github.com/vitali87/code-graph-rag)
+- [anthropics /skills](https://github.com/anthropics/skills)
+- [3b1b /manim](https://github.com/3b1b/manim)
+- [HKUDS /DeepTutor](https://github.com/HKUDS/DeepTutor)
+
+
+
 - [msitarzewski /agency-agents](https://github.com/msitarzewski/agency-agents)
 - [semantica-agi /semantica](https://github.com/semantica-agi/semantica)
 - [nvm-sh /nvm](https://github.com/nvm-sh/nvm)
