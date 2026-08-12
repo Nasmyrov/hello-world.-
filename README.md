@@ -1,5 +1,18 @@
 
 
+- [macro-inc /macro](https://github.com/macro-inc/macro)
+- [semantica-agi /semantica](https://github.com/semantica-agi/semantica)
+- [stablyai /orca](https://github.com/stablyai/orca)
+- [msitarzewski /agency-agents](https://github.com/msitarzewski/agency-agents)
+- [shiyu-coder /Kronos](https://github.com/shiyu-coder/Kronos)
+- [NanmiCoder /MediaCrawler](https://github.com/NanmiCoder/MediaCrawler)
+- [hugohe3 /ppt-master](https://github.com/hugohe3/ppt-master)
+- [infiniflow /ragflow](https://github.com/infiniflow/ragflow)
+- [paperclipai /paperclip](https://github.com/paperclipai/paperclip)
+- [NVIDIA-NeMo /Switchyard](https://github.com/NVIDIA-NeMo/Switchyard)
+
+
+
 - [cathrynlavery /diagram-design](https://github.com/cathrynlavery/diagram-design)
 - [macro-inc /macro](https://github.com/macro-inc/macro)
 - [semantica-agi /semantica](https://github.com/semantica-agi/semantica)
