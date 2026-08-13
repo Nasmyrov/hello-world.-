@@ -118,6 +118,19 @@
 
 
 - [cathrynlavery /diagram-design](https://github.com/cathrynlavery/diagram-design)
+- [semantica-agi /semantica](https://github.com/semantica-agi/semantica)
+- [anthropics /skills](https://github.com/anthropics/skills)
+- [cactus-compute /needle](https://github.com/cactus-compute/needle)
+- [altic-dev /FluidVoice](https://github.com/altic-dev/FluidVoice)
+- [unslothai /unsloth](https://github.com/unslothai/unsloth)
+- [macro-inc /macro](https://github.com/macro-inc/macro)
+- [megadose /holehe](https://github.com/megadose/holehe)
+- [smicallef /spiderfoot](https://github.com/smicallef/spiderfoot)
+- [NVIDIA-NeMo /Switchyard](https://github.com/NVIDIA-NeMo/Switchyard)
+
+
+
+- [cathrynlavery /diagram-design](https://github.com/cathrynlavery/diagram-design)
 - [macro-inc /macro](https://github.com/macro-inc/macro)
 - [semantica-agi /semantica](https://github.com/semantica-agi/semantica)
 - [stablyai /orca](https://github.com/stablyai/orca)
