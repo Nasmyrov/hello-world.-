@@ -53,6 +53,19 @@
 
 
 - [cathrynlavery /diagram-design](https://github.com/cathrynlavery/diagram-design)
+- [cactus-compute /needle](https://github.com/cactus-compute/needle)
+- [megadose /holehe](https://github.com/megadose/holehe)
+- [macro-inc /macro](https://github.com/macro-inc/macro)
+- [smicallef /spiderfoot](https://github.com/smicallef/spiderfoot)
+- [citrolabs /ego-lite](https://github.com/citrolabs/ego-lite)
+- [holaboss-ai /holaOS](https://github.com/holaboss-ai/holaOS)
+- [github /spec-kit](https://github.com/github/spec-kit)
+- [lightningpixel /modly](https://github.com/lightningpixel/modly)
+- [infiniflow /ragflow](https://github.com/infiniflow/ragflow)
+
+
+
+- [cathrynlavery /diagram-design](https://github.com/cathrynlavery/diagram-design)
 - [semantica-agi /semantica](https://github.com/semantica-agi/semantica)
 - [anthropics /skills](https://github.com/anthropics/skills)
 - [cactus-compute /needle](https://github.com/cactus-compute/needle)
