@@ -117,6 +117,19 @@
 
 
 
+- [cordiverse /cordis](https://github.com/cordiverse/cordis)
+- [cathrynlavery /diagram-design](https://github.com/cathrynlavery/diagram-design)
+- [cursor /plugins](https://github.com/cursor/plugins)
+- [cactus-compute /needle](https://github.com/cactus-compute/needle)
+- [unslothai /unsloth](https://github.com/unslothai/unsloth)
+- [public-apis /public-apis](https://github.com/public-apis/public-apis)
+- [MakazhanAlpamys /Soup](https://github.com/MakazhanAlpamys/Soup)
+- [github /spec-kit](https://github.com/github/spec-kit)
+- [megadose /holehe](https://github.com/megadose/holehe)
+- [altic-dev /FluidVoice](https://github.com/altic-dev/FluidVoice)
+
+
+
 - [cathrynlavery /diagram-design](https://github.com/cathrynlavery/diagram-design)
 - [cactus-compute /needle](https://github.com/cactus-compute/needle)
 - [megadose /holehe](https://github.com/megadose/holehe)
