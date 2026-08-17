@@ -26,6 +26,19 @@
 
 
 
+- [harry0703 /MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
+- [usestrix /strix](https://github.com/usestrix/strix)
+- [nautechsystems /nautilus_trader](https://github.com/nautechsystems/nautilus_trader)
+- [mukul975 /Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)
+- [AlexsJones /llmfit](https://github.com/AlexsJones/llmfit)
+- [santifer /career-ops](https://github.com/santifer/career-ops)
+- [jundot /omlx](https://github.com/jundot/omlx)
+- [immich-app /immich](https://github.com/immich-app/immich)
+- [cordiverse /cordis](https://github.com/cordiverse/cordis)
+- [agalwood /Motrix](https://github.com/agalwood/Motrix)
+
+
+
 - [cordiverse /cordis](https://github.com/cordiverse/cordis)
 - [basecamp /omarchy](https://github.com/basecamp/omarchy)
 - [unslothai /unsloth](https://github.com/unslothai/unsloth)
