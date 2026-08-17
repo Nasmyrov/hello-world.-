@@ -114,6 +114,16 @@
 - [basecamp /omarchy](https://github.com/basecamp/omarchy)
 - [unslothai /unsloth](https://github.com/unslothai/unsloth)
 - [OpenCut-app /OpenCut](https://github.com/OpenCut-app/OpenCut)
+- [public-apis /public-apis](https://github.com/public-apis/public-apis)
+- [ToolJet /ToolJet](https://github.com/ToolJet/ToolJet)
+- [cactus-compute /needle](https://github.com/cactus-compute/needle)
+
+
+
+- [cordiverse /cordis](https://github.com/cordiverse/cordis)
+- [basecamp /omarchy](https://github.com/basecamp/omarchy)
+- [unslothai /unsloth](https://github.com/unslothai/unsloth)
+- [OpenCut-app /OpenCut](https://github.com/OpenCut-app/OpenCut)
 - [akitaonrails /ai-memory](https://github.com/akitaonrails/ai-memory)
 - [public-apis /public-apis](https://github.com/public-apis/public-apis)
 - [ToolJet /ToolJet](https://github.com/ToolJet/ToolJet)
