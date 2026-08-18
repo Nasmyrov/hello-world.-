@@ -27,6 +27,19 @@
 
 
 - [harry0703 /MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
+- [chaitanyagiri /munder-difflin](https://github.com/chaitanyagiri/munder-difflin)
+- [akitaonrails /ai-memory](https://github.com/akitaonrails/ai-memory)
+- [volcengine /OpenViking](https://github.com/volcengine/OpenViking)
+- [mukul975 /Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)
+- [public-apis /public-apis](https://github.com/public-apis/public-apis)
+- [basecamp /omarchy](https://github.com/basecamp/omarchy)
+- [agalwood /Motrix](https://github.com/agalwood/Motrix)
+- [NawfalMotii79 /PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR)
+- [jundot /omlx](https://github.com/jundot/omlx)
+
+
+
+- [harry0703 /MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
 - [usestrix /strix](https://github.com/usestrix/strix)
 - [nautechsystems /nautilus_trader](https://github.com/nautechsystems/nautilus_trader)
 - [akitaonrails /ai-memory](https://github.com/akitaonrails/ai-memory)
