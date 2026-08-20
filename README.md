@@ -117,6 +117,19 @@
 
 
 
+- [modular /modular](https://github.com/modular/modular)
+- [mattpocock /skills](https://github.com/mattpocock/skills)
+- [AprilNEA /OpenLogi](https://github.com/AprilNEA/OpenLogi)
+- [obra /superpowers](https://github.com/obra/superpowers)
+- [cursor /plugins](https://github.com/cursor/plugins)
+- [santifer /career-ops](https://github.com/santifer/career-ops)
+- [akitaonrails /ai-memory](https://github.com/akitaonrails/ai-memory)
+- [harry0703 /MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
+- [agent-substrate /substrate](https://github.com/agent-substrate/substrate)
+- [chaitanyagiri /munder-difflin](https://github.com/chaitanyagiri/munder-difflin)
+
+
+
 - [harry0703 /MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
 - [volcengine /OpenViking](https://github.com/volcengine/OpenViking)
 - [chaitanyagiri /munder-difflin](https://github.com/chaitanyagiri/munder-difflin)
