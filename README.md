@@ -65,6 +65,19 @@
 
 
 
+- [openai /codex](https://github.com/openai/codex)
+- [mattpocock /skills](https://github.com/mattpocock/skills)
+- [affaan-m /ECC](https://github.com/affaan-m/ECC)
+- [obra /superpowers](https://github.com/obra/superpowers)
+- [Wei-Shaw /sub2api](https://github.com/Wei-Shaw/sub2api)
+- [makeplane /plane](https://github.com/makeplane/plane)
+- [n8n-io /n8n](https://github.com/n8n-io/n8n)
+- [anthropics /claude-code](https://github.com/anthropics/claude-code)
+- [AprilNEA /OpenLogi](https://github.com/AprilNEA/OpenLogi)
+- [modular /modular](https://github.com/modular/modular)
+
+
+
 - [mattpocock /skills](https://github.com/mattpocock/skills)
 - [mahlernim /google-timeline-visualizer](https://github.com/mahlernim/google-timeline-visualizer)
 - [harry0703 /MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
