@@ -65,6 +65,19 @@
 
 
 
+- [mattpocock /skills](https://github.com/mattpocock/skills)
+- [mahlernim /google-timeline-visualizer](https://github.com/mahlernim/google-timeline-visualizer)
+- [harry0703 /MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
+- [AprilNEA /OpenLogi](https://github.com/AprilNEA/OpenLogi)
+- [PostHog /posthog](https://github.com/PostHog/posthog)
+- [microsoft /TypeScript](https://github.com/microsoft/TypeScript)
+- [obra /superpowers](https://github.com/obra/superpowers)
+- [santifer /career-ops](https://github.com/santifer/career-ops)
+- [cursor /plugins](https://github.com/cursor/plugins)
+- [modular /modular](https://github.com/modular/modular)
+
+
+
 - [modular /modular](https://github.com/modular/modular)
 - [mattpocock /skills](https://github.com/mattpocock/skills)
 - [AprilNEA /OpenLogi](https://github.com/AprilNEA/OpenLogi)
