@@ -14,6 +14,19 @@
 
 
 - [openai /codex](https://github.com/openai/codex)
+- [freestylefly /awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
+- [mattpocock /skills](https://github.com/mattpocock/skills)
+- [basecamp /omarchy](https://github.com/basecamp/omarchy)
+- [AprilNEA /OpenLogi](https://github.com/AprilNEA/OpenLogi)
+- [block /buzz](https://github.com/block/buzz)
+- [apache /maka](https://github.com/apache/maka)
+- [Alishahryar1 /free-claude-code](https://github.com/Alishahryar1/free-claude-code)
+- [tinyhumansai /openhuman](https://github.com/tinyhumansai/openhuman)
+- [affaan-m /ECC](https://github.com/affaan-m/ECC)
+
+
+
+- [openai /codex](https://github.com/openai/codex)
 - [mattpocock /skills](https://github.com/mattpocock/skills)
 - [affaan-m /ECC](https://github.com/affaan-m/ECC)
 - [obra /superpowers](https://github.com/obra/superpowers)
