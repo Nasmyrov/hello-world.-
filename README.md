@@ -15,6 +15,19 @@
 
 - [freestylefly /awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
 - [anthropics /claude-plugins-community](https://github.com/anthropics/claude-plugins-community)
+- [apache /maka](https://github.com/apache/maka)
+- [TauricResearch /TradingAgents](https://github.com/TauricResearch/TradingAgents)
+- [AgriciDaniel /claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian)
+- [rohitg00 /ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
+- [tinyhumansai /openhuman](https://github.com/tinyhumansai/openhuman)
+- [basecamp /omarchy](https://github.com/basecamp/omarchy)
+- [Shubhamsaboo /awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
+- [multica-ai /andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)
+
+
+
+- [freestylefly /awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
+- [anthropics /claude-plugins-community](https://github.com/anthropics/claude-plugins-community)
 - [MadsLorentzen /ai-job-search](https://github.com/MadsLorentzen/ai-job-search)
 - [apache /maka](https://github.com/apache/maka)
 - [TauricResearch /TradingAgents](https://github.com/TauricResearch/TradingAgents)
