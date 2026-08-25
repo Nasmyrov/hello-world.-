@@ -221,6 +221,19 @@
 
 
 
+- [Alishahryar1 /free-claude-code](https://github.com/Alishahryar1/free-claude-code)
+- [openai /codex](https://github.com/openai/codex)
+- [MadsLorentzen /ai-job-search](https://github.com/MadsLorentzen/ai-job-search)
+- [multica-ai /andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)
+- [makeplane /plane](https://github.com/makeplane/plane)
+- [NousResearch /hermes-agent](https://github.com/NousResearch/hermes-agent)
+- [anthropics /claude-plugins-community](https://github.com/anthropics/claude-plugins-community)
+- [AprilNEA /OpenLogi](https://github.com/AprilNEA/OpenLogi)
+- [apache /maka](https://github.com/apache/maka)
+- [PostHog /posthog](https://github.com/PostHog/posthog)
+
+
+
 - [openai /codex](https://github.com/openai/codex)
 - [freestylefly /awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
 - [mattpocock /skills](https://github.com/mattpocock/skills)
