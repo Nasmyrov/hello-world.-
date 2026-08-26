@@ -52,6 +52,19 @@
 
 
 
+- [tt-a1i /archify](https://github.com/tt-a1i/archify)
+- [freestylefly /awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
+- [anthropics /claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
+- [Alishahryar1 /free-claude-code](https://github.com/Alishahryar1/free-claude-code)
+- [MadsLorentzen /ai-job-search](https://github.com/MadsLorentzen/ai-job-search)
+- [AgriciDaniel /claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian)
+- [basecamp /omarchy](https://github.com/basecamp/omarchy)
+- [rohitg00 /ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
+- [tinyhumansai /openhuman](https://github.com/tinyhumansai/openhuman)
+- [DietrichGebert /ponytail](https://github.com/DietrichGebert/ponytail)
+
+
+
 - [freestylefly /awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
 - [anthropics /claude-plugins-community](https://github.com/anthropics/claude-plugins-community)
 - [MadsLorentzen /ai-job-search](https://github.com/MadsLorentzen/ai-job-search)
