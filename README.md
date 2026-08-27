@@ -1,5 +1,18 @@
 
 
+- [zedeus /nitter](https://github.com/zedeus/nitter)
+- [freestylefly /awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
+- [tt-a1i /archify](https://github.com/tt-a1i/archify)
+- [JetBrains /go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines)
+- [anthropics /claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
+- [K-Dense-AI /scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)
+- [DietrichGebert /ponytail](https://github.com/DietrichGebert/ponytail)
+- [calesthio /OpenMontage](https://github.com/calesthio/OpenMontage)
+- [rohitg00 /ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
+- [ConardLi /garden-skills](https://github.com/ConardLi/garden-skills)
+
+
+
 - [tt-a1i /archify](https://github.com/tt-a1i/archify)
 - [freestylefly /awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
 - [anthropics /claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
