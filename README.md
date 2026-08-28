@@ -13,6 +13,19 @@
 
 
 
+- [tt-a1i /archify](https://github.com/tt-a1i/archify)
+- [K-Dense-AI /scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)
+- [anthropics /claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
+- [bilawalsidhu /gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)
+- [abhigyanpatwari /GitNexus](https://github.com/abhigyanpatwari/GitNexus)
+- [JetBrains /go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines)
+- [calesthio /OpenMontage](https://github.com/calesthio/OpenMontage)
+- [abi /screenshot-to-code](https://github.com/abi/screenshot-to-code)
+- [cursor /plugins](https://github.com/cursor/plugins)
+- [freestylefly /awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
+
+
+
 - [bilawalsidhu /gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)
 - [zedeus /nitter](https://github.com/zedeus/nitter)
 - [freestylefly /awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
