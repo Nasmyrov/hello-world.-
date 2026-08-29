@@ -1,6 +1,19 @@
 
 
 - [tt-a1i /archify](https://github.com/tt-a1i/archify)
+- [bilawalsidhu /gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)
+- [K-Dense-AI /scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)
+- [tailscale /tailcat](https://github.com/tailscale/tailcat)
+- [THU-MAIC /OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)
+- [p-e-w /heretic](https://github.com/p-e-w/heretic)
+- [bigskysoftware /htmx](https://github.com/bigskysoftware/htmx)
+- [JetBrains /go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines)
+- [ComposioHQ /awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)
+- [calesthio /OpenMontage](https://github.com/calesthio/OpenMontage)
+
+
+
+- [tt-a1i /archify](https://github.com/tt-a1i/archify)
 - [K-Dense-AI /scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)
 - [anthropics /claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
 - [bilawalsidhu /gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)
