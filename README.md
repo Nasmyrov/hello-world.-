@@ -14,6 +14,19 @@
 
 
 - [THU-MAIC /OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)
+- [tt-a1i /archify](https://github.com/tt-a1i/archify)
+- [K-Dense-AI /scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)
+- [k1tbyte /Wand-Enhancer](https://github.com/k1tbyte/Wand-Enhancer)
+- [majd /ipatool](https://github.com/majd/ipatool)
+- [jingyaogong /minimind](https://github.com/jingyaogong/minimind)
+- [Osmantic /ODS](https://github.com/Osmantic/ODS)
+- [checkstyle /checkstyle](https://github.com/checkstyle/checkstyle)
+- [zhaoxuya520 /reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
+- [affaan-m /ECC](https://github.com/affaan-m/ECC)
+
+
+
+- [THU-MAIC /OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)
 - [K-Dense-AI /scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)
 - [Lakr233 /vphone-cli](https://github.com/Lakr233/vphone-cli)
 - [tt-a1i /archify](https://github.com/tt-a1i/archify)
