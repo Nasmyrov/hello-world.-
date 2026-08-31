@@ -39,6 +39,19 @@
 
 
 
+- [THU-MAIC /OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)
+- [K-Dense-AI /scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)
+- [Lakr233 /vphone-cli](https://github.com/Lakr233/vphone-cli)
+- [tt-a1i /archify](https://github.com/tt-a1i/archify)
+- [p-e-w /heretic](https://github.com/p-e-w/heretic)
+- [unclecode /crawl4ai](https://github.com/unclecode/crawl4ai)
+- [mvanhorn /last30days-skill](https://github.com/mvanhorn/last30days-skill)
+- [majd /ipatool](https://github.com/majd/ipatool)
+- [punkpeye /awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
+- [checkstyle /checkstyle](https://github.com/checkstyle/checkstyle)
+
+
+
 - [tt-a1i /archify](https://github.com/tt-a1i/archify)
 - [bilawalsidhu /gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)
 - [K-Dense-AI /scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)
