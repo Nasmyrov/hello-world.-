@@ -13,6 +13,19 @@
 
 
 
+- [Gitlawb /openclaude](https://github.com/Gitlawb/openclaude)
+- [Imbad0202 /academic-research-skills](https://github.com/Imbad0202/academic-research-skills)
+- [THU-MAIC /OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)
+- [iv-org /invidious](https://github.com/iv-org/invidious)
+- [jingyaogong /minimind](https://github.com/jingyaogong/minimind)
+- [debpalash /VoiceStudio](https://github.com/debpalash/VoiceStudio)
+- [3b1b /manim](https://github.com/3b1b/manim)
+- [firecrawl /pdf-inspector](https://github.com/firecrawl/pdf-inspector)
+- [browser-use /video-use](https://github.com/browser-use/video-use)
+- [K-Dense-AI /scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)
+
+
+
 - [THU-MAIC /OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)
 - [tt-a1i /archify](https://github.com/tt-a1i/archify)
 - [K-Dense-AI /scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)
