@@ -1,5 +1,18 @@
 
 
+- [fmtlib /fmt](https://github.com/fmtlib/fmt)
+- [google-research /timesfm](https://github.com/google-research/timesfm)
+- [DietrichGebert /ponytail](https://github.com/DietrichGebert/ponytail)
+- [sngyai /Sequoia-X](https://github.com/sngyai/Sequoia-X)
+- [ChromeDevTools /chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
+- [NousResearch /hermes-agent](https://github.com/NousResearch/hermes-agent)
+- [superlinked /sie](https://github.com/superlinked/sie)
+- [pacifio /atlas](https://github.com/pacifio/atlas)
+- [zyronon /TypeWords](https://github.com/zyronon/TypeWords)
+- [Imbad0202 /academic-research-skills](https://github.com/Imbad0202/academic-research-skills)
+
+
+
 - [Gitlawb /openclaude](https://github.com/Gitlawb/openclaude)
 - [Imbad0202 /academic-research-skills](https://github.com/Imbad0202/academic-research-skills)
 - [THU-MAIC /OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)
