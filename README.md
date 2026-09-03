@@ -14,6 +14,19 @@
 
 
 - [fmtlib /fmt](https://github.com/fmtlib/fmt)
+- [mattpocock /skills](https://github.com/mattpocock/skills)
+- [NousResearch /hermes-agent](https://github.com/NousResearch/hermes-agent)
+- [DietrichGebert /ponytail](https://github.com/DietrichGebert/ponytail)
+- [anthropics /skills](https://github.com/anthropics/skills)
+- [affaan-m /ECC](https://github.com/affaan-m/ECC)
+- [JuliusBrussee /caveman](https://github.com/JuliusBrussee/caveman)
+- [blader /humanizer](https://github.com/blader/humanizer)
+- [google-research /timesfm](https://github.com/google-research/timesfm)
+- [averygan /reclip](https://github.com/averygan/reclip)
+
+
+
+- [fmtlib /fmt](https://github.com/fmtlib/fmt)
 - [google-research /timesfm](https://github.com/google-research/timesfm)
 - [DietrichGebert /ponytail](https://github.com/DietrichGebert/ponytail)
 - [debpalash /VoiceStudio](https://github.com/debpalash/VoiceStudio)
