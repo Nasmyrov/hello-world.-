@@ -14,6 +14,19 @@
 
 
 - [mattpocock /skills](https://github.com/mattpocock/skills)
+- [affaan-m /ECC](https://github.com/affaan-m/ECC)
+- [DietrichGebert /ponytail](https://github.com/DietrichGebert/ponytail)
+- [NousResearch /hermes-agent](https://github.com/NousResearch/hermes-agent)
+- [fmtlib /fmt](https://github.com/fmtlib/fmt)
+- [anthropics /skills](https://github.com/anthropics/skills)
+- [cathrynlavery /diagram-design](https://github.com/cathrynlavery/diagram-design)
+- [anomalyco /opencode](https://github.com/anomalyco/opencode)
+- [ruvnet /ruflo](https://github.com/ruvnet/ruflo)
+- [humanlayer /skills](https://github.com/humanlayer/skills)
+
+
+
+- [mattpocock /skills](https://github.com/mattpocock/skills)
 - [DietrichGebert /ponytail](https://github.com/DietrichGebert/ponytail)
 - [fmtlib /fmt](https://github.com/fmtlib/fmt)
 - [affaan-m /ECC](https://github.com/affaan-m/ECC)
