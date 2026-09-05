@@ -78,6 +78,19 @@
 
 
 
+- [mattpocock /skills](https://github.com/mattpocock/skills)
+- [DietrichGebert /ponytail](https://github.com/DietrichGebert/ponytail)
+- [fmtlib /fmt](https://github.com/fmtlib/fmt)
+- [affaan-m /ECC](https://github.com/affaan-m/ECC)
+- [anthropics /skills](https://github.com/anthropics/skills)
+- [blader /humanizer](https://github.com/blader/humanizer)
+- [NousResearch /hermes-agent](https://github.com/NousResearch/hermes-agent)
+- [JuliusBrussee /caveman](https://github.com/JuliusBrussee/caveman)
+- [magnitudedev /magnitude](https://github.com/magnitudedev/magnitude)
+- [bikini /exploitarium](https://github.com/bikini/exploitarium)
+
+
+
 - [fmtlib /fmt](https://github.com/fmtlib/fmt)
 - [mattpocock /skills](https://github.com/mattpocock/skills)
 - [NousResearch /hermes-agent](https://github.com/NousResearch/hermes-agent)
