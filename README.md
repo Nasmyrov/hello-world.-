@@ -1,5 +1,18 @@
 
 
+- [affaan-m /ECC](https://github.com/affaan-m/ECC)
+- [mattpocock /skills](https://github.com/mattpocock/skills)
+- [cathrynlavery /diagram-design](https://github.com/cathrynlavery/diagram-design)
+- [NousResearch /hermes-agent](https://github.com/NousResearch/hermes-agent)
+- [openai /skills](https://github.com/openai/skills)
+- [anomalyco /opencode](https://github.com/anomalyco/opencode)
+- [blader /humanizer](https://github.com/blader/humanizer)
+- [llvm /llvm-project](https://github.com/llvm/llvm-project)
+- [DietrichGebert /ponytail](https://github.com/DietrichGebert/ponytail)
+- [ruvnet /ruflo](https://github.com/ruvnet/ruflo)
+
+
+
 - [mattpocock /skills](https://github.com/mattpocock/skills)
 - [affaan-m /ECC](https://github.com/affaan-m/ECC)
 - [DietrichGebert /ponytail](https://github.com/DietrichGebert/ponytail)
