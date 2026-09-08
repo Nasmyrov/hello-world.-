@@ -39,6 +39,19 @@
 
 
 
+- [ayghri /i-have-adhd](https://github.com/ayghri/i-have-adhd)
+- [cathrynlavery /diagram-design](https://github.com/cathrynlavery/diagram-design)
+- [openai /skills](https://github.com/openai/skills)
+- [affaan-m /ECC](https://github.com/affaan-m/ECC)
+- [heygen-com /hyperframes](https://github.com/heygen-com/hyperframes)
+- [coreyhaines31 /marketingskills](https://github.com/coreyhaines31/marketingskills)
+- [obra /superpowers](https://github.com/obra/superpowers)
+- [multica-ai /andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)
+- [microsoft /markitdown](https://github.com/microsoft/markitdown)
+- [jo-inc /camofox-browser](https://github.com/jo-inc/camofox-browser)
+
+
+
 - [heygen-com /hyperframes](https://github.com/heygen-com/hyperframes)
 - [microsoft /markitdown](https://github.com/microsoft/markitdown)
 - [mksglu /context-mode](https://github.com/mksglu/context-mode)
