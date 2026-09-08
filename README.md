@@ -52,6 +52,19 @@
 
 
 
+- [heygen-com /hyperframes](https://github.com/heygen-com/hyperframes)
+- [microsoft /markitdown](https://github.com/microsoft/markitdown)
+- [mksglu /context-mode](https://github.com/mksglu/context-mode)
+- [jo-inc /camofox-browser](https://github.com/jo-inc/camofox-browser)
+- [MoonTechLab /LunaTV](https://github.com/MoonTechLab/LunaTV)
+- [affaan-m /ECC](https://github.com/affaan-m/ECC)
+- [coreyhaines31 /marketingskills](https://github.com/coreyhaines31/marketingskills)
+- [The-Swarm-Corporation /AutoHedge](https://github.com/The-Swarm-Corporation/AutoHedge)
+- [BraveOPotato /FckSignups](https://github.com/BraveOPotato/FckSignups)
+- [bytedance /deer-flow](https://github.com/bytedance/deer-flow)
+
+
+
 - [affaan-m /ECC](https://github.com/affaan-m/ECC)
 - [mattpocock /skills](https://github.com/mattpocock/skills)
 - [cathrynlavery /diagram-design](https://github.com/cathrynlavery/diagram-design)
