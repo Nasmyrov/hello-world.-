@@ -1,6 +1,19 @@
 
 
 - [ayghri /i-have-adhd](https://github.com/ayghri/i-have-adhd)
+- [Tencent /teamai-cli](https://github.com/Tencent/teamai-cli)
+- [obra /superpowers](https://github.com/obra/superpowers)
+- [pascalorg /editor](https://github.com/pascalorg/editor)
+- [earthtojake /text-to-cad](https://github.com/earthtojake/text-to-cad)
+- [cathrynlavery /diagram-design](https://github.com/cathrynlavery/diagram-design)
+- [TauricResearch /TradingAgents](https://github.com/TauricResearch/TradingAgents)
+- [liquidslr /system-design-notes](https://github.com/liquidslr/system-design-notes)
+- [openai /plugins](https://github.com/openai/plugins)
+- [freestylefly /awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
+
+
+
+- [ayghri /i-have-adhd](https://github.com/ayghri/i-have-adhd)
 - [cathrynlavery /diagram-design](https://github.com/cathrynlavery/diagram-design)
 - [openai /skills](https://github.com/openai/skills)
 - [affaan-m /ECC](https://github.com/affaan-m/ECC)
