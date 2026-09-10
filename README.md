@@ -40,6 +40,19 @@
 
 
 - [ayghri /i-have-adhd](https://github.com/ayghri/i-have-adhd)
+- [bilawalsidhu /gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)
+- [obra /superpowers](https://github.com/obra/superpowers)
+- [alsk1992 /CloddsBot](https://github.com/alsk1992/CloddsBot)
+- [Tencent /teamai-cli](https://github.com/Tencent/teamai-cli)
+- [AlexsJones /llmfit](https://github.com/AlexsJones/llmfit)
+- [liquidslr /system-design-notes](https://github.com/liquidslr/system-design-notes)
+- [cathrynlavery /diagram-design](https://github.com/cathrynlavery/diagram-design)
+- [freestylefly /awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
+- [armory3d /armorpaint](https://github.com/armory3d/armorpaint)
+
+
+
+- [ayghri /i-have-adhd](https://github.com/ayghri/i-have-adhd)
 - [Tencent /teamai-cli](https://github.com/Tencent/teamai-cli)
 - [obra /superpowers](https://github.com/obra/superpowers)
 - [pascalorg /editor](https://github.com/pascalorg/editor)
