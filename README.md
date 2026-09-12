@@ -26,6 +26,19 @@
 
 
 
+- [bilawalsidhu /gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)
+- [melgarafael /DeskcommCRM](https://github.com/melgarafael/DeskcommCRM)
+- [asgeirtj /system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
+- [nab138 /iloader](https://github.com/nab138/iloader)
+- [Flowseal /zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube)
+- [jihe520 /MathModelAgent](https://github.com/jihe520/MathModelAgent)
+- [Sonarr /Sonarr](https://github.com/Sonarr/Sonarr)
+- [alsk1992 /CloddsBot](https://github.com/alsk1992/CloddsBot)
+- [yuliskov /SmartTube](https://github.com/yuliskov/SmartTube)
+- [Shubhamsaboo /awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
+
+
+
 - [ayghri /i-have-adhd](https://github.com/ayghri/i-have-adhd)
 - [bilawalsidhu /gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)
 - [nab138 /iloader](https://github.com/nab138/iloader)
