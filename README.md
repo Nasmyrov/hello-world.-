@@ -54,6 +54,19 @@
 
 - [ayghri /i-have-adhd](https://github.com/ayghri/i-have-adhd)
 - [bilawalsidhu /gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)
+- [nab138 /iloader](https://github.com/nab138/iloader)
+- [melgarafael /DeskcommCRM](https://github.com/melgarafael/DeskcommCRM)
+- [vastsa /PI-Desktop](https://github.com/vastsa/PI-Desktop)
+- [armory3d /armorpaint](https://github.com/armory3d/armorpaint)
+- [alsk1992 /CloddsBot](https://github.com/alsk1992/CloddsBot)
+- [nashsu /llm_wiki](https://github.com/nashsu/llm_wiki)
+- [obra /superpowers](https://github.com/obra/superpowers)
+- [Sonarr /Sonarr](https://github.com/Sonarr/Sonarr)
+
+
+
+- [ayghri /i-have-adhd](https://github.com/ayghri/i-have-adhd)
+- [bilawalsidhu /gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)
 - [obra /superpowers](https://github.com/obra/superpowers)
 - [alsk1992 /CloddsBot](https://github.com/alsk1992/CloddsBot)
 - [Tencent /teamai-cli](https://github.com/Tencent/teamai-cli)
