@@ -65,6 +65,19 @@
 
 
 
+- [JustVugg /colibri](https://github.com/JustVugg/colibri)
+- [ever-co /ever-gauzy](https://github.com/ever-co/ever-gauzy)
+- [bilawalsidhu /gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)
+- [tech-leads-club /agent-skills](https://github.com/tech-leads-club/agent-skills)
+- [melgarafael /DeskcommCRM](https://github.com/melgarafael/DeskcommCRM)
+- [calesthio /OpenMontage](https://github.com/calesthio/OpenMontage)
+- [asgeirtj /system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
+- [vxcontrol /pentagi](https://github.com/vxcontrol/pentagi)
+- [multimodal-art-projection /YuE](https://github.com/multimodal-art-projection/YuE)
+- [yuliskov /SmartTube](https://github.com/yuliskov/SmartTube)
+
+
+
 - [bilawalsidhu /gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)
 - [melgarafael /DeskcommCRM](https://github.com/melgarafael/DeskcommCRM)
 - [asgeirtj /system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
