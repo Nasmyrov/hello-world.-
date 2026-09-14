@@ -14,6 +14,19 @@
 
 
 - [JustVugg /colibri](https://github.com/JustVugg/colibri)
+- [alibaba /open-code-review](https://github.com/alibaba/open-code-review)
+- [multimodal-art-projection /YuE](https://github.com/multimodal-art-projection/YuE)
+- [debpalash /VoiceStudio](https://github.com/debpalash/VoiceStudio)
+- [666ghj /MiroFish](https://github.com/666ghj/MiroFish)
+- [Panniantong /Agent-Reach](https://github.com/Panniantong/Agent-Reach)
+- [asgeirtj /system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
+- [rlaope /oh-my-hermes](https://github.com/rlaope/oh-my-hermes)
+- [localsend /localsend](https://github.com/localsend/localsend)
+- [dani-garcia /vaultwarden](https://github.com/dani-garcia/vaultwarden)
+
+
+
+- [JustVugg /colibri](https://github.com/JustVugg/colibri)
 - [ever-co /ever-gauzy](https://github.com/ever-co/ever-gauzy)
 - [bilawalsidhu /gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)
 - [tech-leads-club /agent-skills](https://github.com/tech-leads-club/agent-skills)
