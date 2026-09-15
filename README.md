@@ -26,6 +26,19 @@
 
 
 
+- [alibaba /open-code-review](https://github.com/alibaba/open-code-review)
+- [JustVugg /colibri](https://github.com/JustVugg/colibri)
+- [ever-co /ever-gauzy](https://github.com/ever-co/ever-gauzy)
+- [debpalash /VoiceStudio](https://github.com/debpalash/VoiceStudio)
+- [Homebrew /BrewUI](https://github.com/Homebrew/BrewUI)
+- [melgarafael /DeskcommCRM](https://github.com/melgarafael/DeskcommCRM)
+- [alphaXiv /OpenResearch](https://github.com/alphaXiv/OpenResearch)
+- [NationalSecurityAgency /ghidra](https://github.com/NationalSecurityAgency/ghidra)
+- [danny-avila /LibreChat](https://github.com/danny-avila/LibreChat)
+- [pacifio /atlas](https://github.com/pacifio/atlas)
+
+
+
 - [JustVugg /colibri](https://github.com/JustVugg/colibri)
 - [alibaba /open-code-review](https://github.com/alibaba/open-code-review)
 - [multimodal-art-projection /YuE](https://github.com/multimodal-art-projection/YuE)
