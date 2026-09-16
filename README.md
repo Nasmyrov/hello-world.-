@@ -14,6 +14,19 @@
 
 
 - [alibaba /open-code-review](https://github.com/alibaba/open-code-review)
+- [cloudflare /security-audit-skill](https://github.com/cloudflare/security-audit-skill)
+- [JustVugg /colibri](https://github.com/JustVugg/colibri)
+- [abue-ammar /tinycast](https://github.com/abue-ammar/tinycast)
+- [jamiepine /voicebox](https://github.com/jamiepine/voicebox)
+- [Lakr233 /vphone-cli](https://github.com/Lakr233/vphone-cli)
+- [anthropics /knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)
+- [ever-co /ever-gauzy](https://github.com/ever-co/ever-gauzy)
+- [ankitects /anki](https://github.com/ankitects/anki)
+- [NationalSecurityAgency /ghidra](https://github.com/NationalSecurityAgency/ghidra)
+
+
+
+- [alibaba /open-code-review](https://github.com/alibaba/open-code-review)
 - [JustVugg /colibri](https://github.com/JustVugg/colibri)
 - [ever-co /ever-gauzy](https://github.com/ever-co/ever-gauzy)
 - [debpalash /VoiceStudio](https://github.com/debpalash/VoiceStudio)
