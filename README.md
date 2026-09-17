@@ -41,6 +41,19 @@
 
 - [alibaba /open-code-review](https://github.com/alibaba/open-code-review)
 - [cloudflare /security-audit-skill](https://github.com/cloudflare/security-audit-skill)
+- [addyosmani /agent-skills](https://github.com/addyosmani/agent-skills)
+- [Tencent /BrowserSkill](https://github.com/Tencent/BrowserSkill)
+- [alphaXiv /OpenResearch](https://github.com/alphaXiv/OpenResearch)
+- [anthropics /claude-code](https://github.com/anthropics/claude-code)
+- [NationalSecurityAgency /ghidra](https://github.com/NationalSecurityAgency/ghidra)
+- [anthropics /knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)
+- [Tencent /WeKnora](https://github.com/Tencent/WeKnora)
+- [abue-ammar /tinycast](https://github.com/abue-ammar/tinycast)
+
+
+
+- [alibaba /open-code-review](https://github.com/alibaba/open-code-review)
+- [cloudflare /security-audit-skill](https://github.com/cloudflare/security-audit-skill)
 - [JustVugg /colibri](https://github.com/JustVugg/colibri)
 - [abue-ammar /tinycast](https://github.com/abue-ammar/tinycast)
 - [jamiepine /voicebox](https://github.com/jamiepine/voicebox)
