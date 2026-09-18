@@ -13,6 +13,19 @@
 
 
 
+- [cloudflare /security-audit-skill](https://github.com/cloudflare/security-audit-skill)
+- [anthropics /claude-code](https://github.com/anthropics/claude-code)
+- [alibaba /open-code-review](https://github.com/alibaba/open-code-review)
+- [affaan-m /ECC](https://github.com/affaan-m/ECC)
+- [Tencent /BrowserSkill](https://github.com/Tencent/BrowserSkill)
+- [addyosmani /agent-skills](https://github.com/addyosmani/agent-skills)
+- [TencentCloud /Octop](https://github.com/TencentCloud/Octop)
+- [Fission-AI /OpenSpec](https://github.com/Fission-AI/OpenSpec)
+- [ankitects /anki](https://github.com/ankitects/anki)
+- [anthropics /knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)
+
+
+
 - [alibaba /open-code-review](https://github.com/alibaba/open-code-review)
 - [cloudflare /security-audit-skill](https://github.com/cloudflare/security-audit-skill)
 - [addyosmani /agent-skills](https://github.com/addyosmani/agent-skills)
