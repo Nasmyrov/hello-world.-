@@ -53,6 +53,19 @@
 
 
 - [cloudflare /security-audit-skill](https://github.com/cloudflare/security-audit-skill)
+- [trycua /cua](https://github.com/trycua/cua)
+- [addyosmani /agent-skills](https://github.com/addyosmani/agent-skills)
+- [coder /coder](https://github.com/coder/coder)
+- [anthropics /claude-code](https://github.com/anthropics/claude-code)
+- [Open-Dev-Society /OpenStock](https://github.com/Open-Dev-Society/OpenStock)
+- [higgsfield-ai /higgsfield](https://github.com/higgsfield-ai/higgsfield)
+- [docling-project /docling](https://github.com/docling-project/docling)
+- [cloudflare /quiche](https://github.com/cloudflare/quiche)
+- [asciimoo /hister](https://github.com/asciimoo/hister)
+
+
+
+- [cloudflare /security-audit-skill](https://github.com/cloudflare/security-audit-skill)
 - [anthropics /claude-code](https://github.com/anthropics/claude-code)
 - [alibaba /open-code-review](https://github.com/alibaba/open-code-review)
 - [affaan-m /ECC](https://github.com/affaan-m/ECC)
