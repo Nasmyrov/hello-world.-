@@ -1,5 +1,18 @@
 
 
+- [BuilderIO /agent-native](https://github.com/BuilderIO/agent-native)
+- [trycua /cua](https://github.com/trycua/cua)
+- [Open-Dev-Society /OpenStock](https://github.com/Open-Dev-Society/OpenStock)
+- [akitaonrails /ai-memory](https://github.com/akitaonrails/ai-memory)
+- [coder /coder](https://github.com/coder/coder)
+- [anthropics /financial-services](https://github.com/anthropics/financial-services)
+- [cloudflare /quiche](https://github.com/cloudflare/quiche)
+- [mvt-project /mvt](https://github.com/mvt-project/mvt)
+- [zhouxiaoka /autoclip](https://github.com/zhouxiaoka/autoclip)
+- [ruanyf /weekly](https://github.com/ruanyf/weekly)
+
+
+
 - [affaan-m /ECC](https://github.com/affaan-m/ECC)
 - [BuilderIO /agent-native](https://github.com/BuilderIO/agent-native)
 - [cloudflare /security-audit-skill](https://github.com/cloudflare/security-audit-skill)
