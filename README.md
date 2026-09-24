@@ -53,6 +53,19 @@
 
 
 - [anthropics /financial-services](https://github.com/anthropics/financial-services)
+- [google /ax](https://github.com/google/ax)
+- [davila7 /claude-code-templates](https://github.com/davila7/claude-code-templates)
+- [BuilderIO /agent-native](https://github.com/BuilderIO/agent-native)
+- [obra /superpowers](https://github.com/obra/superpowers)
+- [dream-num /univer](https://github.com/dream-num/univer)
+- [Open-Dev-Society /OpenStock](https://github.com/Open-Dev-Society/OpenStock)
+- [agent-substrate /substrate](https://github.com/agent-substrate/substrate)
+- [strands-agents /harness-sdk](https://github.com/strands-agents/harness-sdk)
+- [HKUDS /CLI-Anything](https://github.com/HKUDS/CLI-Anything)
+
+
+
+- [anthropics /financial-services](https://github.com/anthropics/financial-services)
 - [agent-substrate /substrate](https://github.com/agent-substrate/substrate)
 - [dream-num /univer](https://github.com/dream-num/univer)
 - [davila7 /claude-code-templates](https://github.com/davila7/claude-code-templates)
