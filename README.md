@@ -1,5 +1,18 @@
 
 
+- [rohitg00 /ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
+- [vectorize-io /hindsight](https://github.com/vectorize-io/hindsight)
+- [dream-num /univer](https://github.com/dream-num/univer)
+- [google /ax](https://github.com/google/ax)
+- [NVIDIA /Model-Optimizer](https://github.com/NVIDIA/Model-Optimizer)
+- [FxEmbed /FxEmbed](https://github.com/FxEmbed/FxEmbed)
+- [anthropics /financial-services](https://github.com/anthropics/financial-services)
+- [HKUDS /CLI-Anything](https://github.com/HKUDS/CLI-Anything)
+- [mvt-project /mvt](https://github.com/mvt-project/mvt)
+- [obra /superpowers](https://github.com/obra/superpowers)
+
+
+
 - [anthropics /financial-services](https://github.com/anthropics/financial-services)
 - [google /ax](https://github.com/google/ax)
 - [davila7 /claude-code-templates](https://github.com/davila7/claude-code-templates)
