@@ -52,6 +52,19 @@
 
 
 
+- [paperclipai /paperclip](https://github.com/paperclipai/paperclip)
+- [anthropics /claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
+- [vectorize-io /hindsight](https://github.com/vectorize-io/hindsight)
+- [obra /superpowers](https://github.com/obra/superpowers)
+- [mattpocock /skills](https://github.com/mattpocock/skills)
+- [dream-num /univer](https://github.com/dream-num/univer)
+- [anthropics /skills](https://github.com/anthropics/skills)
+- [androoAGI /starnet](https://github.com/androoAGI/starnet)
+- [derv82 /wifit3](https://github.com/derv82/wifit3)
+- [kelseyhightower /kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
+
+
+
 - [rohitg00 /ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
 - [vectorize-io /hindsight](https://github.com/vectorize-io/hindsight)
 - [dream-num /univer](https://github.com/dream-num/univer)
