@@ -1,6 +1,19 @@
 
 
 - [paperclipai /paperclip](https://github.com/paperclipai/paperclip)
+- [vectorize-io /hindsight](https://github.com/vectorize-io/hindsight)
+- [NVIDIA /Model-Optimizer](https://github.com/NVIDIA/Model-Optimizer)
+- [dream-num /univer](https://github.com/dream-num/univer)
+- [tensorflow /tensorflow](https://github.com/tensorflow/tensorflow)
+- [rohitg00 /ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
+- [openbao /openbao](https://github.com/openbao/openbao)
+- [block /buzz](https://github.com/block/buzz)
+- [microsoft /vscode](https://github.com/microsoft/vscode)
+- [zhaoxuya520 /reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
+
+
+
+- [paperclipai /paperclip](https://github.com/paperclipai/paperclip)
 - [anthropics /claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
 - [vectorize-io /hindsight](https://github.com/vectorize-io/hindsight)
 - [obra /superpowers](https://github.com/obra/superpowers)
