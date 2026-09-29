@@ -1,6 +1,19 @@
 
 
 - [debpalash /VoiceStudio](https://github.com/debpalash/VoiceStudio)
+- [NVIDIA /OpenShell](https://github.com/NVIDIA/OpenShell)
+- [vectorize-io /hindsight](https://github.com/vectorize-io/hindsight)
+- [paperclipai /paperclip](https://github.com/paperclipai/paperclip)
+- [t8y2 /dbx](https://github.com/t8y2/dbx)
+- [mvschwarz /openrig](https://github.com/mvschwarz/openrig)
+- [oblien /openship](https://github.com/oblien/openship)
+- [averygan /reclip](https://github.com/averygan/reclip)
+- [cs341-illinois /coursebook](https://github.com/cs341-illinois/coursebook)
+- [rohitg00 /ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
+
+
+
+- [debpalash /VoiceStudio](https://github.com/debpalash/VoiceStudio)
 - [paperclipai /paperclip](https://github.com/paperclipai/paperclip)
 - [vectorize-io /hindsight](https://github.com/vectorize-io/hindsight)
 - [NawfalMotii79 /PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR)
