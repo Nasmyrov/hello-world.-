@@ -22,6 +22,17 @@
 
 
 
+- [debpalash /VoiceStudio](https://github.com/debpalash/VoiceStudio)
+- [paperclipai /paperclip](https://github.com/paperclipai/paperclip)
+- [vectorize-io /hindsight](https://github.com/vectorize-io/hindsight)
+- [NawfalMotii79 /PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR)
+- [cs341-illinois /coursebook](https://github.com/cs341-illinois/coursebook)
+- [byoungd /up](https://github.com/byoungd/up)
+- [mvschwarz /openrig](https://github.com/mvschwarz/openrig)
+- [dream-num /univer](https://github.com/dream-num/univer)
+
+
+
 - [paperclipai /paperclip](https://github.com/paperclipai/paperclip)
 - [vectorize-io /hindsight](https://github.com/vectorize-io/hindsight)
 - [debpalash /VoiceStudio](https://github.com/debpalash/VoiceStudio)
