@@ -1,5 +1,18 @@
 
 
+- [NVIDIA /OpenShell](https://github.com/NVIDIA/OpenShell)
+- [debpalash /VoiceStudio](https://github.com/debpalash/VoiceStudio)
+- [mvschwarz /openrig](https://github.com/mvschwarz/openrig)
+- [mksglu /context-mode](https://github.com/mksglu/context-mode)
+- [DietrichGebert /ponytail](https://github.com/DietrichGebert/ponytail)
+- [harry0703 /MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
+- [openclaw /openclaw](https://github.com/openclaw/openclaw)
+- [ComposioHQ /awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)
+- [mattpocock /skills](https://github.com/mattpocock/skills)
+- [heygen-com /hyperframes](https://github.com/heygen-com/hyperframes)
+
+
+
 - [debpalash /VoiceStudio](https://github.com/debpalash/VoiceStudio)
 - [NVIDIA /OpenShell](https://github.com/NVIDIA/OpenShell)
 - [vectorize-io /hindsight](https://github.com/vectorize-io/hindsight)
