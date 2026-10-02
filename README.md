@@ -26,6 +26,19 @@
 
 
 
+- [DietrichGebert /ponytail](https://github.com/DietrichGebert/ponytail)
+- [mattpocock /skills](https://github.com/mattpocock/skills)
+- [NVIDIA /OpenShell](https://github.com/NVIDIA/OpenShell)
+- [firebase /firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk)
+- [mvschwarz /openrig](https://github.com/mvschwarz/openrig)
+- [cursor /plugins](https://github.com/cursor/plugins)
+- [obra /superpowers](https://github.com/obra/superpowers)
+- [mksglu /context-mode](https://github.com/mksglu/context-mode)
+- [heygen-com /hyperframes](https://github.com/heygen-com/hyperframes)
+- [earendil-works /pi](https://github.com/earendil-works/pi)
+
+
+
 - [NVIDIA /OpenShell](https://github.com/NVIDIA/OpenShell)
 - [debpalash /VoiceStudio](https://github.com/debpalash/VoiceStudio)
 - [mvschwarz /openrig](https://github.com/mvschwarz/openrig)
