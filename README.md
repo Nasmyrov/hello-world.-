@@ -39,6 +39,19 @@
 
 
 
+- [DietrichGebert /ponytail](https://github.com/DietrichGebert/ponytail)
+- [pbakaus /impeccable](https://github.com/pbakaus/impeccable)
+- [affaan-m /ECC](https://github.com/affaan-m/ECC)
+- [Effect-TS /effect](https://github.com/Effect-TS/effect)
+- [JuliusBrussee /caveman](https://github.com/JuliusBrussee/caveman)
+- [Panniantong /Agent-Reach](https://github.com/Panniantong/Agent-Reach)
+- [pingdotgg /t3code](https://github.com/pingdotgg/t3code)
+- [thedotmack /claude-mem](https://github.com/thedotmack/claude-mem)
+- [cloudflare /cloudflare-os](https://github.com/cloudflare/cloudflare-os)
+- [addyosmani /agent-skills](https://github.com/addyosmani/agent-skills)
+
+
+
 - [Panniantong /Agent-Reach](https://github.com/Panniantong/Agent-Reach)
 - [JuliusBrussee /caveman](https://github.com/JuliusBrussee/caveman)
 - [obra /superpowers](https://github.com/obra/superpowers)
