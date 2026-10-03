@@ -26,6 +26,19 @@
 
 
 
+- [Panniantong /Agent-Reach](https://github.com/Panniantong/Agent-Reach)
+- [JuliusBrussee /caveman](https://github.com/JuliusBrussee/caveman)
+- [obra /superpowers](https://github.com/obra/superpowers)
+- [DietrichGebert /ponytail](https://github.com/DietrichGebert/ponytail)
+- [pbakaus /impeccable](https://github.com/pbakaus/impeccable)
+- [mattpocock /skills](https://github.com/mattpocock/skills)
+- [NVIDIA /OpenShell](https://github.com/NVIDIA/OpenShell)
+- [coreyhaines31 /marketingskills](https://github.com/coreyhaines31/marketingskills)
+- [heygen-com /hyperframes](https://github.com/heygen-com/hyperframes)
+- [mksglu /context-mode](https://github.com/mksglu/context-mode)
+
+
+
 - [DietrichGebert /ponytail](https://github.com/DietrichGebert/ponytail)
 - [mattpocock /skills](https://github.com/mattpocock/skills)
 - [NVIDIA /OpenShell](https://github.com/NVIDIA/OpenShell)
