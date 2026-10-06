@@ -14,6 +14,19 @@
 
 
 - [tester-army /e2e](https://github.com/tester-army/e2e)
+- [mattpocock /skills](https://github.com/mattpocock/skills)
+- [earthtojake /text-to-cad](https://github.com/earthtojake/text-to-cad)
+- [boykopovar /AnyPS5](https://github.com/boykopovar/AnyPS5)
+- [pbakaus /impeccable](https://github.com/pbakaus/impeccable)
+- [thedotmack /claude-mem](https://github.com/thedotmack/claude-mem)
+- [ayghri /i-have-adhd](https://github.com/ayghri/i-have-adhd)
+- [morluto /rea](https://github.com/morluto/rea)
+- [deepseek-ai /DeepGEMM](https://github.com/deepseek-ai/DeepGEMM)
+- [msitarzewski /agency-agents](https://github.com/msitarzewski/agency-agents)
+
+
+
+- [tester-army /e2e](https://github.com/tester-army/e2e)
 - [thedotmack /claude-mem](https://github.com/thedotmack/claude-mem)
 - [earthtojake /text-to-cad](https://github.com/earthtojake/text-to-cad)
 - [pingdotgg /t3code](https://github.com/pingdotgg/t3code)
