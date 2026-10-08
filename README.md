@@ -1,5 +1,17 @@
 
 
+- [boykopovar /AnyPS5](https://github.com/boykopovar/AnyPS5)
+- [cathrynlavery /diagram-design](https://github.com/cathrynlavery/diagram-design)
+- [morluto /rea](https://github.com/morluto/rea)
+- [mattpocock /skills](https://github.com/mattpocock/skills)
+- [thedotmack /claude-mem](https://github.com/thedotmack/claude-mem)
+- [EpicGames /raddebugger](https://github.com/EpicGames/raddebugger)
+- [anthropics /knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)
+- [storytold /artcraft](https://github.com/storytold/artcraft)
+- [liquidslr /system-design-notes](https://github.com/liquidslr/system-design-notes)
+
+
+
 - [morluto /rea](https://github.com/morluto/rea)
 - [mattpocock /skills](https://github.com/mattpocock/skills)
 - [boykopovar /AnyPS5](https://github.com/boykopovar/AnyPS5)
