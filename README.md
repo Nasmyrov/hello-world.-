@@ -39,6 +39,19 @@
 
 
 
+- [morluto /rea](https://github.com/morluto/rea)
+- [mattpocock /skills](https://github.com/mattpocock/skills)
+- [boykopovar /AnyPS5](https://github.com/boykopovar/AnyPS5)
+- [ayghri /i-have-adhd](https://github.com/ayghri/i-have-adhd)
+- [cathrynlavery /diagram-design](https://github.com/cathrynlavery/diagram-design)
+- [addyosmani /agent-skills](https://github.com/addyosmani/agent-skills)
+- [EpicGames /raddebugger](https://github.com/EpicGames/raddebugger)
+- [thedotmack /claude-mem](https://github.com/thedotmack/claude-mem)
+- [manaflow-ai /cmux](https://github.com/manaflow-ai/cmux)
+- [trycua /cua](https://github.com/trycua/cua)
+
+
+
 - [tester-army /e2e](https://github.com/tester-army/e2e)
 - [mattpocock /skills](https://github.com/mattpocock/skills)
 - [earthtojake /text-to-cad](https://github.com/earthtojake/text-to-cad)
