@@ -2,6 +2,19 @@
 
 - [morluto /rea](https://github.com/morluto/rea)
 - [boykopovar /AnyPS5](https://github.com/boykopovar/AnyPS5)
+- [storytold /artcraft](https://github.com/storytold/artcraft)
+- [cathrynlavery /diagram-design](https://github.com/cathrynlavery/diagram-design)
+- [mksglu /context-mode](https://github.com/mksglu/context-mode)
+- [mattpocock /skills](https://github.com/mattpocock/skills)
+- [flutter /flutter](https://github.com/flutter/flutter)
+- [tensorflow /tensorflow](https://github.com/tensorflow/tensorflow)
+- [hugohe3 /ppt-master](https://github.com/hugohe3/ppt-master)
+- [pytorch /pytorch](https://github.com/pytorch/pytorch)
+
+
+
+- [morluto /rea](https://github.com/morluto/rea)
+- [boykopovar /AnyPS5](https://github.com/boykopovar/AnyPS5)
 - [mattpocock /skills](https://github.com/mattpocock/skills)
 - [cathrynlavery /diagram-design](https://github.com/cathrynlavery/diagram-design)
 - [alibaba /open-code-review](https://github.com/alibaba/open-code-review)
