@@ -1,6 +1,19 @@
 
 
 - [MadsLorentzen /ai-job-search](https://github.com/MadsLorentzen/ai-job-search)
+- [cloudflare /security-audit-skill](https://github.com/cloudflare/security-audit-skill)
+- [stablyai /orca](https://github.com/stablyai/orca)
+- [DietrichGebert /ponytail](https://github.com/DietrichGebert/ponytail)
+- [Comfy-Org /ComfyUI](https://github.com/Comfy-Org/ComfyUI)
+- [ruvnet /ruflo](https://github.com/ruvnet/ruflo)
+- [Graphify-Labs /graphify](https://github.com/Graphify-Labs/graphify)
+- [YuJunZhiXue /dsh-purge](https://github.com/YuJunZhiXue/dsh-purge)
+- [anomalyco /opencode](https://github.com/anomalyco/opencode)
+- [msitarzewski /agency-agents](https://github.com/msitarzewski/agency-agents)
+
+
+
+- [MadsLorentzen /ai-job-search](https://github.com/MadsLorentzen/ai-job-search)
 - [anomalyco /opencode](https://github.com/anomalyco/opencode)
 - [akitaonrails /ai-memory](https://github.com/akitaonrails/ai-memory)
 - [Comfy-Org /ComfyUI](https://github.com/Comfy-Org/ComfyUI)
