@@ -53,6 +53,19 @@
 
 
 - [MadsLorentzen /ai-job-search](https://github.com/MadsLorentzen/ai-job-search)
+- [anomalyco /opencode](https://github.com/anomalyco/opencode)
+- [akitaonrails /ai-memory](https://github.com/akitaonrails/ai-memory)
+- [Comfy-Org /ComfyUI](https://github.com/Comfy-Org/ComfyUI)
+- [ruvnet /ruflo](https://github.com/ruvnet/ruflo)
+- [stablyai /orca](https://github.com/stablyai/orca)
+- [headroomlabs-ai /headroom](https://github.com/headroomlabs-ai/headroom)
+- [withmarbleapp /os-taxonomy](https://github.com/withmarbleapp/os-taxonomy)
+- [Kruk2 /jasna](https://github.com/Kruk2/jasna)
+- [HKUDS /CLI-Anything](https://github.com/HKUDS/CLI-Anything)
+
+
+
+- [MadsLorentzen /ai-job-search](https://github.com/MadsLorentzen/ai-job-search)
 - [anthropics /claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
 - [anomalyco /opencode](https://github.com/anomalyco/opencode)
 - [cursor /plugins](https://github.com/cursor/plugins)
