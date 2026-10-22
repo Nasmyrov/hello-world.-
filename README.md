@@ -39,6 +39,19 @@
 
 
 
+- [cloudflare /security-audit-skill](https://github.com/cloudflare/security-audit-skill)
+- [vllm-project /vllm](https://github.com/vllm-project/vllm)
+- [stablyai /orca](https://github.com/stablyai/orca)
+- [headroomlabs-ai /headroom](https://github.com/headroomlabs-ai/headroom)
+- [DietrichGebert /ponytail](https://github.com/DietrichGebert/ponytail)
+- [Comfy-Org /ComfyUI](https://github.com/Comfy-Org/ComfyUI)
+- [supabase /supabase](https://github.com/supabase/supabase)
+- [twentyhq /twenty](https://github.com/twentyhq/twenty)
+- [shiyu-coder /Kronos](https://github.com/shiyu-coder/Kronos)
+- [strelov1 /freehire](https://github.com/strelov1/freehire)
+
+
+
 - [MadsLorentzen /ai-job-search](https://github.com/MadsLorentzen/ai-job-search)
 - [cloudflare /security-audit-skill](https://github.com/cloudflare/security-audit-skill)
 - [vllm-project /vllm](https://github.com/vllm-project/vllm)
