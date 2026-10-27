@@ -39,6 +39,19 @@
 
 
 
+- [Nutlope /hallmark](https://github.com/Nutlope/hallmark)
+- [TauricResearch /TradingAgents](https://github.com/TauricResearch/TradingAgents)
+- [JetBrains /thinkrail](https://github.com/JetBrains/thinkrail)
+- [makecindy /cindy](https://github.com/makecindy/cindy)
+- [affaan-m /ECC](https://github.com/affaan-m/ECC)
+- [pbakaus /impeccable](https://github.com/pbakaus/impeccable)
+- [NVIDIA /SkillSpector](https://github.com/NVIDIA/SkillSpector)
+- [pollen-robotics /microduck](https://github.com/pollen-robotics/microduck)
+- [nightly-labs /openbot](https://github.com/nightly-labs/openbot)
+- [Panniantong /Agent-Reach](https://github.com/Panniantong/Agent-Reach)
+
+
+
 - [makecindy /cindy](https://github.com/makecindy/cindy)
 - [Nutlope /hallmark](https://github.com/Nutlope/hallmark)
 - [debpalash /VoiceStudio](https://github.com/debpalash/VoiceStudio)
