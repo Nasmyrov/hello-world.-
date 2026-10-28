@@ -13,6 +13,19 @@
 
 
 
+- [JetBrains /thinkrail](https://github.com/JetBrains/thinkrail)
+- [elayadesign /ai-design-skills](https://github.com/elayadesign/ai-design-skills)
+- [obra /superpowers](https://github.com/obra/superpowers)
+- [HKUDS /DeepTutor](https://github.com/HKUDS/DeepTutor)
+- [macro-inc /macro](https://github.com/macro-inc/macro)
+- [Nutlope /hallmark](https://github.com/Nutlope/hallmark)
+- [pbakaus /impeccable](https://github.com/pbakaus/impeccable)
+- [makecindy /cindy](https://github.com/makecindy/cindy)
+- [nightly-labs /openbot](https://github.com/nightly-labs/openbot)
+- [togg53192-cmd /jailbreaks](https://github.com/togg53192-cmd/jailbreaks)
+
+
+
 - [elayadesign /ai-design-skills](https://github.com/elayadesign/ai-design-skills)
 - [Nutlope /hallmark](https://github.com/Nutlope/hallmark)
 - [nightly-labs /openbot](https://github.com/nightly-labs/openbot)
