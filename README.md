@@ -1,5 +1,18 @@
 
 
+- [HKUDS /DeepTutor](https://github.com/HKUDS/DeepTutor)
+- [obra /superpowers](https://github.com/obra/superpowers)
+- [pbakaus /impeccable](https://github.com/pbakaus/impeccable)
+- [JetBrains /thinkrail](https://github.com/JetBrains/thinkrail)
+- [milind-soni /OpenMausBot](https://github.com/milind-soni/OpenMausBot)
+- [nightly-labs /openbot](https://github.com/nightly-labs/openbot)
+- [elayadesign /ai-design-skills](https://github.com/elayadesign/ai-design-skills)
+- [thedotmack /claude-mem](https://github.com/thedotmack/claude-mem)
+- [CopilotKit /OpenBot](https://github.com/CopilotKit/OpenBot)
+- [togg53192-cmd /jailbreaks](https://github.com/togg53192-cmd/jailbreaks)
+
+
+
 - [JetBrains /thinkrail](https://github.com/JetBrains/thinkrail)
 - [elayadesign /ai-design-skills](https://github.com/elayadesign/ai-design-skills)
 - [obra /superpowers](https://github.com/obra/superpowers)
