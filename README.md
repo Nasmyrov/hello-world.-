@@ -14,6 +14,19 @@
 
 
 - [thedotmack /claude-mem](https://github.com/thedotmack/claude-mem)
+- [lightpanda-io /browser](https://github.com/lightpanda-io/browser)
+- [shiyu-coder /Kronos](https://github.com/shiyu-coder/Kronos)
+- [pingdotgg /t3code](https://github.com/pingdotgg/t3code)
+- [milind-soni /OpenMausBot](https://github.com/milind-soni/OpenMausBot)
+- [public-apis /public-apis](https://github.com/public-apis/public-apis)
+- [cjpais /Handy](https://github.com/cjpais/Handy)
+- [Donchitos /Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios)
+- [kornia /kornia](https://github.com/kornia/kornia)
+- [beenuar /AiSOC](https://github.com/beenuar/AiSOC)
+
+
+
+- [thedotmack /claude-mem](https://github.com/thedotmack/claude-mem)
 - [mattpocock /skills](https://github.com/mattpocock/skills)
 - [Donchitos /Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios)
 - [pingdotgg /t3code](https://github.com/pingdotgg/t3code)
