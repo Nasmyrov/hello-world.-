@@ -26,6 +26,19 @@
 
 
 
+- [vercel-labs /agent-desktop](https://github.com/vercel-labs/agent-desktop)
+- [thedotmack /claude-mem](https://github.com/thedotmack/claude-mem)
+- [D4Vinci /Scrapling](https://github.com/D4Vinci/Scrapling)
+- [hyprwm /Hyprland](https://github.com/hyprwm/Hyprland)
+- [Donchitos /Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios)
+- [FlashML-org /FreeToken](https://github.com/FlashML-org/FreeToken)
+- [pingdotgg /t3code](https://github.com/pingdotgg/t3code)
+- [shiyu-coder /Kronos](https://github.com/shiyu-coder/Kronos)
+- [kornia /kornia](https://github.com/kornia/kornia)
+- [JustVugg /colibri](https://github.com/JustVugg/colibri)
+
+
+
 - [thedotmack /claude-mem](https://github.com/thedotmack/claude-mem)
 - [lightpanda-io /browser](https://github.com/lightpanda-io/browser)
 - [shiyu-coder /Kronos](https://github.com/shiyu-coder/Kronos)
