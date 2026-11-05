@@ -26,6 +26,19 @@
 
 
 
+- [NVIDIA /auto-ontology](https://github.com/NVIDIA/auto-ontology)
+- [max-sixty /worktrunk](https://github.com/max-sixty/worktrunk)
+- [mattpocock /skills](https://github.com/mattpocock/skills)
+- [floci-io /floci](https://github.com/floci-io/floci)
+- [thedotmack /claude-mem](https://github.com/thedotmack/claude-mem)
+- [vercel-labs /agent-desktop](https://github.com/vercel-labs/agent-desktop)
+- [github /spec-kit](https://github.com/github/spec-kit)
+- [The-PR-Agent /pr-agent](https://github.com/The-PR-Agent/pr-agent)
+- [harry0703 /MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
+- [garrytan /gstack](https://github.com/garrytan/gstack)
+
+
+
 - [thedotmack /claude-mem](https://github.com/thedotmack/claude-mem)
 - [vercel-labs /agent-desktop](https://github.com/vercel-labs/agent-desktop)
 - [max-sixty /worktrunk](https://github.com/max-sixty/worktrunk)
