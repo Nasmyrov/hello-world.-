@@ -14,6 +14,19 @@
 
 
 - [NVIDIA /auto-ontology](https://github.com/NVIDIA/auto-ontology)
+- [mattpocock /skills](https://github.com/mattpocock/skills)
+- [garrytan /gstack](https://github.com/garrytan/gstack)
+- [Usagi-org /ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor)
+- [D4Vinci /Scrapling](https://github.com/D4Vinci/Scrapling)
+- [vercel-labs /agent-desktop](https://github.com/vercel-labs/agent-desktop)
+- [max-sixty /worktrunk](https://github.com/max-sixty/worktrunk)
+- [lz4 /lz4](https://github.com/lz4/lz4)
+- [google /skills](https://github.com/google/skills)
+- [vercel-labs /agent-browser](https://github.com/vercel-labs/agent-browser)
+
+
+
+- [NVIDIA /auto-ontology](https://github.com/NVIDIA/auto-ontology)
 - [max-sixty /worktrunk](https://github.com/max-sixty/worktrunk)
 - [mattpocock /skills](https://github.com/mattpocock/skills)
 - [floci-io /floci](https://github.com/floci-io/floci)
