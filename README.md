@@ -1,5 +1,18 @@
 
 
+- [GoogleChrome /modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src)
+- [openai /codex-security](https://github.com/openai/codex-security)
+- [nvm-sh /nvm](https://github.com/nvm-sh/nvm)
+- [pookjw /HermesEnabler](https://github.com/pookjw/HermesEnabler)
+- [we-promise /sure](https://github.com/we-promise/sure)
+- [QwenLM /qwen-code](https://github.com/QwenLM/qwen-code)
+- [ashhart /TensorFold](https://github.com/ashhart/TensorFold)
+- [nodejs /node](https://github.com/nodejs/node)
+- [addyosmani /agent-skills](https://github.com/addyosmani/agent-skills)
+- [meta /astryx](https://github.com/meta/astryx)
+
+
+
 - [meta /astryx](https://github.com/meta/astryx)
 - [ZhuLinsen /daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)
 - [GoogleChrome /modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src)
