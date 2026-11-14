@@ -1,5 +1,18 @@
 
 
+- [backnotprop /plannotator](https://github.com/backnotprop/plannotator)
+- [GoogleChrome /modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src)
+- [tradermonty /claude-trading-skills](https://github.com/tradermonty/claude-trading-skills)
+- [ChromeDevTools /chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
+- [alibaba /open-code-review](https://github.com/alibaba/open-code-review)
+- [QwenLM /qwen-code](https://github.com/QwenLM/qwen-code)
+- [dream-num /univer](https://github.com/dream-num/univer)
+- [ag-ui-protocol /ag-ui](https://github.com/ag-ui-protocol/ag-ui)
+- [ashhart /TensorFold](https://github.com/ashhart/TensorFold)
+- [JuliusBrussee /caveman](https://github.com/JuliusBrussee/caveman)
+
+
+
 - [alibaba /open-code-review](https://github.com/alibaba/open-code-review)
 - [GoogleChrome /modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src)
 - [openai /codex-security](https://github.com/openai/codex-security)
