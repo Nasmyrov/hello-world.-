@@ -26,6 +26,19 @@
 
 
 
+- [alibaba /open-code-review](https://github.com/alibaba/open-code-review)
+- [GoogleChrome /modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src)
+- [openai /codex-security](https://github.com/openai/codex-security)
+- [ZhuLinsen /daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)
+- [we-promise /sure](https://github.com/we-promise/sure)
+- [backnotprop /plannotator](https://github.com/backnotprop/plannotator)
+- [louislam /uptime-kuma](https://github.com/louislam/uptime-kuma)
+- [block /buzz](https://github.com/block/buzz)
+- [tradermonty /claude-trading-skills](https://github.com/tradermonty/claude-trading-skills)
+- [tailscale /tailcat](https://github.com/tailscale/tailcat)
+
+
+
 - [GoogleChrome /modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src)
 - [openai /codex-security](https://github.com/openai/codex-security)
 - [nvm-sh /nvm](https://github.com/nvm-sh/nvm)
