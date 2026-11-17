@@ -4,6 +4,19 @@
 - [backnotprop /plannotator](https://github.com/backnotprop/plannotator)
 - [dream-num /univer](https://github.com/dream-num/univer)
 - [tradermonty /claude-trading-skills](https://github.com/tradermonty/claude-trading-skills)
+- [elementalsouls /Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter)
+- [getarcaneapp /arcane](https://github.com/getarcaneapp/arcane)
+- [DeanChensj /jiangshan-map](https://github.com/DeanChensj/jiangshan-map)
+- [google-labs-code /stitch-skills](https://github.com/google-labs-code/stitch-skills)
+- [mvanhorn /last30days-skill](https://github.com/mvanhorn/last30days-skill)
+- [NVIDIA /SkillEvaluator](https://github.com/NVIDIA/SkillEvaluator)
+
+
+
+- [ag-ui-protocol /ag-ui](https://github.com/ag-ui-protocol/ag-ui)
+- [backnotprop /plannotator](https://github.com/backnotprop/plannotator)
+- [dream-num /univer](https://github.com/dream-num/univer)
+- [tradermonty /claude-trading-skills](https://github.com/tradermonty/claude-trading-skills)
 - [getarcaneapp /arcane](https://github.com/getarcaneapp/arcane)
 - [DeanChensj /jiangshan-map](https://github.com/DeanChensj/jiangshan-map)
 - [google-labs-code /stitch-skills](https://github.com/google-labs-code/stitch-skills)
