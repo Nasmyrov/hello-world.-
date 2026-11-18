@@ -1,6 +1,19 @@
 
 
 - [elementalsouls /Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter)
+- [cursor /plugins](https://github.com/cursor/plugins)
+- [HKUDS /CLI-Anything](https://github.com/HKUDS/CLI-Anything)
+- [mvanhorn /last30days-skill](https://github.com/mvanhorn/last30days-skill)
+- [getarcaneapp /arcane](https://github.com/getarcaneapp/arcane)
+- [NVIDIA /SkillEvaluator](https://github.com/NVIDIA/SkillEvaluator)
+- [nvm-sh /nvm](https://github.com/nvm-sh/nvm)
+- [astral-sh /uv](https://github.com/astral-sh/uv)
+- [google-research /paper-orchestra](https://github.com/google-research/paper-orchestra)
+- [google-labs-code /stitch-skills](https://github.com/google-labs-code/stitch-skills)
+
+
+
+- [elementalsouls /Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter)
 - [mvanhorn /last30days-skill](https://github.com/mvanhorn/last30days-skill)
 - [alibaba /open-code-review](https://github.com/alibaba/open-code-review)
 - [Tencent /LoopForge](https://github.com/Tencent/LoopForge)
